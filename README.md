@@ -1,0 +1,2 @@
+# KazWordNet
+Kazakh WordNet
