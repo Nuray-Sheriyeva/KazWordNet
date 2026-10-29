@@ -1,0 +1,51 @@
+idx	synset_id	pos	lemmas_en	gloss	examples	hypernym_id	hypernym_lemmas
+48	00980038-n	n	offense|offence|offensive	the action of attacking an enemy		00955060-n	operation|military_operation
+51	01047338-n	n	revival|resurgence|revitalization|revitalisation|revivification	bringing again into activity and prominence	the revival of trade || a revival of a neglected play by Moliere || the Gothic revival in architecture	07357388-n	improvement|betterment|advance
+62	01129920-n	n	duty|responsibility|obligation	the social force that binds you to the courses of action demanded by that force; ; - John D.Rockefeller Jr	we must instill a sense of duty in our children || every right implies a responsibility; every opportunity, an obligation; every possession, a duty	01123598-n	social_control
+64	01147347-n	n	custody	holding by the police	the suspect is in custody	01146768-n	imprisonment|internment
+65	01168569-n	n	competition|contention|rivalry	the act of competing as for profit or a prize	the teams were in fierce contention for first place	01080366-n	group_action
+100	02829696-n	n	bend|curve	curved segment (of a road or river or railroad track etc.)		04164989-n	section|segment
+106	02945813-n	n	camp|refugee_camp	shelter for persons displaced by war or political oppression or for religious beliefs		04192238-n	shelter
+121	03244388-n	n	driveway|drive|private_road	a road leading up to a private house	they parked in the driveway	04096066-n	road|route
+137	03501811-n	n	head	(usually plural) the obverse side of a coin that usually bears the representation of a person's head	call heads or tails!	03840507-n	obverse
+148	03691459-n	n	loudspeaker|speaker|speaker_unit|loudspeaker_system|speaker_system	electro-acoustic transducer that converts electrical signals into sounds loud enough to be heard at a distance		03274561-n	electro-acoustic_transducer
+186	04317420-n	n	stick	an implement consisting of a length of wood	he collected dry sticks for a campfire || the kid had a candied apple on a stick	03563967-n	implement
+193	04426788-n	n	thread|yarn	a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving		03106110-n	cord
+211	04602044-n	n	workplace|work	a place where work is done	he arrived at work early today	08578706-n	geographic_point|geographical_point
+227	04869106-n	n	honor|honour	the quality of being honorable and having a good name	a man of honor	04826235-n	righteousness
+229	04893787-n	n	economy|thriftiness	frugality in the expenditure of money or resources	the Scots are famous for their economy	04893358-n	frugality|frugalness
+297	05919263-n	n	heart|bosom	the locus of feelings and intuitions	in your heart you know it is true || her story would melt your bosom	05919034-n	intuition|hunch|suspicion
+316	06399995-n	n	paragraph	one of several distinct subdivisions of a text intended to separate ideas; the beginning is usually marked by a new indented line		06362953-n	writing|written_material|piece_of_writing
+382	07203126-n	n	affirmation|assertion|statement	the act of affirming or asserting or stating something		07160883-n	speech_act
+407	07452074-n	n	wedding|wedding_ceremony|nuptials|hymeneals	the social event at which the ceremony of marriage is performed		07450842-n	ceremony|ceremonial|ceremonial_occasion|observance
+430	07929519-n	n	coffee|java	a beverage consisting of an infusion of ground coffee beans	he ordered a cup of coffee	07881800-n	beverage|drink|drinkable|potable
+554	10727256-n	n	treasurer|financial_officer	an officer charged with receiving and disbursing funds		09624980-n	money_handler|money_dealer
+561	10780632-n	n	wife|married_woman	a married woman; a man's partner in marriage		10640620-n	spouse|partner|married_person|mate|better_half
+571	11485367-n	n	sunlight|sunshine|sun	the rays of the sun	the shingles were weathered by the sun and wind	11473954-n	light|visible_light|visible_radiation
+574	11669921-n	n	flower	a plant cultivated for its blooms or blossoms		11665372-n	angiosperm|flowering_plant
+578	13125117-n	n	root	(botany) the usually underground organ that lacks buds or leaves or nodes; absorbs water and mineral salts; usually it anchors the plant to the ground		13087625-n	plant_organ
+585	13308999-n	n	tax|taxation|revenue_enhancement	charge against a citizen's person or property or activity for the support of government		13308864-n	levy
+591	13421832-n	n	budget	a sum of money allocated for a particular purpose	the laboratory runs on a budget of a million a year	13358549-n	fund|monetary_fund
+596	13729236-n	n	remainder|difference	the number that remains after subtraction; the number that when added to the subtrahend gives the minuend		13582013-n	number
+597	13778671-n	n	parking	space in which vehicles can be parked	there is plenty of parking behind the store	13777764-n	room|way|elbow_room
+600	13840719-n	n	politics|political_relation	social relations involving intrigue to gain authority or power	office politics is often counterproductive	00032823-n	social_relation
+643	14814616-n	n	coal	fossil fuel consisting of carbonized vegetable matter deposited in the Carboniferous period		14686352-n	fossil_fuel
+645	14856263-n	n	waste|waste_material|waste_matter|waste_product	any materials unused and rejected as worthless or unwanted	they collect the waste once a week || much of the waste material is carried off in the sewers	14580897-n	material|stuff
+646	14939445-n	n	fluid	continuous amorphous matter that tends to flow and to conform to the outline of its container: a liquid or a gas		00020827-n	matter
+699	00694068-v	v	respect|esteem|value|prize|prise	regard highly; think much of	I respect his judgement || We prize his creativity	00690614-v	see|consider|reckon|view|regard
+735	00905852-v	v	excuse|pardon	accept an excuse for	Please excuse my dirty hands	00903385-v	forgive
+755	01242208-v	v	snap|click|flick	cause to make a snapping sound	snap your fingers	01831531-v	move
+770	01452255-v	v	haul	transport in a vehicle	haul stones from the quarry in a truck || haul vegetables to the market	01449974-v	transport|carry
+774	01480149-v	v	capture|catch	capture as if by hunting, snaring, or trapping	I caught a rabbit in the trap today	02210855-v	get|acquire
+804	01900408-v	v	stumble|trip	miss a step and fall or nearly fall	She stumbled over the tree root	01831531-v	move
+838	02267060-v	v	spend|expend|drop	pay out	spend money	02251743-v	pay
+844	02373336-v	v	venture|embark	proceed somewhere despite the risk of possible dangers	We ventured into the world of high-tech and bought a supercomputer	02372605-v	go|proceed|move
+863	02718015-v	v	offset|countervail	compensate for or counterbalance	offset deposits and withdrawals	02673134-v	balance|equilibrate|equilibrize|equilibrise
+864	02735282-v	v	suit	be agreeable or acceptable	This time suits me	02604760-v	be
+877	00294579-s	s	faineant|indolent|lazy|otiose|slothful|work-shy	disinclined to work or exertion	faineant kings under whose rule the country languished || an indolent hanger-on || too lazy to wash the dishes || shiftless idle youth || slothful employees || the unemployed are not necessarily work-shy		
+883	00445548-a	a	distant	separated in space or coming from or going to a distance	distant villages || the sound of distant traffic || a distant sound || a distant telephone call		
+889	00553732-s	s	consentaneous|consentient|unanimous	in complete agreement	a unanimous decision		
+903	00834198-a	a	effective|effectual|efficacious	producing or capable of producing an intended result or having a striking effect; -LewisMumford	an air-cooled motor was more effective than a witch's broomstick for rapid long-distance transportation || effective teaching methods || effective steps toward peace || made an effective entrance || his complaint proved to be effectual in bringing action || an efficacious law		
+947	01689880-a	a	orthodox	adhering to what is commonly accepted	an orthodox view of the world		
+958	01927654-a	a	racial	of or characteristic of race or races or arising from differences among groups	racial differences || racial discrimination		
+966	02270342-a	a	sophisticated	having or appealing to those having worldly knowledge and refinement and savoir-faire	sophisticated young socialites || a sophisticated audience || a sophisticated lifestyle || a sophisticated book		

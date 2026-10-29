@@ -1,0 +1,30 @@
+{
+  "seed": 7,
+  "n_all": 150,
+  "n_dev": 50,
+  "n_test": 100,
+  "frozen_sha256": "c3e1f3c6830e2739eaf5e5b2fa47feb2ff200ebca263e287230fbfa4efdd754a",
+  "pos_pool": {
+    "a": 136,
+    "n": 663,
+    "v": 201
+  },
+  "quota_all": {
+    "n": 100,
+    "v": 30,
+    "a": 20
+  },
+  "quota_dev": {
+    "n": 33,
+    "v": 10,
+    "a": 7
+  },
+  "quota_test": {
+    "n": 67,
+    "v": 20,
+    "a": 13
+  },
+  "dev_sha256": "8b197c43d9bba42a372fef7155066892c9f6e3db1e5552cb04bb1794bb2de23b",
+  "test_sha256": "105c989457ff82f1a3c2a02bd41e75895b6529f878e31c2cd14a7eda4b558707",
+  "rule": "tune prompts/thresholds on dev only; test is judged once"
+}

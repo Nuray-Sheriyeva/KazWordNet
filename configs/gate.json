@@ -1,0 +1,13 @@
+{
+  "system": "B3",
+  "split": "test",
+  "min_precision": 0.85,
+  "min_precision_wilson95_lower": 0.75,
+  "min_coverage": 0.60,
+  "min_precision_per_pos": 0.70,
+  "min_judged_per_pos": 10,
+  "definitions": {
+    "precision": "correct candidate lemmas / candidate lemmas judged",
+    "coverage": "test synsets with >=1 accepted lemma / test synsets"
+  }
+}

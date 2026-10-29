@@ -1,0 +1,101 @@
+idx	synset_id	pos	lemmas_en	gloss	examples	hypernym_id	hypernym_lemmas
+24	00415676-n	n	way|path|way_of_life	a course of conduct	the path of virtue || we went our separate ways || our paths in life led us apart || genius usually follows a revolutionary path	00038262-n	course|course_of_action
+41	00892145-n	n	seminar	a course offered for a small group of advanced students		00884466-n	course|course_of_study|course_of_instruction|class
+61	01125693-n	n	legislation|legislating|lawmaking	the act of making or enacting laws		01124794-n	government|governing|governance|government_activity|administration
+63	01133281-n	n	management|direction	the act of managing something	he was given overall management of the program || is the direction of the economy a function of government?	01123598-n	social_control
+67	01170962-n	n	fight|fighting|combat|scrap	the act of fighting; any contest or struggle	a fight broke out at the hockey game || there was fighting in the streets || the unhappy couple got into a terrible scrap	00958896-n	conflict|struggle|battle
+71	01212519-n	n	support	aiding the cause or policy or interests of	the president no longer has the support of his own party || they developed a scheme of mutual support	01207609-n	aid|assist|assistance|help
+75	01261974-n	n	stimulation	the act of arousing an organism to action		00242808-n	arousal|rousing
+80	02129604-n	n	tiger|Panthera_tigris	large feline of forests in most of Asia having a tawny coat with black stripes; endangered		02127808-n	big_cat|cat
+83	02395406-n	n	hog|pig|grunter|squealer|Sus_scrofa	domestic swine		02395003-n	swine
+84	02403454-n	n	cow|moo-cow	female of domestic cattle:	`moo-cow' is a child's term	02402425-n	cattle|cows|kine|oxen|Bos_taurus
+96	02795528-n	n	barrel|gun_barrel	a tube through which a bullet travels when a gun is fired		04493505-n	tube|tubing
+120	03237639-n	n	dressing|medical_dressing	a cloth covering for a wound or sore		03050026-n	cloth_covering
+133	03416489-n	n	garage	an outbuilding (or part of a building) for housing automobiles		03859280-n	outbuilding
+156	03839795-n	n	obstacle	an obstruction that stands in the way (and must be removed or surmounted or circumvented)		03839993-n	obstruction|obstructor|obstructer|impediment|impedimenta
+169	04092609-n	n	ring|band	jewelry consisting of a circlet of precious metal (often set with jewels) worn on the finger	she had rings on every finger || he noted that she wore a wedding band	03597469-n	jewelry|jewellery
+171	04101232-n	n	roll	anything rolled up in cylindrical form		13865298-n	cylinder
+173	04127904-n	n	sail|canvas|canvass|sheet	a large piece of fabric (usually canvas fabric) by means of which wind is used to propel a sailing vessel		03932670-n	piece_of_cloth|piece_of_material
+185	04256520-n	n	sofa|couch|lounge	an upholstered seat for more than one person		04161981-n	seat
+224	04850117-n	n	justice|justness	the quality of being just or fair		04826235-n	righteousness
+250	05289297-n	n	muscle|musculus	one of the contractile organs of the body		05289601-n	contractile_organ|contractor
+254	05388805-n	n	heart|pump|ticker	the hollow muscular organ located behind the sternum and between the lungs; its rhythmic contractions move the blood through the body	he stood still, his heart thumping wildly	05298729-n	internal_organ|viscus
+255	05399847-n	n	blood	the fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and platelets	blood carries oxygen and nutrients to the tissues and carries away waste products || the ancients believed that blood was the seat of the emotions	05397468-n	liquid_body_substance|bodily_fluid|body_fluid|humor|humour
+277	05737153-n	n	mark|grade|score	a number or letter indicating quality (especially of a student's performance)	she made good marks in algebra || grade A milk || what was your score on your homework?	05736149-n	evaluation|valuation|rating
+292	05835747-n	n	concept|conception|construct	an abstract or general idea inferred or derived from specific instances		05833840-n	idea|thought
+295	05864577-n	n	vector	a variable quantity that can be resolved into components		05857459-n	variable|variable_quantity
+307	06211078-n	n	slant|angle	a biased way of looking at or presenting something		06210363-n	point_of_view|viewpoint|stand|standpoint
+308	06254007-n	n	broadcast	message that is transmitted by radio or television		06253690-n	message
+318	06422740-n	n	guidebook|guide	something that offers basic information or instruction		06421301-n	handbook|enchiridion|vade_mecum
+322	06485261-n	n	agenda|agendum|order_of_business	a list of matters to be taken up (as at a meeting)		06481320-n	list|listing
+349	06730780-n	n	accusation|charge	an assertion that someone is guilty of a fault or offence	the newspaper published charges that Jones was guilty of drunken driving	06729499-n	assertion|averment|asseveration
+351	06755568-n	n	condition|precondition|stipulation	an assumption on which rests the validity or effect of something else		06753800-n	premise|premiss|assumption
+352	06756831-n	n	lie|prevarication	a statement that deviates from or perverts the truth		06756407-n	falsehood|falsity|untruth
+356	06780678-n	n	cartoon|sketch	a humorous or satirical drawing published in a newspaper or magazine		06776138-n	wit|humor|humour|witticism|wittiness
+359	06795746-n	n	token|item	an individual instance of a type of symbol	the word`error' contains three tokens of `r'	06806469-n	symbol
+364	06863751-n	n	key|tonality	any of 24 major or minor diatonic scales that provide the tonal framework for a piece of music		06814870-n	musical_notation
+371	07009640-n	n	act	a subdivision of a play or opera or ballet		07007684-n	dramatic_composition|dramatic_work
+396	07319103-n	n	success	an event that accomplishes its intended purpose	let's call heads a success and tails a failure || the election was a remarkable success for the Whigs	07283608-n	happening|occurrence|occurrent|natural_event
+401	07402519-n	n	tide	the periodic rise and fall of the sea level under the gravitational pull of the moon		07296190-n	periodic_event|recurrent_event
+408	07458453-n	n	race	a contest of speed	the race is to the swift	07456188-n	contest|competition
+412	07511080-n	n	anticipation|expectancy	an expectation		07510923-n	expectation
+429	07884567-n	n	alcohol|alcoholic_drink|alcoholic_beverage|intoxicant|inebriant	a liquor or brew containing alcohol as the active agent	alcohol (or drink) ruined him	03248958-n	drug_of_abuse|street_drug
+432	07961016-n	n	ball|clod|glob|lump|clump|chunk	a compact mass	a ball of mud caught him on the shoulder	07959269-n	agglomeration
+438	08060193-n	n	franchise|dealership	a business established or operated under an authorization to sell or distribute a company's goods or services in a particular area		08061042-n	business|concern|business_concern|business_organization|business_organisation
+457	08404188-n	n	Opposition	the major political party opposed to the party in office and prepared to replace it if elected	Her Majesty's loyal opposition	08256968-n	party|political_party
+460	08434259-n	n	network|web	an interconnected system of things or people	he owned a network of shops || retirement meant dropping out of a whole network of people who had been part of my life || tangled in a web of cloth	08435388-n	system|scheme
+465	08521623-n	n	cemetery|graveyard|burial_site|burial_ground|burying_ground|memorial_park|necropolis	a tract of land used for burials		08651247-n	site|land_site
+468	08549070-n	n	development	a district that has been developed to serve some purpose	such land is practical for small park developments	08552138-n	district|territory|territorial_dominion|dominion
+473	08613472-n	n	outside|exterior	the outer side or surface of something		08660339-n	surface
+477	08645033-n	n	countryside	rural regions		08644722-n	country|rural_area
+486	09285254-n	n	fragment	a piece broken off or cut off of something else	a fragment of rock	09385911-n	part|piece
+501	09774266-n	n	adviser|advisor|consultant	an expert who gives advice	an adviser helped students select their courses || the United States sent military advisors to Guatemala	09824361-n	authority
+506	09876701-n	n	Brother	(Roman Catholic Church) a title given to a monk and used as form of address	a Benedictine Brother	10112129-n	monk|monastic
+507	09923673-n	n	citizen	a native or naturalized member of a state or other political community		09625401-n	national|subject
+509	09960117-n	n	contact|middleman	a person who is in a position to give you special assistance	he used his business contacts to get an introduction to the governor	10522035-n	representative
+525	10208583-n	n	insider	an officer of a corporation or others who have access to private information about the corporation's operations		09966255-n	corporate_executive|business_executive
+538	10464711-n	n	predecessor	one who precedes you in time (as in holding a position or office)		09627117-n	precursor|forerunner
+545	10628644-n	n	sovereign|crowned_head|monarch	a nation's ruler or head of state usually by hereditary right		10164747-n	head_of_state|chief_of_state
+572	11502497-n	n	shower|rain_shower	a brief period of precipitation	the game was interrupted by a brief shower	11501381-n	rain|rainfall
+587	13323749-n	n	toll	a fee levied for the use of roads or bridges (used for maintenance)		13320168-n	fee
+589	13381145-n	n	deposit|bank_deposit	money deposited in a bank or some similar institution		13358549-n	fund|monetary_fund
+594	13563746-n	n	survival|survival_of_the_fittest|natural_selection|selection	a natural process resulting in the evolution of organisms best adapted to the environment		13518963-n	natural_process|natural_action|action|activity
+611	13971901-n	n	consensus	agreement in the judgment or opinion reached by a group as a whole	the lack of consensus reflected differences in theoretical positions || those rights and obligations are based on an unstated consensus	13971065-n	agreement|accord
+612	14002279-n	n	balance	a state of equilibrium		13934900-n	equilibrium
+627	14462946-n	n	failing|weakness	a flaw or weak point	he was quick to point out his wife's failings	14462666-n	imperfection|imperfectness
+630	14479615-n	n	state_of_matter|state	(chemistry) the three traditional states of matter are solids (fixed shape and volume) and liquids (fixed volume and shaped by the container) and gases (filling the container)	the solid state of water is called ice	11409059-n	chemical_phenomenon
+657	15205532-n	n	century	a period of 100 years		15113229-n	time_period|period_of_time|period
+662	15270245-n	n	time_slot|slot	a time assigned on a schedule or agenda	the TV program has a new time slot || an aircraft landing slot	15269513-n	time_interval|interval
+665	00015498-v	v	nap|catnap|catch_a_wink	take a siesta	She naps everyday after lunch for an hour	00014742-v	sleep|kip|slumber|log_Z's|catch_some_Z's
+667	00020671-v	v	hypnotize|hypnotise|mesmerize|mesmerise	induce hypnosis in		00022316-v	sedate|calm|tranquilize|tranquillize|tranquillise
+685	00404642-v	v	organize|organise|coordinate	bring order and organization to	Can you help me organize my files?	01463963-v	arrange|set_up
+701	00697419-v	v	screen	examine methodically	screen the suitcases	00644583-v	analyze|analyse|study|examine|canvass|canvas
+702	00697589-v	v	decide|make_up_one's_mind|determine	reach, make, or come to a decision about something	We finally decided after lengthy deliberations		
+709	00779061-v	v	pause|intermit|break	cease an action temporarily	We pause for station identification || let's break for lunch	00778275-v	interrupt|disrupt|break_up|cut_off
+710	00779360-v	v	rest|breathe|catch_one's_breath|take_a_breather	take a short break from one's activities in order to relax		00779061-v	pause|intermit|break
+723	00845299-v	v	abuse|clapperclaw|blackguard|shout	use foul or abusive language towards	The actress abused the policeman who gave her a parking ticket || The angry mother shouted at the teacher	00862683-v	attack|round|assail|lash_out|snipe|assault
+731	00890590-v	v	guarantee|ensure|insure|assure|secure	make certain of	This nest egg will ensure a nice retirement for us || Preparation will guarantee success!		
+736	00906367-v	v	convict	find or declare guilty	The man was convicted of fraud and sentenced	00971650-v	pronounce|label|judge
+758	01348174-v	v	lock	fasten with a lock	lock the bike to the fence	01340439-v	fasten|fix|secure
+761	01370561-v	v	kick	strike with the foot	The boy kicked the dog || Kick the door down	01400044-v	hit
+771	01453433-v	v	drag	pull, as against a resistance	He dragged the big suitcase behind him || These worries were dragging at him	01448100-v	pull|draw|force
+788	01717628-v	v	debut	appear for the first time in public	The new ballet that debuts next months at Covent Garden, is already sold out	01716882-v	play
+800	01857392-v	v	stay|stick|stick_around|stay_put	stay put (in a certain place)	We are staying in Detroit; we are not moving to Cincinnati || Stay put in the corner here! || Stick around and you will learn something!	01848355-v	stay_in_place
+814	02022659-v	v	miss	fail to reach or get to	She missed her train	02528380-v	fail|go_wrong|miscarry
+832	02203362-v	v	have|have_got|hold	have or possess, either in a concrete or an abstract sense	She has $1,000 in the bank || He has got two beautiful daughters || She holds a Master's degree from Harvard		
+848	02440244-v	v	head|lead	be in charge of	Who is heading this project?	02439501-v	direct
+852	02532595-v	v	experiment	to conduct a test or investigation	We are experimenting with the new drug in order to fight this disease	00789138-v	investigate|look_into
+853	02540670-v	v	serve|attend_to|wait_on|attend|assist	work for or be a servant to	May I serve you? || She attends the old lady in the wheelchair || Can you wait on our table, please? || Is a salesperson assisting you? || The minister served the King for many years	02547586-v	help|assist|aid
+874	00210848-s	s	bald|bald-headed|bald-pated	lacking hair on all or most of the scalp	a bald pate || a bald-headed gentleman		
+879	00329831-a	a	central	in or near a center or constituting a center; the inner area	a central position		
+880	00372111-s	s	brown|brownish|chocolate-brown|dark-brown	of a color similar to that of wood or earth			
+882	00438707-a	a	smart	showing mental alertness and calculation and resourcefulness			
+887	00503982-a	a	comparable	able to be compared or worthy of comparison			
+888	00505853-s	s	alone|unique|unequaled|unequalled|unparalleled	radically distinctive and without equal	he is alone in the field of microbiology || this theory is altogether alone in its penetration of the problem || Bach was unique in his handling of counterpoint || craftsmen whose skill is unequaled || unparalleled athletic ability || a breakdown of law unparalleled in our history		
+896	00724081-a	a	reliable|dependable	worthy of reliance or trust	a reliable source of information || a dependable worker		
+919	01069283-s	s	bad|spoiled|spoilt	(of foodstuffs) not in an edible or usable condition	bad meat || a refrigerator full of spoilt food		
+926	01143279-a	a	sudden	happening without warning or in a short space of time	a sudden storm || a sudden decision || a sudden cure		
+972	02385102-a	a	tall	great in vertical dimension; high in stature	tall people || tall buildings || tall trees || tall ships		
+973	02390335-a	a	wild	marked by extreme lack of restraint or control	wild talk || wild parties		
+976	02461723-a	a	false	not in accordance with the fact or reality or actuality	gave false testimony under oath || false tales of bravery		
+994	02940392-a	a	experimental	relating to or based on experiment	experimental physics		
