@@ -1,0 +1,21 @@
+{
+  "method": "seeded POS-proportional random sample (largest remainder); file has no ranking",
+  "seed": 42,
+  "n": 1000,
+  "core_resolved_sha256": "03099e098184b97af33020c2ad10a5132d4a76ee7ba416f1da30107214061a85",
+  "pos_full": {
+    "a": "674 (13.6%)",
+    "n": "3282 (66.3%)",
+    "v": "997 (20.1%)"
+  },
+  "quota": {
+    "a": 136,
+    "n": 663,
+    "v": 201
+  },
+  "pos_selected": {
+    "a": "136 (13.6%)",
+    "n": "663 (66.3%)",
+    "v": "201 (20.1%)"
+  }
+}
