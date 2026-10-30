@@ -1,0 +1,32 @@
+{
+  "n_synsets": 1000,
+  "coverage_strict": 0.656,
+  "coverage_loose": 0.722,
+  "per_pos": {
+    "a": {
+      "n": 136,
+      "strict": 71,
+      "loose": 80,
+      "coverage_strict": 0.5221
+    },
+    "n": {
+      "n": 663,
+      "strict": 504,
+      "loose": 519,
+      "coverage_strict": 0.7602
+    },
+    "v": {
+      "n": 201,
+      "strict": 81,
+      "loose": 123,
+      "coverage_strict": 0.403
+    }
+  },
+  "candidates_per_covered_synset": {
+    "mean": 2.15,
+    "median": 2.0
+  },
+  "distinct_english_lemmas": 2227,
+  "english_lemmas_with_kk": 824,
+  "rejected_translation_strings": 2
+}
