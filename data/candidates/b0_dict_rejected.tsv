@@ -1,0 +1,3 @@
+synset_id	lemma_en	lemma_raw	pos	source	reason	evidence
+06619850-n	news	حابار	n	dict	invalid_char:ابحر	"[{""dict"": ""kaikki"", ""dump"": ""2026-10-01"", ""entry_id"": ""news#noun@L219362"", ""sense"": ""reports of current events"", ""tags"": [""Arabic""]}]"
+09785042-n	friend	دوس	n	dict	invalid_char:دسو	"[{""dict"": ""kaikki"", ""dump"": ""2026-10-01"", ""entry_id"": ""friend#noun@L21726"", ""sense"": ""person whose company one enjoys"", ""tags"": [""Arabic""]}]"
