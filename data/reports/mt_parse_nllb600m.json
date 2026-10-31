@@ -1,0 +1,26 @@
+{
+  "engine": "nllb600m",
+  "raw_rows": 2179,
+  "pools": {
+    "rest": 2067,
+    "dev": 112
+  },
+  "parse_ok": 2165,
+  "parse_fail": {
+    "parse_fail:no_colon": 8,
+    "parse_fail:head_too_long": 6
+  },
+  "s1_rejected": {
+    "latin_script": 55,
+    "invalid_char:6": 1,
+    "invalid_char:16": 1
+  },
+  "candidate_rows": 1805,
+  "synsets_with_candidates": 900,
+  "flags": {
+    "multiword": 416,
+    "lookalike_fixed": 16,
+    "verb_form_check": 218,
+    "loan_letters": 160
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "model_id": "issai/tilmash",
+  "resolved_revision": null,
+  "family": "nllb",
+  "src": "eng_Latn",
+  "tgt": "kaz_Cyrl",
+  "num_beams": 4,
+  "max_new_tokens": 128,
+  "do_sample": false,
+  "device": "cpu",
+  "torch": "2.15.0",
+  "transformers": "5.22.1",
+  "python": "3.14.6",
+  "engine": "tilmash",
+  "pools": [
+    "dev",
+    "rest"
+  ],
+  "date": "2026-10-30"
+}
