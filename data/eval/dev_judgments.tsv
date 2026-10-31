@@ -112,9 +112,9 @@ key_id	synset_id	pos	lemma_en	gloss	lemma_kk	correct	error_category	notes
 04893787-n|экономика	04893787-n	n	economy	frugality in the expenditure of money or resources	экономика	0	form	
 04893787-n|үнем	04893787-n	n	thriftiness	frugality in the expenditure of money or resources	үнем	1		
 05919263-n|жүрек	05919263-n	n	bosom|heart	the locus of feelings and intuitions	жүрек	1		
-05919263-n|кеуде	05919263-n	n	bosom	the locus of feelings and intuitions	кеуде	0		
+05919263-n|кеуде	05919263-n	n	bosom	the locus of feelings and intuitions	кеуде	0	wrong_sense	
 06399995-n|азат жол	06399995-n	n	paragraph	one of several distinct subdivisions of a text intended to separate ideas; the beginning is usually marked by a new indented line	азат жол	1		
-06399995-n|параграф	06399995-n	n	paragraph	one of several distinct subdivisions of a text intended to separate ideas; the beginning is usually marked by a new indented line	параграф	0		
+06399995-n|параграф	06399995-n	n	paragraph	one of several distinct subdivisions of a text intended to separate ideas; the beginning is usually marked by a new indented line	параграф	0	russian_loan	
 06399995-n|абзац	06399995-n	n	paragraph	one of several distinct subdivisions of a text intended to separate ideas; the beginning is usually marked by a new indented line	абзац	0	russian_loan	
 07203126-n|растау	07203126-n	n	affirmation|assertion	the act of affirming or asserting or stating something	растау	1		
 07203126-n|мәлімдеме	07203126-n	n	statement	the act of affirming or asserting or stating something	мәлімдеме	1		
