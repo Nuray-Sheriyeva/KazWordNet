@@ -23,3 +23,9 @@
 - tilmash (issai/tilmash): stated as CC BY 4.0; fine-tuned from an NLLB-family model, so the upstream terms are unresolved. Treated as permissive for the S4 tie rule only.
 - nllb600m (facebook/nllb-200-distilled-600M): CC-BY-NC. Not treated as permissive.
 - The final engine's model id, resolved revision, license and decoding settings are added at S4.5.
+
+## MT engine frozen for B1 (S4.5, 2026-10-31)
+- engine: tilmash (issai/tilmash); chosen by rule higher_dev_precision on dev (tilmash 0.687 vs nllb600m 0.570)
+- license: CC BY 4.0 as stated by the owner; fine-tuned from an NLLB-family model, so upstream NC terms unresolved
+- decoding: beam search 4, no sampling (single Hugging Face adapter)
+- run metadata (data/raw/mt/tilmash.meta.json): {"date": "2026-10-31", "device": "cpu", "do_sample": false, "engine": "tilmash", "family": "nllb", "max_new_tokens": 128, "model_id": "issai/tilmash", "num_beams": 4, "pools": ["dev", "rest", "test"], "python": "3.14.6", "resolved_revision": null, "src": "eng_Latn", "tgt": "kaz_Cyrl", "torch": "2.15.0", "transformers": "5.22.1"}

@@ -14,7 +14,8 @@
   "engine": "tilmash",
   "pools": [
     "dev",
-    "rest"
+    "rest",
+    "test"
   ],
-  "date": "2026-10-30"
+  "date": "2026-10-31"
 }
