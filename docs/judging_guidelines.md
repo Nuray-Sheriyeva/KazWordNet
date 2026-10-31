@@ -23,3 +23,4 @@ Rules
 - Do not change a judgment after seeing any results.
 - If several categories apply, choose the first that fits in this order: other, wrong_sense, calque, russian_loan, variant, form. Mention the secondary problem in `notes`.
 - If the sense is unclear to you even after looking it up, leave `correct` blank and start `notes` with `UNSURE:`. Do not guess.
+- A literal rendering of the English lemma's parts that Kazakh speakers do not use is `calque`. A descriptive paraphrase of the gloss, or a garbled or untranslated string, is `other`. Judge against the gloss, not the lemma's wording.
