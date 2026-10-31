@@ -1,0 +1,44 @@
+{
+  "pool_synsets": 900,
+  "thresholds": {
+    "parse_min": 0.7,
+    "survival_min": 0.9
+  },
+  "engines": {
+    "nllb600m": {
+      "parse_success": 0.9936,
+      "s1_survival": 0.9737,
+      "eligible": true,
+      "b0_covered_synsets": 593,
+      "b0_hit_rate": 0.5885,
+      "b0_uncovered_synsets": 307,
+      "incremental_covered": 307,
+      "incremental_coverage": 1.0,
+      "candidate_overlap_with_b0": 0.3289,
+      "synsets_with_candidates": 900,
+      "candidate_rows": 1805
+    },
+    "tilmash": {
+      "parse_success": 0.9729,
+      "s1_survival": 0.9599,
+      "eligible": true,
+      "b0_covered_synsets": 593,
+      "b0_hit_rate": 0.742,
+      "b0_uncovered_synsets": 307,
+      "incremental_covered": 296,
+      "incremental_coverage": 0.9642,
+      "candidate_overlap_with_b0": 0.4376,
+      "synsets_with_candidates": 885,
+      "candidate_rows": 1727
+    }
+  },
+  "ranking": [
+    "tilmash",
+    "nllb600m"
+  ],
+  "finalists": [
+    "tilmash",
+    "nllb600m"
+  ],
+  "note": "proxy metrics only; B0 overlap underestimates precision because Wiktionary is incomplete"
+}

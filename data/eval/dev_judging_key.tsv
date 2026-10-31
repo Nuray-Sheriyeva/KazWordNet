@@ -1,0 +1,160 @@
+key_id	sources	flags
+00294579-s|жалкоо	mt_nllb600m	
+00294579-s|әлсіз	mt_nllb600m	
+00294579-s|жұмыссыз	mt_nllb600m	
+00294579-s|әлсіреген	mt_tilmash	
+00294579-s|отиоз	mt_nllb600m|mt_tilmash	
+00294579-s|жұмыстан ұялшақ	mt_tilmash	multiword
+00294579-s|жұмыс істеуге ұялы	mt_nllb600m	multiword
+00294579-s|жалқау	mt_tilmash	
+00294579-s|ұялы	mt_nllb600m	
+00445548-a|қашықтық	mt_nllb600m	
+00445548-a|алыс	mt_tilmash	
+00553732-s|бір дауыспен	mt_nllb600m	multiword
+00553732-s|келісім	mt_nllb600m	lookalike_fixed
+00553732-s|келісуші	mt_nllb600m	
+00553732-s|бірауыздан	mt_tilmash	
+00694068-v|құрмет көрсету	mt_nllb600m	multiword
+00694068-v|ардақтау	b0_dict	
+00694068-v|құрметтеу	b0_dict	
+00694068-v|қадірлеу	b0_dict	
+00694068-v|құндылық	mt_tilmash	verb_form_check
+00694068-v|құндылығы	mt_nllb600m	verb_form_check
+00694068-v|жүлде	mt_tilmash	verb_form_check
+00694068-v|сыйлық	mt_nllb600m	verb_form_check
+00694068-v|құрмет	mt_nllb600m|mt_tilmash	verb_form_check
+00834198-a|нәтижелі	b0_dict	
+00834198-a|тиімді	b0_dict|mt_nllb600m|mt_tilmash	
+00905852-v|сылтау	mt_tilmash	
+00905852-v|кешіру	mt_tilmash	
+00905852-v|кешірім	mt_nllb600m	verb_form_check
+00980038-n|қылмыс	mt_nllb600m|mt_tilmash	
+00980038-n|шабуыл	b0_dict|mt_nllb600m|mt_tilmash	
+01047338-n|қайта өрлеу	mt_nllb600m|mt_tilmash	multiword
+01047338-n|жандандыру	mt_nllb600m|mt_tilmash	
+01047338-n|жаңғыру	mt_tilmash	
+01129920-n|баж	b0_dict	
+01129920-n|міндет	b0_dict|mt_nllb600m	
+01129920-n|алым	b0_dict	
+01129920-n|парыз	b0_dict	
+01129920-n|жауапкершілік	b0_dict|mt_nllb600m|mt_tilmash	
+01129920-n|борыш	b0_dict|mt_tilmash	
+01129920-n|міндеттеме	b0_dict|mt_nllb600m|mt_tilmash	lookalike_fixed
+01147347-n|қамқорлық	mt_nllb600m	
+01147347-n|күзет	mt_tilmash	
+01168569-n|бәсекелестік	b0_dict|mt_nllb600m|mt_tilmash	
+01168569-n|дау	mt_tilmash	
+01168569-n|жарыс	b0_dict	
+01168569-n|айтыс	mt_nllb600m	
+01168569-n|конкурс	b0_dict|mt_tilmash	
+01168569-n|байқау	b0_dict	
+01168569-n|бәсеке	b0_dict	
+01242208-v|шашу	mt_nllb600m	
+01242208-v|басыңыз	mt_nllb600m|mt_tilmash	verb_form_check
+01242208-v|флик	mt_tilmash	loan_letters|verb_form_check
+01452255-v|тасымалдау	mt_nllb600m|mt_tilmash	
+01480149-v|аулау	mt_nllb600m|mt_tilmash	
+01480149-v|тұтқындау	mt_nllb600m	
+01480149-v|тұтқынға алу	mt_tilmash	multiword
+01689880-a|ортодоксалды	mt_nllb600m	
+01689880-a|православиелік	mt_tilmash	loan_letters
+01900408-v|сүріну	mt_nllb600m|mt_tilmash	
+01900408-v|сапар	mt_nllb600m|mt_tilmash	verb_form_check
+01927654-a|расалық	mt_nllb600m	
+01927654-a|нәсілдік	b0_dict|mt_tilmash	
+02267060-v|түсіру	mt_nllb600m	
+02267060-v|құлдырау	mt_tilmash	
+02267060-v|шығындар	mt_nllb600m	verb_form_check
+02270342-a|өрнектелген	mt_nllb600m	
+02270342-a|талғампаз	mt_tilmash	
+02373336-v|кәсіпорын	mt_nllb600m	verb_form_check
+02373336-v|келу	mt_nllb600m	
+02373336-v|авантюра	mt_tilmash	loan_letters|verb_form_check
+02718015-v|теңгерім	mt_nllb600m	verb_form_check
+02718015-v|орнын толтыру	mt_nllb600m	multiword
+02718015-v|теңестіру	mt_tilmash	
+02735282-v|талапкерлік	mt_nllb600m	verb_form_check
+02735282-v|костюм	mt_tilmash	verb_form_check
+02829696-n|бүгіс	b0_dict	
+02829696-n|қисық	mt_tilmash	
+02829696-n|бұрылысы	mt_nllb600m	
+02829696-n|бұрылымы	mt_nllb600m	
+02829696-n|қас	b0_dict	
+02945813-n|босқындар лагері	mt_nllb600m|mt_tilmash	multiword
+02945813-n|лагерь	b0_dict|mt_nllb600m|mt_tilmash	loan_letters
+03244388-n|жол	mt_nllb600m|mt_tilmash	
+03244388-n|жеке жол	mt_nllb600m|mt_tilmash	multiword
+03244388-n|көлік	mt_tilmash	
+03501811-n|бас	b0_dict|mt_nllb600m|mt_tilmash	
+03501811-n|кәллә	b0_dict	
+03691459-n|дыбыстық аспаптар жүйесі	mt_nllb600m	multiword
+03691459-n|динамик құрылғысы	mt_tilmash	multiword
+03691459-n|динамик жүйесі	mt_nllb600m|mt_tilmash	multiword
+03691459-n|динамик	mt_nllb600m|mt_tilmash	
+03691459-n|динамик агрегаты	mt_nllb600m	multiword
+03691459-n|дыбыс зорайтқыш	b0_dict	multiword
+03691459-n|дыбыстық аспап	mt_nllb600m	multiword
+04317420-n|таяқ	b0_dict|mt_nllb600m|mt_tilmash	
+04317420-n|шыбық	b0_dict	
+04317420-n|асатаяқ	b0_dict	
+04317420-n|сойыл	b0_dict	
+04426788-n|жіп	b0_dict|mt_nllb600m|mt_tilmash	
+04602044-n|іс	b0_dict	
+04602044-n|жұмыс орны	b0_dict|mt_nllb600m|mt_tilmash	multiword
+04602044-n|жұмыс	b0_dict|mt_nllb600m|mt_tilmash	
+04602044-n|қызмет	b0_dict	
+04602044-n|шаруа	b0_dict	
+04602044-n|еңбек	b0_dict	
+04869106-n|құрмет	mt_nllb600m	
+04869106-n|абырой	b0_dict|mt_tilmash	
+04893787-n|үнемділік	mt_nllb600m|mt_tilmash	
+04893787-n|ықтисат	b0_dict	
+04893787-n|экономика	b0_dict|mt_nllb600m|mt_tilmash	loan_letters
+04893787-n|үнем	b0_dict	
+05919263-n|жүрек	b0_dict|mt_nllb600m|mt_tilmash	
+05919263-n|кеуде	mt_tilmash	
+06399995-n|азат жол	b0_dict	multiword
+06399995-n|параграф	b0_dict	loan_letters
+06399995-n|абзац	b0_dict|mt_nllb600m|mt_tilmash	loan_letters
+07203126-n|растау	mt_nllb600m|mt_tilmash	
+07203126-n|мәлімдеме	b0_dict|mt_nllb600m|mt_tilmash	
+07203126-n|бекіту	mt_tilmash	
+07452074-n|үйлену рәсімі	mt_nllb600m	multiword
+07452074-n|үйлену тойы	b0_dict|mt_nllb600m|mt_tilmash	multiword
+07452074-n|гимниалдар	mt_nllb600m	
+07929519-n|кофе	b0_dict|mt_nllb600m|mt_tilmash	loan_letters
+10727256-n|қазынашы	b0_dict|mt_nllb600m	
+10727256-n|қаржы қызметкері	mt_nllb600m|mt_tilmash	multiword
+10780632-n|әйел	b0_dict|mt_nllb600m|mt_tilmash	
+10780632-n|үйленген әйел	mt_nllb600m|mt_tilmash	multiword
+10780632-n|жар	b0_dict	
+10780632-n|қатын	b0_dict	
+11485367-n|күн	b0_dict|mt_nllb600m|mt_tilmash	
+11485367-n|күн сәулесі	mt_nllb600m|mt_tilmash	multiword
+11669921-n|гүл	b0_dict|mt_nllb600m|mt_tilmash	
+13125117-n|тамыр	b0_dict|mt_nllb600m|mt_tilmash	
+13125117-n|түбір	b0_dict	
+13308999-n|баж	b0_dict	
+13308999-n|салық	b0_dict|mt_nllb600m|mt_tilmash	
+13308999-n|салық салу	mt_nllb600m|mt_tilmash	multiword
+13308999-n|кірістерді арттыру	mt_nllb600m	multiword
+13308999-n|кірісті арттыру	mt_tilmash	multiword
+13308999-n|долық	b0_dict	
+13421832-n|бюджет	b0_dict|mt_nllb600m	
+13729236-n|қалған	mt_nllb600m	
+13729236-n|айырма	b0_dict	
+13729236-n|қалдық	b0_dict|mt_tilmash	
+13729236-n|айырмашылық	b0_dict|mt_nllb600m|mt_tilmash	
+13778671-n|паркинг	mt_nllb600m	
+13778671-n|автотұрақ	mt_tilmash	loan_letters
+13840719-n|саясат	b0_dict|mt_nllb600m|mt_tilmash	
+13840719-n|саяси қатынас	mt_tilmash	multiword
+13840719-n|саяси қарым-қатынас	mt_nllb600m	multiword
+14814616-n|көмір	b0_dict|mt_nllb600m|mt_tilmash	
+14856263-n|қалдық өнім	mt_tilmash	multiword
+14856263-n|қалдық материалы	mt_nllb600m	multiword
+14856263-n|қалдықтар	mt_nllb600m|mt_tilmash	
+14856263-n|қалдық материалдары	mt_nllb600m	multiword
+14856263-n|қалдық өнімдері	mt_nllb600m	multiword
+14856263-n|қалдық материал	mt_tilmash	multiword
+14939445-n|сұйықтық	mt_nllb600m|mt_tilmash	

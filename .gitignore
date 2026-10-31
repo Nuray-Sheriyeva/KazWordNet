@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .venv/
 data/dumps/
+.DS_Store
+.venv*/
+data/raw/mt/*.smoke.jsonl

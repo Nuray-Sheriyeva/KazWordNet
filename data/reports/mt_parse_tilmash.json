@@ -1,0 +1,26 @@
+{
+  "engine": "tilmash",
+  "raw_rows": 2395,
+  "pools": {
+    "rest": 2067,
+    "dev": 112,
+    "test": 216
+  },
+  "parse_ok": 2324,
+  "parse_fail": {
+    "parse_fail:no_colon": 63,
+    "parse_fail:head_too_long": 8
+  },
+  "s1_rejected": {
+    "latin_script": 91,
+    "invalid_char:6": 1,
+    "invalid_char:16": 1
+  },
+  "candidate_rows": 1891,
+  "synsets_with_candidates": 981,
+  "flags": {
+    "multiword": 364,
+    "verb_form_check": 165,
+    "loan_letters": 233
+  }
+}

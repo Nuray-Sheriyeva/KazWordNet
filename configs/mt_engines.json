@@ -1,0 +1,17 @@
+{
+  "tilmash": {
+    "family": "nllb", "model_id": "issai/tilmash",
+    "src": "eng_Latn", "tgt": "kaz_Cyrl",
+    "num_beams": 4, "max_new_tokens": 128, "batch_size": 8
+  },
+  "nllb600m": {
+    "family": "nllb", "model_id": "facebook/nllb-200-distilled-600M",
+    "src": "eng_Latn", "tgt": "kaz_Cyrl",
+    "num_beams": 4, "max_new_tokens": 128, "batch_size": 16
+  },
+  "m2m100": {
+    "family": "m2m100", "model_id": "facebook/m2m100_418M",
+    "src": "en", "tgt": "kk",
+    "num_beams": 4, "max_new_tokens": 128, "batch_size": 16
+  }
+}

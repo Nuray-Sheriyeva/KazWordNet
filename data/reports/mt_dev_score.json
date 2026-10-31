@@ -1,0 +1,163 @@
+{
+  "note": "dev only, one judge, ~50 synsets: informs engine selection; not the evaluation result",
+  "dev_synsets": 50,
+  "sheet_rows": 159,
+  "sources": {
+    "b0_dict": {
+      "proposed": 64,
+      "excluded_blank": 0,
+      "excluded_unsure": 0,
+      "judged": 64,
+      "correct": 48,
+      "precision": 0.75,
+      "wilson_lo": 0.6318349082561627,
+      "wilson_hi": 0.8398520802582591,
+      "per_pos": {
+        "n": {
+          "judged": 58,
+          "correct": 43,
+          "precision": 0.7413793103448276,
+          "wilson_lo": 0.616223691866412,
+          "wilson_hi": 0.8365459648048255
+        },
+        "v": {
+          "judged": 3,
+          "correct": 3,
+          "precision": 1.0,
+          "wilson_lo": 0.4384939195509822,
+          "wilson_hi": 1.0
+        },
+        "a": {
+          "judged": 3,
+          "correct": 2,
+          "precision": 0.6666666666666666,
+          "wilson_lo": 0.20765495512648788,
+          "wilson_hi": 0.9385096847238393
+        }
+      },
+      "error_categories": {
+        "wrong_sense": 11,
+        "russian_loan": 4,
+        "form": 1
+      },
+      "only_this_source": {
+        "judged": 31,
+        "correct": 20,
+        "precision": 0.6451612903225806,
+        "wilson_lo": 0.46947638042814893,
+        "wilson_hi": 0.7888355225843419
+      },
+      "dev_synsets_with_correct": 29
+    },
+    "mt_tilmash": {
+      "proposed": 83,
+      "excluded_blank": 0,
+      "excluded_unsure": 0,
+      "judged": 83,
+      "correct": 57,
+      "precision": 0.6867469879518072,
+      "wilson_lo": 0.5805842734789477,
+      "wilson_hi": 0.7763875004174338,
+      "per_pos": {
+        "n": {
+          "judged": 57,
+          "correct": 47,
+          "precision": 0.8245614035087719,
+          "wilson_lo": 0.7063240094940684,
+          "wilson_hi": 0.9018125286640339
+        },
+        "v": {
+          "judged": 16,
+          "correct": 5,
+          "precision": 0.3125,
+          "wilson_lo": 0.14164435051961052,
+          "wilson_hi": 0.5559606813326594
+        },
+        "a": {
+          "judged": 10,
+          "correct": 5,
+          "precision": 0.5,
+          "wilson_lo": 0.2365895936154873,
+          "wilson_hi": 0.7634104063845127
+        }
+      },
+      "error_categories": {
+        "wrong_sense": 16,
+        "other": 1,
+        "calque": 2,
+        "form": 4,
+        "russian_loan": 3
+      },
+      "only_this_source": {
+        "judged": 30,
+        "correct": 14,
+        "precision": 0.4666666666666667,
+        "wilson_lo": 0.3023212722412823,
+        "wilson_hi": 0.6385798671847496
+      },
+      "dev_synsets_with_correct": 40
+    },
+    "mt_nllb600m": {
+      "proposed": 93,
+      "excluded_blank": 0,
+      "excluded_unsure": 0,
+      "judged": 93,
+      "correct": 53,
+      "precision": 0.5698924731182796,
+      "wilson_lo": 0.46847341614888394,
+      "wilson_hi": 0.6657664146676248,
+      "per_pos": {
+        "n": {
+          "judged": 60,
+          "correct": 44,
+          "precision": 0.7333333333333333,
+          "wilson_lo": 0.6099104639810864,
+          "wilson_hi": 0.8286750351292115
+        },
+        "v": {
+          "judged": 19,
+          "correct": 7,
+          "precision": 0.3684210526315789,
+          "wilson_lo": 0.1914927237627384,
+          "wilson_hi": 0.5896084250184327
+        },
+        "a": {
+          "judged": 14,
+          "correct": 2,
+          "precision": 0.14285714285714285,
+          "wilson_lo": 0.04009307373792117,
+          "wilson_hi": 0.399419077638637
+        }
+      },
+      "error_categories": {
+        "other": 2,
+        "wrong_sense": 21,
+        "calque": 3,
+        "form": 11,
+        "russian_loan": 3
+      },
+      "only_this_source": {
+        "judged": 42,
+        "correct": 12,
+        "precision": 0.2857142857142857,
+        "wilson_lo": 0.1716685874457567,
+        "wilson_hi": 0.43567496077245566
+      },
+      "dev_synsets_with_correct": 33
+    }
+  },
+  "decision": {
+    "finalists": [
+      "tilmash",
+      "nllb600m"
+    ],
+    "dev_precision": {
+      "tilmash": 0.6867469879518072,
+      "nllb600m": 0.5698924731182796
+    },
+    "gap_points": 11.685451,
+    "tie_points": 5.0,
+    "winner": "tilmash",
+    "rule": "higher_dev_precision"
+  }
+}
