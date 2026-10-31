@@ -24,3 +24,9 @@ Rules
 - If several categories apply, choose the first that fits in this order: other, wrong_sense, calque, russian_loan, variant, form. Mention the secondary problem in `notes`.
 - If the sense is unclear to you even after looking it up, leave `correct` blank and start `notes` with `UNSURE:`. Do not guess.
 - A literal rendering of the English lemma's parts that Kazakh speakers do not use is `calque`. A descriptive paraphrase of the gloss, or a garbled or untranslated string, is `other`. Judge against the gloss, not the lemma's wording.
+
+## Clarifications recorded after dev judging (2026-10-31)
+These document rules applied during dev judging. They were stated in chat while judging but were not yet written in this file.
+- A word narrower (hyponym) or broader (hypernym) than the gloss is incorrect: category wrong_sense, with "narrower" or "broader" in notes. Only words that can stand for the whole concept are correct.
+- All acceptable synonyms are correct (1). Missing synonyms are not penalized.
+- Variant rule applied: <write the rule you actually used, e.g. "variants counted incorrect, category variant">.
