@@ -11,3 +11,7 @@ Fixed before any engine output is inspected.
 
 ## Amendment (2026-10-30, before any full engine run)
 m2m100 is dropped after the 5-input smoke test: outputs were degenerate repetition with no `headword:` structure, so it would fail the parse-success eligibility threshold. The smoke output is kept as evidence (data/raw/mt/m2m100.smoke.jsonl). Remaining engines: tilmash, nllb600m.
+
+
+## Amendment (2026-10-31, before any per-engine dev precision was computed)
+Interpretation of "permissively licensed" in the tie rule. Dev judging is finished, but no per-engine precision has been computed yet. tilmash is treated as permissively licensed: its license was found to be stated as CC BY 4.0. nllb600m is not: its weights are CC-BY-NC. Caveat: tilmash is fine-tuned from an NLLB-family model, so whether the upstream non-commercial restriction carries over is unresolved, and the statement has not yet been checked against the issai/tilmash model card. This interpretation applies to the tie-break only. The release license and whether MT-derived lemmas are released are decided separately (D5).

@@ -18,3 +18,8 @@
 - Derived file: data/raw/en_kk_extract.jsonl (kk translations of the 1,000 scoped synsets' lemmas; CC BY-SA).
 - Evidence format: {"dict": "kaikki", "entry_id": "<word>#<pos>@L<dump line>", "dump": "2026-10-01"}
 - Measured coverage (data/reports/b0_coverage.json): 65.6% strict on 1,000 synsets (n 76.0%, a 52.2%, v 40.3%).
+
+## MT engines: license notes (2026-10-31)
+- tilmash (issai/tilmash): stated as CC BY 4.0; fine-tuned from an NLLB-family model, so the upstream terms are unresolved. Treated as permissive for the S4 tie rule only.
+- nllb600m (facebook/nllb-200-distilled-600M): CC-BY-NC. Not treated as permissive.
+- The final engine's model id, resolved revision, license and decoding settings are added at S4.5.
