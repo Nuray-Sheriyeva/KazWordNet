@@ -21,3 +21,5 @@ Rules
 - A multiword candidate is correct only if it is an established expression; a free description is 0 / other.
 - If unsure, ask whether you would put it in a dictionary entry for that sense; note doubts in `notes`.
 - Do not change a judgment after seeing any results.
+- If several categories apply, choose the first that fits in this order: other, wrong_sense, calque, russian_loan, variant, form. Mention the secondary problem in `notes`.
+- If the sense is unclear to you even after looking it up, leave `correct` blank and start `notes` with `UNSURE:`. Do not guess.
