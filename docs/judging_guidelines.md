@@ -11,7 +11,7 @@ correct = 0 otherwise, with one category:
 - calque: a literal rendering that is not used in Kazakh.
 - russian_loan: a Russian loanword where a standard native/established Kazakh word exists.
   (A loanword that IS the standard Kazakh word is correct.)
-- variant: non-standard spelling, dialectal or obsolete variant of an otherwise correct word. [CONFIRM: counted incorrect]
+- variant: non-standard spelling, dialectal or obsolete variant of an otherwise correct word. 
 - form: not in citation form (verb not ending in -у/-ю, stem or finite form, unwanted plural/case ending).
 - other: anything else (descriptive phrase, untranslated or garbled string).
 
@@ -29,4 +29,4 @@ Rules
 These document rules applied during dev judging. They were stated in chat while judging but were not yet written in this file.
 - A word narrower (hyponym) or broader (hypernym) than the gloss is incorrect: category wrong_sense, with "narrower" or "broader" in notes. Only words that can stand for the whole concept are correct.
 - All acceptable synonyms are correct (1). Missing synonyms are not penalized.
-- Variant rule applied: <write the rule you actually used, e.g. "variants counted incorrect, category variant">.
+- Variant rule applied: variants counted incorrect, category variant.
