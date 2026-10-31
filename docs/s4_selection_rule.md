@@ -15,3 +15,11 @@ m2m100 is dropped after the 5-input smoke test: outputs were degenerate repetiti
 
 ## Amendment (2026-10-31, before any per-engine dev precision was computed)
 Interpretation of "permissively licensed" in the tie rule. Dev judging is finished, but no per-engine precision has been computed yet. tilmash is treated as permissively licensed: its license was found to be stated as CC BY 4.0. nllb600m is not: its weights are CC-BY-NC. Caveat: tilmash is fine-tuned from an NLLB-family model, so whether the upstream non-commercial restriction carries over is unresolved, and the statement has not yet been checked against the issai/tilmash model card. This interpretation applies to the tie-break only. The release license and whether MT-derived lemmas are released are decided separately (D5).
+## Results (2026-10-31, dev set)
+Source: data/reports/mt_dev_score.json (159 judged rows, none excluded, one judge, 50 dev synsets). Precision is per source over the judged rows it proposed; a row proposed by several sources counts for each. Intervals are Wilson 95%.
+- tilmash: 57/83 = 0.687 (0.581-0.776); per POS n 47/57, v 5/16, a 5/10.
+- nllb600m: 53/93 = 0.570 (0.468-0.666); per POS n 44/60, v 7/19, a 2/14.
+- B0 (dictionary): 48/64 = 0.750 (0.632-0.840).
+- Gap between finalists: 11.7 points, above the 5-point tie. The rule "higher dev precision" decides; the license tie-break was not used.
+- Selected engine: tilmash.
+These are dev figures from a small single-judge sample. They informed engine selection and are not the evaluation result.
