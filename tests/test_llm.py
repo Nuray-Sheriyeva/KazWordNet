@@ -124,3 +124,33 @@ def test_parse_bad_responses():
             dict(base, response_text='{"lemmas": []}', stop_reason="end_turn")]
     cands, rejs, stats = P.parse_rows(rows)
     assert not cands and [r.reason for r in rejs] == ["parse_fail:json", "stop:max_tokens"] and stats["empty_list"] == 1
+
+def test_effort_override_and_mixing_guard(tmp_path):
+    cfg_m = dict(CFG, effort="medium")
+    fake = Fake(['{"lemmas": []}'])
+    L.run(inputs(), {"dev"}, "m", "primary", cfg_m, client=fake, raw_dir=tmp_path, log=lambda *_: None)
+    assert fake.calls[0]["output_config"]["effort"] == "medium"
+    assert L.read_raw(tmp_path / "m.jsonl")[0]["effort"] == "medium"
+    with pytest.raises(L.LLMError, match="model/prompt/effort"):
+        L.run(inputs(), {"dev"}, "m", "primary", CFG, client=Fake([]), raw_dir=tmp_path, log=lambda *_: None)
+
+
+def test_freeze_blocks_effort_change(tmp_path):
+    fp = tmp_path / "freeze.json"
+    L.freeze(CFG, "primary", freeze_path=fp)
+    with pytest.raises(L.LLMError, match="effort"):
+        L.run(inputs(), {"test"}, "t", "primary", dict(CFG, effort="medium"), allow_test=True, freeze_path=fp,
+              client=Fake([]), raw_dir=tmp_path, log=lambda *_: None)
+
+
+def test_model_id_override_and_projection_for_other_models(tmp_path):
+    cfg = dict(CFG, prices_usd_per_mtok=dict(CFG["prices_usd_per_mtok"], **{"claude-opus-5-5": {"in": 4.0, "out": 20.0}}))
+    fake = Fake(['{"lemmas": []}'])
+    L.run(inputs(), {"dev"}, "o", "claude-opus-5-5", cfg, client=fake, raw_dir=tmp_path, log=lambda *_: None)
+    assert fake.calls[0]["model"] == "claude-opus-5-5"
+    rep = L.project("o", cfg, tmp_path)  # $0.006 per prompt -> 0.006 * 825 = 4.95 > cap
+    assert rep["model"] == "claude-opus-5-5" and rep["effort"] == "low" and rep["decision"] == "over_cap"
+    with pytest.raises(L.LLMError, match="no price"):
+        L.run(inputs(), {"dev"}, "x", "claude-unknown", CFG, client=Fake([]), raw_dir=tmp_path, log=lambda *_: None)
+    fz = tmp_path / "fz.json"
+    assert L.freeze(cfg, "claude-opus-5-5", freeze_path=fz)["model"] == "claude-opus-5-5"
