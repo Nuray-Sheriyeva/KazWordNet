@@ -1,0 +1,13 @@
+{
+  "tag": "dev_v1_opus_low",
+  "model": "claude-opus-5-5",
+  "effort": "low",
+  "pilot_rows": 10,
+  "mean_input_tokens": 702.0,
+  "mean_output_tokens": 42.6,
+  "mean_cost_usd": 0.00366,
+  "projected_total_usd": 3.0195,
+  "cap_usd": 4.0,
+  "rule": "projected = mean cost x (standard + batch x discount) prompts; primary if <= cap else fallback",
+  "decision": "claude-opus-5-5"
+}
