@@ -1,0 +1,14 @@
+{
+  "primary": "claude-sonnet-5-5",
+  "fallback": "claude-haiku-5-5",
+  "effort": "low",
+  "max_tokens": 3000,
+  "max_lemmas": 6,
+  "prompt_file": "prompts/b2_prompt_v1.txt",
+  "prices_usd_per_mtok": {
+    "claude-sonnet-5-5": {"in": 2.0, "out": 10.0},
+    "claude-haiku-5-5": {"in": 0.10, "out": 0.50}
+  },
+  "cap_usd": 4.0,
+  "projection": {"standard_prompts": 400, "batch_prompts": 850, "batch_discount": 0.5}
+}
