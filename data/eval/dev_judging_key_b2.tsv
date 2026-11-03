@@ -1,0 +1,180 @@
+key_id	sources	flags	in_s4_sheet
+00294579-s|салақ	llm_dev_v1		0
+00294579-s|еріншек	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+00294579-s|салғырт	llm_dev_v1_medium		0
+00294579-s|ерінші	llm_dev_v1_high		0
+00294579-s|бекер	llm_dev_v1|llm_dev_v1_high		0
+00294579-s|жалқау	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+00445548-a|қашық	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+00445548-a|шалғай	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+00445548-a|алыс	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+00553732-s|бірауыздан қабылданған	llm_dev_v1_high	multiword	0
+00553732-s|бірауыздылық	llm_dev_v1		0
+00553732-s|бір пікірлі	llm_dev_v1|llm_dev_v1_medium	multiword	0
+00553732-s|ауызбірлікті	llm_dev_v1_high|llm_dev_v1_medium		0
+00553732-s|бірауыздан	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+00553732-s|бірауызды	llm_dev_v1_high|llm_dev_v1_medium		0
+00553732-s|ауыздан	llm_dev_v1		0
+00694068-v|ардақтау	llm_dev_v1_high		1
+00694068-v|құрметтеу	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+00694068-v|силау	llm_dev_v1_high|llm_dev_v1_medium		0
+00694068-v|қадірлеу	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+00694068-v|бағалау	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+00694068-v|сыйлау	llm_dev_v1		0
+00834198-a|күшті	llm_dev_v1_high		0
+00834198-a|нәтижелі	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+00834198-a|тиімді	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+00834198-a|әсерлі	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+00834198-a|пәрменді	llm_dev_v1		0
+00905852-v|рақымшылық жасау	llm_dev_v1|llm_dev_v1_high	multiword	0
+00905852-v|кешіру	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+00905852-v|кешірім ету	llm_dev_v1_medium	multiword	0
+00980038-n|жаппай шабуыл	llm_dev_v1_medium	multiword	0
+00980038-n|шабуыл	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+00980038-n|шабуылдау	llm_dev_v1_high		0
+00980038-n|жорық	llm_dev_v1|llm_dev_v1_high		0
+00980038-n|ұрыс	llm_dev_v1_medium		0
+00980038-n|һұжым	llm_dev_v1		0
+01047338-n|жаңғыру	llm_dev_v1|llm_dev_v1_high		1
+01047338-n|қайта жандану	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium	multiword	0
+01047338-n|жандандыру	llm_dev_v1_medium		1
+01047338-n|өрлеу	llm_dev_v1_medium		0
+01047338-n|түлеу	llm_dev_v1|llm_dev_v1_high		0
+01047338-n|жандану	llm_dev_v1_high|llm_dev_v1_medium		0
+01047338-n|қайта жаңғыру	llm_dev_v1_medium	multiword	0
+01047338-n|қайта өрлеу	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium	multiword	1
+01129920-n|жауапкершілік	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+01129920-n|міндет	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+01129920-n|парыз	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+01147347-n|қамаққа алу	llm_dev_v1_high	multiword	0
+01147347-n|қамауға алу	llm_dev_v1	multiword	0
+01147347-n|қамау	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+01147347-n|ұстау	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+01147347-n|қамауда ұстау	llm_dev_v1_medium	multiword	0
+01168569-n|таластық	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+01168569-n|бәсеке	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+01168569-n|сайыс	llm_dev_v1|llm_dev_v1_medium		0
+01168569-n|жарыс	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+01168569-n|күрес	llm_dev_v1_high		0
+01242208-v|шарт еткізу	llm_dev_v1	multiword	0
+01242208-v|сарт еткізу	llm_dev_v1_medium	multiword	0
+01242208-v|шерту	llm_dev_v1_high		0
+01242208-v|шертпеу	llm_dev_v1		0
+01242208-v|тықылдату	llm_dev_v1_high		0
+01242208-v|шертпелеу	llm_dev_v1_medium		0
+01452255-v|тасымалдау	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+01452255-v|тасу	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+01480149-v|ұстау	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+01480149-v|тұзаққа түсіру	llm_dev_v1_high	multiword	0
+01480149-v|қапқанға түсіру	llm_dev_v1_medium	multiword	0
+01480149-v|аулау	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+01480149-v|қолға түсіру	llm_dev_v1	multiword	0
+01689880-a|ортодоксалды	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+01689880-a|дәстүрлі	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+01689880-a|жалпы қабылданған	llm_dev_v1_high	multiword	0
+01900408-v|абдыру	llm_dev_v1		0
+01900408-v|тайғанау	llm_dev_v1		0
+01900408-v|тайғақтау	llm_dev_v1_high|llm_dev_v1_medium		0
+01900408-v|сүрініп кету	llm_dev_v1_high|llm_dev_v1_medium	multiword	0
+01900408-v|сүріну	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+01927654-a|нәсілдік	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+02267060-v|төлеу	llm_dev_v1_medium		0
+02267060-v|жұмсау	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+02267060-v|төгу	llm_dev_v1		0
+02267060-v|шығындау	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+02267060-v|шығын жасау	llm_dev_v1_high|llm_dev_v1_medium	multiword	0
+02270342-a|талғампаз	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+02270342-a|нәзік	llm_dev_v1_medium		0
+02270342-a|мәдениетті	llm_dev_v1		0
+02270342-a|білімпаз	llm_dev_v1_high		0
+02270342-a|көрнекті	llm_dev_v1_high		0
+02270342-a|сыпайы	llm_dev_v1|llm_dev_v1_medium		0
+02373336-v|тәуекел ету	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium	multiword	0
+02373336-v|бел буу	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium	multiword	0
+02373336-v|батылы бару	llm_dev_v1	multiword	0
+02373336-v|батылдық жасау	llm_dev_v1_high|llm_dev_v1_medium	multiword	0
+02718015-v|теңестіру	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+02718015-v|орнын толтыру	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium	multiword	1
+02718015-v|өтеу	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+02735282-v|жару	llm_dev_v1|llm_dev_v1_high		0
+02735282-v|ұнау	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+02735282-v|қолайлы болу	llm_dev_v1|llm_dev_v1_high	multiword	0
+02735282-v|келу	llm_dev_v1_medium		0
+02735282-v|жағу	llm_dev_v1_medium		0
+02829696-n|иірім	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+02829696-n|иін	llm_dev_v1_high		0
+02829696-n|бұрылыс	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+02829696-n|қайырым	llm_dev_v1|llm_dev_v1_medium		0
+02945813-n|босқындар лагері	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium	multiword	1
+03501811-n|аверс	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium	loan_letters	0
+03691459-n|қатты сөйлегіш	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium	multiword	0
+03691459-n|дауыс зорайтқыш	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium	multiword	0
+03691459-n|дыбыс зорайтқыш	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium	multiword	1
+03691459-n|динамик	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+04317420-n|таяқ	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+04317420-n|шыбық	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+04317420-n|сойыл	llm_dev_v1|llm_dev_v1_medium		1
+04317420-n|сүймен	llm_dev_v1_high		0
+04426788-n|иірілген жіп	llm_dev_v1_medium	multiword	0
+04426788-n|ине жібі	llm_dev_v1_high	multiword	0
+04426788-n|ине жіп	llm_dev_v1	multiword	0
+04426788-n|жіп	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+04602044-n|жұмыс орын	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium	multiword	0
+04602044-n|жұмыс орны	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium	multiword	1
+04869106-n|ар	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+04869106-n|намыс	llm_dev_v1|llm_dev_v1_high		0
+04869106-n|абырой	llm_dev_v1|llm_dev_v1_high		1
+04893787-n|үнемдеушілік	llm_dev_v1_high		0
+04893787-n|ысырапсыздық	llm_dev_v1_high		0
+04893787-n|үнемшілдік	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+04893787-n|сақтық	llm_dev_v1		0
+04893787-n|ұқыптылық	llm_dev_v1_medium		0
+04893787-n|үнем	llm_dev_v1|llm_dev_v1_medium		1
+05919263-n|жан	llm_dev_v1|llm_dev_v1_medium		0
+05919263-n|қойын	llm_dev_v1_high		0
+05919263-n|жүрек	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+05919263-n|көңіл	llm_dev_v1_high		0
+05919263-n|көкірек	llm_dev_v1|llm_dev_v1_medium		0
+06399995-n|абзац	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium	loan_letters	1
+07203126-n|айғақтау	llm_dev_v1		0
+07203126-n|тұжырымдау	llm_dev_v1|llm_dev_v1_high		0
+07203126-n|растау	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+07203126-n|бекіту	llm_dev_v1_medium		1
+07203126-n|дәлелдеу	llm_dev_v1_high		0
+07203126-n|мәлімдеме	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+07203126-n|айту	llm_dev_v1_medium		0
+07452074-n|неке қию	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium	multiword	0
+07452074-n|үйлену тойы	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium	multiword	1
+07452074-n|той	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+07452074-n|неке тойы	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium	multiword	0
+07929519-n|кофе	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium	loan_letters	1
+10727256-n|қазынашы	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+10780632-n|ғайып	llm_dev_v1_high		0
+10780632-n|қатын	llm_dev_v1		1
+10780632-n|зайып	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+10780632-n|ұялас	llm_dev_v1_medium		0
+10780632-n|жар	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+10780632-n|әйел	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+10780632-n|жұбай	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+11485367-n|күн сәулесі	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium	multiword	1
+11485367-n|күн нұры	llm_dev_v1_high|llm_dev_v1_medium	multiword	0
+11485367-n|күн көзі	llm_dev_v1	multiword	0
+11485367-n|күн шұғыласы	llm_dev_v1_high|llm_dev_v1_medium	multiword	0
+11485367-n|күн сәуле	llm_dev_v1	multiword	0
+11669921-n|гүл	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+13125117-n|тамыр	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+13125117-n|түбір	llm_dev_v1		1
+13308999-n|салық	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+13421832-n|бюджет	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+13729236-n|айырма	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+13778671-n|тұрақ	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+13778671-n|паркинг	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+13778671-n|көлік тұрағы	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium	multiword	0
+13840719-n|саясат	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+14814616-n|тас көмір	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium	multiword	0
+14814616-n|көмір	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
+14856263-n|қалдықтар	llm_dev_v1		1
+14856263-n|қоқыс-қалдық	llm_dev_v1_high|llm_dev_v1_medium		0
+14856263-n|қоқыс	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+14856263-n|қалдық	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		0
+14939445-n|сұйықтық	llm_dev_v1|llm_dev_v1_high|llm_dev_v1_medium		1
