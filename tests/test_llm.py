@@ -54,7 +54,7 @@ def test_run_logs_and_request_shape(tmp_path):
     assert n == 2 and spent == pytest.approx(2 * (1000 * 2 + 100 * 10) / 1e6)
     kw = fake.calls[0]
     assert kw["model"] == "claude-sonnet-5-5" and "temperature" not in kw
-    assert kw["output_config"]["effort"] == "low" and kw["output_config"]["format"]["type"] == "json_schema"
+    assert kw["output_config"]["effort"] == CFG["effort"] and kw["output_config"]["format"]["type"] == "json_schema"
     rows = L.read_raw(tmp_path / "t.jsonl")
     assert rows[0]["system"] and rows[0]["user"] and rows[0]["usage"]["output_tokens"] == 100
 
@@ -149,7 +149,7 @@ def test_model_id_override_and_projection_for_other_models(tmp_path):
     L.run(inputs(), {"dev"}, "o", "claude-opus-5-5", cfg, client=fake, raw_dir=tmp_path, log=lambda *_: None)
     assert fake.calls[0]["model"] == "claude-opus-5-5"
     rep = L.project("o", cfg, tmp_path)  # $0.006 per prompt -> 0.006 * 825 = 4.95 > cap
-    assert rep["model"] == "claude-opus-5-5" and rep["effort"] == "low" and rep["decision"] == "over_cap"
+    assert rep["model"] == "claude-opus-5-5" and rep["effort"] == CFG["effort"] and rep["decision"] == "over_cap"
     with pytest.raises(L.LLMError, match="no price"):
         L.run(inputs(), {"dev"}, "x", "claude-unknown", CFG, client=Fake([]), raw_dir=tmp_path, log=lambda *_: None)
     fz = tmp_path / "fz.json"

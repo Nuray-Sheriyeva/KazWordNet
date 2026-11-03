@@ -1,7 +1,7 @@
 {
   "primary": "claude-sonnet-5-5",
   "fallback": "claude-haiku-5-5",
-  "effort": "low",
+  "effort": "high",
   "max_tokens": 3000,
   "max_lemmas": 6,
   "prompt_file": "prompts/b2_prompt_v1.txt",

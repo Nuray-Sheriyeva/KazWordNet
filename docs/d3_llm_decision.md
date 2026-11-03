@@ -33,3 +33,6 @@ Model choice delegated by the owner to the assistant (Claude) with a budget cons
 - Kazakhstan payment and availability.
 
 Changes to model, effort, budget or the fallback rule need a dated amendment made before the affected outputs are inspected.
+
+## Amendment (2026-11-02)
+Effort changed from low to high after the dev experiment in docs/b2_effort_experiment.md (post-hoc deviation from that experiment's tie-break, recorded there). Model unchanged: claude-sonnet-5-5. Fallback and cap unchanged. Measured cost per prompt is about $0.0017 at every effort tested; projected project cost $1.45 at high. Opus 5.5 was not tested.

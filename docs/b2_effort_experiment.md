@@ -22,3 +22,18 @@ Fill from the summary command. Output tokens were about 27 per prompt at low and
 - Before this rule was fixed, the owner saw a listing of 10 of the 23 synsets where low and medium differed and noted one variant error (силау, medium).
 - Owner's view: the differences between runs are mostly sampling noise (these models have no temperature setting). No repeat run of the same arm was made to measure it.
 - Effort trials count toward the spend meter, so they eat into the $4 cap.
+## Results (2026-11-02, dev set; data/reports/llm_dev_score.json)
+Per arm over all judged rows it proposed; 0 rows excluded; Wilson 95%.
+| arm | effort | judged | correct | precision | Wilson | dev synsets with a correct candidate | projected project cost |
+|---|---|---|---|---|---|---|---|
+| llm_dev_v1 | low | 126 | 92 | 0.730 | 0.647-0.800 | 45 | $1.37 |
+| llm_dev_v1_medium | medium | 124 | 97 | 0.782 | 0.702-0.846 | 46 | $1.38 |
+| llm_dev_v1_high | high | 128 | 102 | 0.797 | 0.719-0.857 | 45 | $1.45 |
+Errors (wrong_sense / form / other / russian_loan / calque): low 19/7/4/3/1; medium 17/2/4/3/1; high 13/5/4/3/1.
+Opus 5.5 arms were not run.
+
+Rule outcome: best 0.797 (high). High and medium are within 5 points (1.5 points); low is 6.7 points behind. The tie-break (lowest projected cost, then lower effort) selects medium.
+
+## Decision (owner, 2026-11-02)
+The owner chose high effort. This deviates from the pre-registered tie-break and was decided after seeing the results, so it is a post-hoc deviation, not an amendment. Her reason: the cost difference is small (about $0.07 on the projected project cost) and high had the highest dev precision. The Wilson intervals of high and medium overlap almost entirely, so the dev data do not show that high is better.
+Chosen arm: claude-sonnet-5-5, effort high, prompt v1.
