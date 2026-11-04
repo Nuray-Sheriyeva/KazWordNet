@@ -14,8 +14,8 @@ A small, evaluated **Kazakh WordNet**, built by automatic methods as a mini-repl
 |---|---|---|
 | B0 | Dictionary only: Wiktionary translations via kaikki.org, POS-aware, sense-blind | done |
 | B1 | B0 plus gloss-aware machine translation (`lemma: gloss`) | done |
-| B2 | LLM prompted with gloss, examples and hypernym | planned |
-| B3 | Keep lemmas that at least 2 of 3 sources agree on (dictionary, MT, LLM) | done |
+| B2 | LLM prompted with gloss, examples and hypernym | done |
+| B3 | Keep lemmas that at least 2 of 3 sources agree on (dictionary, MT, LLM) | planned |
 
 The MT engine was chosen between Tilmash and NLLB-200-600M by a rule fixed before the results (`docs/s4_selection_rule.md`).
 
