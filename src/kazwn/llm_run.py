@@ -7,6 +7,7 @@ import argparse
 import csv
 import hashlib
 import json
+import os
 import sys
 import time
 from datetime import date
@@ -113,6 +114,8 @@ def total_spent(raw_dir=RAW):
 
 
 def make_client():
+    if not os.environ.get("ANTHROPIC_API_KEY"):
+        raise LLMError("ANTHROPIC_API_KEY is not set in this shell: export it and rerun (nothing was called or written)")
     try:
         import anthropic
     except ImportError:
@@ -148,7 +151,9 @@ def select(inputs, pools, limit=None):
 
 def run(inputs, pools, tag, model_key, cfg, allow_test=False, limit=None, client=None,
         raw_dir=RAW, prompt_path=None, freeze_path=FREEZE, log=print):
-    model = cfg[model_key]
+    model = cfg.get(model_key, model_key)
+    if model not in cfg["prices_usd_per_mtok"]:
+        raise LLMError(f"no price for {model!r} in configs/llm.json")
     prompt_path = Path(prompt_path or ROOT / cfg["prompt_file"])
     if "test" in pools:
         if not allow_test:
@@ -160,8 +165,8 @@ def run(inputs, pools, tag, model_key, cfg, allow_test=False, limit=None, client
     out.parent.mkdir(parents=True, exist_ok=True)
     existing = read_raw(out)
     for r in existing:
-        if r["model"] != model or r["prompt_sha256"] != sha:
-            raise LLMError(f"{out} holds rows from another model/prompt; use a new --tag")
+        if r["model"] != model or r["prompt_sha256"] != sha or r.get("effort") != cfg["effort"]:
+            raise LLMError(f"{out} holds rows from another model/prompt/effort; use a new --tag")
     done = {r["input_id"] for r in existing}
     todo = [i for i in select(inputs, pools, limit) if i["input_id"] not in done]
     spent = total_spent(raw_dir)
@@ -195,27 +200,33 @@ def project(tag, cfg, raw_dir=RAW):
     rows = read_raw(Path(raw_dir) / f"{tag}.jsonl")
     if not rows:
         raise LLMError(f"no rows for tag {tag}")
-    if {r["model"] for r in rows} != {cfg["primary"]}:
-        raise LLMError("the cost pilot must be run on the primary model")
+    models, efforts = {r["model"] for r in rows}, {r.get("effort") for r in rows}
+    if len(models) != 1 or len(efforts) != 1:
+        raise LLMError(f"tag {tag} mixes models or efforts")
+    model, effort = models.pop(), efforts.pop()
     p = cfg["projection"]
     mean = sum(r["cost_usd"] for r in rows) / len(rows)
     projected = mean * (p["standard_prompts"] + p["batch_prompts"] * p["batch_discount"])
+    within = projected <= cfg["cap_usd"]
+    if model == cfg["primary"]:
+        decision = cfg["primary"] if within else cfg["fallback"]
+    else:
+        decision = model if within else "over_cap"
     return {
-        "tag": tag, "model": cfg["primary"], "pilot_rows": len(rows),
+        "tag": tag, "model": model, "effort": effort, "pilot_rows": len(rows),
         "mean_input_tokens": sum(r["usage"]["input_tokens"] for r in rows) / len(rows),
         "mean_output_tokens": sum(r["usage"]["output_tokens"] for r in rows) / len(rows),
         "mean_cost_usd": mean, "projected_total_usd": projected, "cap_usd": cfg["cap_usd"],
         "rule": "projected = mean cost x (standard + batch x discount) prompts; primary if <= cap else fallback",
-        "decision": cfg["primary"] if projected <= cfg["cap_usd"] else cfg["fallback"],
+        "decision": decision,
     }
-
 
 def freeze(cfg, model_key, prompt_path=None, freeze_path=FREEZE):
     if Path(freeze_path).exists():
         raise LLMError(f"{freeze_path} already exists; a change needs a dated amendment, not an overwrite")
     prompt_path = Path(prompt_path or ROOT / cfg["prompt_file"])
     fz = {"prompt_file": str(Path(cfg["prompt_file"])), "prompt_sha256": sha256_file(prompt_path),
-          "model": cfg[model_key], "effort": cfg["effort"], "max_tokens": cfg["max_tokens"],
+          "model": cfg.get(model_key, model_key), "effort": cfg["effort"], "max_tokens": cfg["max_tokens"],
           "date": date.today().isoformat()}
     Path(freeze_path).write_text(json.dumps(fz, indent=2), encoding="utf-8")
     return fz
@@ -231,20 +242,24 @@ def main(argv=None):
     ap.add_argument("--tag", help="output name: data/raw/llm/<tag>.jsonl")
     ap.add_argument("--pools", default="dev")
     ap.add_argument("--limit", type=int)
-    ap.add_argument("--model", choices=["primary", "fallback"], default="primary")
+    ap.add_argument("--model", default="primary", help="primary, fallback, or a priced model id such as claude-opus-5-5")
     ap.add_argument("--allow-test", action="store_true")
     ap.add_argument("--preview", type=int, metavar="N", help="print N rendered prompts, no API call")
     ap.add_argument("--project", metavar="TAG", help="apply the cost rule to a pilot run")
     ap.add_argument("--freeze", action="store_true")
+    ap.add_argument("--effort", choices=["low", "medium", "high"], help="override configs/llm.json effort for this run")
     a = ap.parse_args(argv)
     cfg = load_cfg()
+    if a.effort:
+        cfg = dict(cfg, effort=a.effort)
     try:
         if a.freeze:
             print(json.dumps(freeze(cfg, a.model), indent=2))
         elif a.project:
             rep = project(a.project, cfg)
             REPORTS.mkdir(parents=True, exist_ok=True)
-            (REPORTS / "llm_cost_projection.json").write_text(json.dumps(rep, indent=2), encoding="utf-8")
+            name = "llm_cost_projection.json" if a.project == "pilot" else f"llm_cost_projection_{a.project}.json"
+            (REPORTS / name).write_text(json.dumps(rep, indent=2), encoding="utf-8")
             print(json.dumps(rep, indent=2))
         elif a.preview:
             system, user_t = load_prompt(ROOT / cfg["prompt_file"])

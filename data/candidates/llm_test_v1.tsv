@@ -1,0 +1,239 @@
+synset_id	lemma_en	lemma_kk	lemma_raw	pos	source	evidence	flags
+00015498-v	catch a wink|catnap|nap	көз шырымын алу	көз шырымын алу	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00015498-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""көз шырымын алу""}]"	multiword
+00015498-v	catch a wink|catnap|nap	мызғу	мызғу	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00015498-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""мызғу""}]"	
+00015498-v	catch a wink|catnap|nap	шынықтыру	шынықтыру	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00015498-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""шынықтыру""}]"	
+00020671-v	hypnotise|hypnotize|mesmerise|mesmerize	гипноз жасау	гипноз жасау	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00020671-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""гипноз жасау""}]"	multiword
+00020671-v	hypnotise|hypnotize|mesmerise|mesmerize	гипноздау	гипноздау	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00020671-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""гипноздау""}]"	
+00210848-s	bald|bald-headed|bald-pated	жалаңбас	жалаңбас	s	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00210848-s"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""жалаңбас""}]"	
+00210848-s	bald|bald-headed|bald-pated	таз	таз	s	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00210848-s"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""таз""}]"	
+00210848-s	bald|bald-headed|bald-pated	таздау	таздау	s	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00210848-s"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""таздау""}]"	
+00329831-a	central	орталық	орталық	a	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00329831-a"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""орталық""}]"	
+00329831-a	central	ортаңғы	ортаңғы	a	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00329831-a"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""ортаңғы""}]"	
+00372111-s	brown|brownish|chocolate-brown|dark-brown	шоколад түсті	шоколад түсті	s	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00372111-s"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""шоколад түсті""}]"	multiword
+00372111-s	brown|brownish|chocolate-brown|dark-brown	қоңыр	қоңыр	s	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00372111-s"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""қоңыр""}]"	
+00372111-s	brown|brownish|chocolate-brown|dark-brown	қоңыр түсті	қоңыр түсті	s	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00372111-s"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""қоңыр түсті""}]"	multiword
+00404642-v	coordinate|organise|organize	жүйелеу	жүйелеу	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00404642-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""жүйелеу""}]"	
+00404642-v	coordinate|organise|organize	реттеу	реттеу	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00404642-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""реттеу""}]"	
+00404642-v	coordinate|organise|organize	ұйымдастыру	ұйымдастыру	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00404642-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""ұйымдастыру""}]"	
+00415676-n	path|way|way of life	жол	жол	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00415676-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""жол""}]"	
+00415676-n	path|way|way of life	өмір жолы	өмір жолы	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00415676-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""өмір жолы""}]"	multiword
+00438707-a	smart	зерек	зерек	a	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00438707-a"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""зерек""}]"	
+00438707-a	smart	тапқыр	тапқыр	a	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00438707-a"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""тапқыр""}]"	
+00438707-a	smart	шебер	шебер	a	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00438707-a"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""шебер""}]"	
+00438707-a	smart	ұқыпты	ұқыпты	a	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00438707-a"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""ұқыпты""}]"	
+00503982-a	comparable	салыстырмалы	салыстырмалы	a	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00503982-a"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""салыстырмалы""}]"	
+00503982-a	comparable	салыстыруға келетін	салыстыруға келетін	a	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00503982-a"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""салыстыруға келетін""}]"	multiword
+00505853-s	alone|unequaled|unequalled|unique|unparalleled	баламасыз	баламасыз	s	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00505853-s"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""баламасыз""}]"	
+00505853-s	alone|unequaled|unequalled|unique|unparalleled	бірегей	бірегей	s	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00505853-s"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""бірегей""}]"	
+00505853-s	alone|unequaled|unequalled|unique|unparalleled	ерекше	ерекше	s	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00505853-s"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""ерекше""}]"	
+00505853-s	alone|unequaled|unequalled|unique|unparalleled	теңдессіз	теңдессіз	s	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00505853-s"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""теңдессіз""}]"	
+00505853-s	alone|unequaled|unequalled|unique|unparalleled	қайталанбас	қайталанбас	s	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00505853-s"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""қайталанбас""}]"	
+00697419-v	screen	сұрыптау	сұрыптау	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00697419-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""сұрыптау""}]"	
+00697419-v	screen	тексеру	тексеру	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00697419-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""тексеру""}]"	
+00697589-v	decide|determine|make up one's mind	байламдау	байламдау	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00697589-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""байламдау""}]"	
+00697589-v	decide|determine|make up one's mind	тоқтам жасау	тоқтам жасау	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00697589-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""тоқтам жасау""}]"	multiword
+00697589-v	decide|determine|make up one's mind	шешу	шешу	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00697589-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""шешу""}]"	
+00697589-v	decide|determine|make up one's mind	шешім қабылдау	шешім қабылдау	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00697589-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""шешім қабылдау""}]"	multiword
+00724081-a	dependable|reliable	сенімді	сенімді	a	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00724081-a"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""сенімді""}]"	
+00779061-v	break|intermit|pause	аялдау	аялдау	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00779061-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""аялдау""}]"	
+00779061-v	break|intermit|pause	кідіру	кідіру	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00779061-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""кідіру""}]"	
+00779061-v	break|intermit|pause	тоқтап қалу	тоқтап қалу	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00779061-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""тоқтап қалу""}]"	multiword
+00779061-v	break|intermit|pause	үзіліс жасау	үзіліс жасау	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00779061-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""үзіліс жасау""}]"	multiword
+00779360-v	breathe|catch one's breath|rest|take a breather	дем алу	дем алу	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00779360-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""дем алу""}]"	multiword
+00779360-v	breathe|catch one's breath|rest|take a breather	демалу	демалу	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00779360-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""демалу""}]"	
+00779360-v	breathe|catch one's breath|rest|take a breather	тыныстау	тыныстау	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00779360-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""тыныстау""}]"	
+00845299-v	abuse|blackguard|clapperclaw|shout	балағаттау	балағаттау	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00845299-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""балағаттау""}]"	
+00845299-v	abuse|blackguard|clapperclaw|shout	дөрекі сөйлеу	дөрекі сөйлеу	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00845299-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""дөрекі сөйлеу""}]"	multiword
+00845299-v	abuse|blackguard|clapperclaw|shout	сөгу	сөгу	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00845299-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""сөгу""}]"	
+00890590-v	assure|ensure|guarantee|insure|secure	кепілдеу	кепілдеу	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00890590-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""кепілдеу""}]"	
+00890590-v	assure|ensure|guarantee|insure|secure	кепілдік беру	кепілдік беру	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00890590-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""кепілдік беру""}]"	multiword
+00890590-v	assure|ensure|guarantee|insure|secure	қамтамасыз ету	қамтамасыз ету	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00890590-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""қамтамасыз ету""}]"	multiword
+00892145-n	seminar	семинар	семинар	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00892145-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""семинар""}]"	
+00906367-v	convict	айыптау	айыптау	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00906367-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""айыптау""}]"	
+00906367-v	convict	кінәлі деп тану	кінәлі деп тану	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00906367-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""кінәлі деп тану""}]"	multiword
+01069283-s	bad|spoiled|spoilt	айныған	айныған	s	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01069283-s"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""айныған""}]"	
+01069283-s	bad|spoiled|spoilt	бұзылған	бұзылған	s	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01069283-s"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""бұзылған""}]"	
+01069283-s	bad|spoiled|spoilt	сасыған	сасыған	s	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01069283-s"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""сасыған""}]"	
+01069283-s	bad|spoiled|spoilt	шіріген	шіріген	s	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01069283-s"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""шіріген""}]"	
+01125693-n	lawmaking|legislating|legislation	заң шығару	заң шығару	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01125693-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""заң шығару""}]"	multiword
+01125693-n	lawmaking|legislating|legislation	заң шығарушылық	заң шығарушылық	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01125693-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""заң шығарушылық""}]"	multiword
+01125693-n	lawmaking|legislating|legislation	заңнама	заңнама	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01125693-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""заңнама""}]"	
+01133281-n	direction|management	басқару	басқару	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01133281-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""басқару""}]"	
+01133281-n	direction|management	жетекшілік	жетекшілік	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01133281-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""жетекшілік""}]"	
+01133281-n	direction|management	меңгеру	меңгеру	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01133281-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""меңгеру""}]"	
+01143279-a	sudden	кенет	кенет	a	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01143279-a"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""кенет""}]"	
+01143279-a	sudden	күтпеген	күтпеген	a	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01143279-a"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""күтпеген""}]"	
+01143279-a	sudden	тосын	тосын	a	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01143279-a"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""тосын""}]"	
+01143279-a	sudden	тосыннан болған	тосыннан болған	a	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01143279-a"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""тосыннан болған""}]"	multiword
+01170962-n	combat|fight|fighting|scrap	жекпе-жек	жекпе-жек	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01170962-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""жекпе-жек""}]"	
+01170962-n	combat|fight|fighting|scrap	күрес	күрес	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01170962-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""күрес""}]"	
+01170962-n	combat|fight|fighting|scrap	төбелес	төбелес	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01170962-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""төбелес""}]"	
+01170962-n	combat|fight|fighting|scrap	шайқас	шайқас	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01170962-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""шайқас""}]"	
+01170962-n	combat|fight|fighting|scrap	ұрыс	ұрыс	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01170962-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""ұрыс""}]"	
+01212519-n	support	жәрдем	жәрдем	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01212519-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""жәрдем""}]"	
+01212519-n	support	көмек	көмек	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01212519-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""көмек""}]"	
+01212519-n	support	қолдау	қолдау	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01212519-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""қолдау""}]"	
+01261974-n	stimulation	түрткі болу	түрткі болу	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01261974-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""түрткі болу""}]"	multiword
+01261974-n	stimulation	ынталандыру	ынталандыру	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01261974-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""ынталандыру""}]"	
+01261974-n	stimulation	қоздыру	қоздыру	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01261974-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""қоздыру""}]"	
+01348174-v	lock	құлыптау	құлыптау	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01348174-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""құлыптау""}]"	
+01370561-v	kick	тебу	тебу	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01370561-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""тебу""}]"	
+01453433-v	drag	сүйреу	сүйреу	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01453433-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""сүйреу""}]"	
+01453433-v	drag	тарту	тарту	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01453433-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""тарту""}]"	
+01717628-v	debut	дебют жасау	дебют жасау	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01717628-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""дебют жасау""}]"	multiword
+01857392-v	stay|stay put|stick|stick around	отыру	отыру	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01857392-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""отыру""}]"	
+01857392-v	stay|stay put|stick|stick around	тұру	тұру	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01857392-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""тұру""}]"	
+01857392-v	stay|stay put|stick|stick around	қалу	қалу	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""01857392-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""қалу""}]"	
+02129604-n	Panthera tigris|tiger	жолбарыс	жолбарыс	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02129604-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""жолбарыс""}]"	
+02203362-v	have|have got|hold	болу	болу	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02203362-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""болу""}]"	
+02203362-v	have|have got|hold	ие болу	ие болу	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02203362-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""ие болу""}]"	multiword
+02385102-a	tall	биік	биік	a	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02385102-a"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""биік""}]"	
+02385102-a	tall	ұзын	ұзын	a	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02385102-a"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""ұзын""}]"	
+02390335-a	wild	бассыз	бассыз	a	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02390335-a"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""бассыз""}]"	
+02390335-a	wild	ерке	ерке	a	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02390335-a"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""ерке""}]"	
+02390335-a	wild	тізгінсіз	тізгінсіз	a	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02390335-a"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""тізгінсіз""}]"	
+02395406-n	Sus scrofa|grunter|hog|pig|squealer	доңыз	доңыз	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02395406-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""доңыз""}]"	
+02395406-n	Sus scrofa|grunter|hog|pig|squealer	шошқа	шошқа	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02395406-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""шошқа""}]"	
+02403454-n	cow|moo-cow	сиыр	сиыр	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02403454-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""сиыр""}]"	
+02440244-v	head|lead	бастау	бастау	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02440244-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""бастау""}]"	
+02440244-v	head|lead	басқару	басқару	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02440244-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""басқару""}]"	
+02440244-v	head|lead	жетекшілік ету	жетекшілік ету	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02440244-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""жетекшілік ету""}]"	multiword
+02461723-a	false	жалған	жалған	a	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02461723-a"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""жалған""}]"	
+02461723-a	false	жасанды	жасанды	a	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02461723-a"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""жасанды""}]"	
+02461723-a	false	өтірік	өтірік	a	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02461723-a"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""өтірік""}]"	
+02532595-v	experiment	сынақ жүргізу	сынақ жүргізу	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02532595-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""сынақ жүргізу""}]"	multiword
+02532595-v	experiment	тәжірибе жасау	тәжірибе жасау	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02532595-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""тәжірибе жасау""}]"	multiword
+02532595-v	experiment	тәжірибе жүргізу	тәжірибе жүргізу	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02532595-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""тәжірибе жүргізу""}]"	multiword
+02540670-v	assist|attend|attend to|serve|wait on	қызмет ету	қызмет ету	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02540670-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""қызмет ету""}]"	multiword
+02540670-v	assist|attend|attend to|serve|wait on	қызмет көрсету	қызмет көрсету	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02540670-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""қызмет көрсету""}]"	multiword
+02540670-v	assist|attend|attend to|serve|wait on	қызметін атқару	қызметін атқару	v	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02540670-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""қызметін атқару""}]"	multiword
+02795528-n	barrel|gun barrel	оқпан	оқпан	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02795528-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""оқпан""}]"	
+02795528-n	barrel|gun barrel	ұңғы	ұңғы	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02795528-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""ұңғы""}]"	
+02940392-a	experimental	тәжірибелік	тәжірибелік	a	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02940392-a"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""тәжірибелік""}]"	
+02940392-a	experimental	эксперименттік	эксперименттік	a	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""02940392-a"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""эксперименттік""}]"	loan_letters
+03237639-n	dressing|medical dressing	дәке	дәке	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""03237639-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""дәке""}]"	
+03237639-n	dressing|medical dressing	таңу материалы	таңу материалы	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""03237639-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""таңу материалы""}]"	multiword
+03237639-n	dressing|medical dressing	таңғыш	таңғыш	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""03237639-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""таңғыш""}]"	
+03416489-n	garage	гараж	гараж	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""03416489-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""гараж""}]"	
+03839795-n	obstacle	бөгет	бөгет	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""03839795-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""бөгет""}]"	
+03839795-n	obstacle	бөгеу	бөгеу	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""03839795-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""бөгеу""}]"	
+03839795-n	obstacle	кедергі	кедергі	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""03839795-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""кедергі""}]"	
+03839795-n	obstacle	тосқауыл	тосқауыл	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""03839795-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""тосқауыл""}]"	
+04092609-n	band|ring	жүзік	жүзік	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""04092609-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""жүзік""}]"	
+04101232-n	roll	орам	орам	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""04101232-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""орам""}]"	
+04127904-n	canvas|canvass|sail|sheet	желкен	желкен	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""04127904-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""желкен""}]"	
+04256520-n	couch|lounge|sofa	диван	диван	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""04256520-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""диван""}]"	loan_letters
+04256520-n	couch|lounge|sofa	кушетка	кушетка	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""04256520-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""кушетка""}]"	
+04850117-n	justice|justness	әділдік	әділдік	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""04850117-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""әділдік""}]"	
+04850117-n	justice|justness	әділеттілік	әділеттілік	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""04850117-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""әділеттілік""}]"	
+05289297-n	muscle|musculus	бұлшықет	бұлшықет	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""05289297-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""бұлшықет""}]"	
+05289297-n	muscle|musculus	еттің	еттің	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""05289297-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""еттің""}]"	
+05388805-n	heart|pump|ticker	жүрек	жүрек	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""05388805-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""жүрек""}]"	
+05399847-n	blood	қан	қан	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""05399847-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""қан""}]"	
+05737153-n	grade|mark|score	баға	баға	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""05737153-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""баға""}]"	
+05737153-n	grade|mark|score	отметка	отметка	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""05737153-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""отметка""}]"	
+05835747-n	concept|conception|construct	концепция	концепция	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""05835747-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""концепция""}]"	loan_letters
+05835747-n	concept|conception|construct	түсінік	түсінік	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""05835747-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""түсінік""}]"	
+05835747-n	concept|conception|construct	ұғым	ұғым	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""05835747-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""ұғым""}]"	
+05864577-n	vector	вектор	вектор	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""05864577-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""вектор""}]"	loan_letters
+06254007-n	broadcast	бағдарлама	бағдарлама	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""06254007-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""бағдарлама""}]"	
+06254007-n	broadcast	тарату	тарату	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""06254007-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""тарату""}]"	
+06254007-n	broadcast	хабар	хабар	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""06254007-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""хабар""}]"	
+06422740-n	guide|guidebook	анықтамалық	анықтамалық	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""06422740-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""анықтамалық""}]"	
+06422740-n	guide|guidebook	жолсерік	жолсерік	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""06422740-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""жолсерік""}]"	
+06422740-n	guide|guidebook	нұсқаулық	нұсқаулық	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""06422740-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""нұсқаулық""}]"	
+06485261-n	agenda|agendum|order of business	күн тәртібі	күн тәртібі	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""06485261-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""күн тәртібі""}]"	multiword
+06485261-n	agenda|agendum|order of business	күнтәртібі	күнтәртібі	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""06485261-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""күнтәртібі""}]"	
+06730780-n	accusation|charge	айып	айып	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""06730780-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""айып""}]"	
+06730780-n	accusation|charge	айып тағу	айып тағу	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""06730780-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""айып тағу""}]"	multiword
+06730780-n	accusation|charge	айыптау	айыптау	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""06730780-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""айыптау""}]"	
+06755568-n	condition|precondition|stipulation	алғышарт	алғышарт	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""06755568-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""алғышарт""}]"	
+06755568-n	condition|precondition|stipulation	шарт	шарт	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""06755568-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""шарт""}]"	
+06756831-n	lie|prevarication	айла	айла	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""06756831-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""айла""}]"	
+06756831-n	lie|prevarication	жалған	жалған	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""06756831-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""жалған""}]"	
+06756831-n	lie|prevarication	өтірік	өтірік	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""06756831-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""өтірік""}]"	
+06780678-n	cartoon|sketch	карикатура	карикатура	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""06780678-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""карикатура""}]"	
+06780678-n	cartoon|sketch	сықақ сурет	сықақ сурет	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""06780678-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""сықақ сурет""}]"	multiword
+06795746-n	item|token	токен	токен	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""06795746-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""токен""}]"	
+06863751-n	key|tonality	тональдық	тональдық	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""06863751-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""тональдық""}]"	loan_letters
+07009640-n	act	акт	акт	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""07009640-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""акт""}]"	
+07009640-n	act	көрініс	көрініс	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""07009640-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""көрініс""}]"	
+07009640-n	act	перде	перде	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""07009640-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""перде""}]"	
+07319103-n	success	жетістік	жетістік	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""07319103-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""жетістік""}]"	
+07319103-n	success	сәттілік	сәттілік	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""07319103-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""сәттілік""}]"	
+07319103-n	success	табыс	табыс	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""07319103-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""табыс""}]"	
+07402519-n	tide	толқын	толқын	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""07402519-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""толқын""}]"	
+07458453-n	race	бәйге	бәйге	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""07458453-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""бәйге""}]"	
+07458453-n	race	жарыс	жарыс	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""07458453-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""жарыс""}]"	
+07511080-n	anticipation|expectancy	күту	күту	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""07511080-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""күту""}]"	
+07511080-n	anticipation|expectancy	межелеу	межелеу	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""07511080-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""межелеу""}]"	
+07511080-n	anticipation|expectancy	үміт	үміт	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""07511080-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""үміт""}]"	
+07884567-n	alcohol|alcoholic beverage|alcoholic drink|inebriant|intoxicant	алкоголь	алкоголь	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""07884567-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""алкоголь""}]"	loan_letters
+07884567-n	alcohol|alcoholic beverage|alcoholic drink|inebriant|intoxicant	арақ-шарап	арақ-шарап	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""07884567-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""арақ-шарап""}]"	
+07884567-n	alcohol|alcoholic beverage|alcoholic drink|inebriant|intoxicant	спирттік ішімдік	спирттік ішімдік	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""07884567-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""спирттік ішімдік""}]"	multiword
+07884567-n	alcohol|alcoholic beverage|alcoholic drink|inebriant|intoxicant	ішімдік	ішімдік	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""07884567-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""ішімдік""}]"	
+07961016-n	ball|chunk|clod|clump|glob|lump	кесек	кесек	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""07961016-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""кесек""}]"	
+07961016-n	ball|chunk|clod|clump|glob|lump	топтама	топтама	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""07961016-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""топтама""}]"	
+07961016-n	ball|chunk|clod|clump|glob|lump	түйір	түйір	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""07961016-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""түйір""}]"	
+08060193-n	dealership|franchise	франшиза	франшиза	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""08060193-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""франшиза""}]"	loan_letters
+08404188-n	Opposition	оппозиция	оппозиция	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""08404188-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""оппозиция""}]"	loan_letters
+08434259-n	network|web	желі	желі	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""08434259-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""желі""}]"	
+08521623-n	burial ground|burial site|burying ground|cemetery|graveyard|memorial park|necropolis	бейіт	бейіт	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""08521623-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""бейіт""}]"	
+08521623-n	burial ground|burial site|burying ground|cemetery|graveyard|memorial park|necropolis	зират	зират	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""08521623-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""зират""}]"	
+08521623-n	burial ground|burial site|burying ground|cemetery|graveyard|memorial park|necropolis	көрстан	көрстан	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""08521623-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""көрстан""}]"	
+08521623-n	burial ground|burial site|burying ground|cemetery|graveyard|memorial park|necropolis	қабірстан	қабірстан	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""08521623-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""қабірстан""}]"	
+08521623-n	burial ground|burial site|burying ground|cemetery|graveyard|memorial park|necropolis	қорым	қорым	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""08521623-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""қорым""}]"	
+08549070-n	development	шағынаудан	шағынаудан	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""08549070-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""шағынаудан""}]"	
+08613472-n	exterior|outside	сырты	сырты	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""08613472-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""сырты""}]"	
+08613472-n	exterior|outside	сыртқы бет	сыртқы бет	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""08613472-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""сыртқы бет""}]"	multiword
+08613472-n	exterior|outside	сыртқы жағы	сыртқы жағы	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""08613472-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""сыртқы жағы""}]"	multiword
+08645033-n	countryside	ауылдық жер	ауылдық жер	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""08645033-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""ауылдық жер""}]"	multiword
+08645033-n	countryside	дала	дала	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""08645033-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""дала""}]"	
+08645033-n	countryside	шөл	шөл	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""08645033-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""шөл""}]"	
+09285254-n	fragment	бөлшек	бөлшек	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""09285254-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""бөлшек""}]"	
+09285254-n	fragment	жарқыншақ	жарқыншақ	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""09285254-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""жарқыншақ""}]"	
+09285254-n	fragment	сынық	сынық	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""09285254-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""сынық""}]"	
+09285254-n	fragment	үзінді	үзінді	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""09285254-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""үзінді""}]"	
+09774266-n	adviser|advisor|consultant	кеңесгер	кеңесгер	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""09774266-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""кеңесгер""}]"	
+09774266-n	adviser|advisor|consultant	кеңесуші	кеңесуші	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""09774266-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""кеңесуші""}]"	
+09774266-n	adviser|advisor|consultant	кеңесші	кеңесші	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""09774266-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""кеңесші""}]"	
+09774266-n	adviser|advisor|consultant	консультант	консультант	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""09774266-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""консультант""}]"	loan_letters
+09876701-n	Brother	бауыр	бауыр	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""09876701-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""бауыр""}]"	
+09923673-n	citizen	азамат	азамат	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""09923673-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""азамат""}]"	
+09923673-n	citizen	бұқара	бұқара	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""09923673-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""бұқара""}]"	
+09960117-n	contact|middleman	делдал	делдал	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""09960117-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""делдал""}]"	
+09960117-n	contact|middleman	дәнекер	дәнекер	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""09960117-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""дәнекер""}]"	
+10208583-n	insider	инсайдер	инсайдер	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""10208583-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""инсайдер""}]"	
+10464711-n	predecessor	алдыңғы	алдыңғы	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""10464711-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""алдыңғы""}]"	
+10464711-n	predecessor	предшественник	предшественник	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""10464711-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""предшественник""}]"	loan_letters
+10464711-n	predecessor	өзінен бұрынғы	өзінен бұрынғы	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""10464711-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""өзінен бұрынғы""}]"	multiword
+10628644-n	crowned head|monarch|sovereign	монарх	монарх	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""10628644-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""монарх""}]"	
+10628644-n	crowned head|monarch|sovereign	патша	патша	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""10628644-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""патша""}]"	
+10628644-n	crowned head|monarch|sovereign	хан	хан	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""10628644-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""хан""}]"	
+11502497-n	rain shower|shower	жауын-шашын	жауын-шашын	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""11502497-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""жауын-шашын""}]"	
+11502497-n	rain shower|shower	нөсер	нөсер	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""11502497-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""нөсер""}]"	
+11502497-n	rain shower|shower	қысқа мерзімді жауын	қысқа мерзімді жауын	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""11502497-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""қысқа мерзімді жауын""}]"	multiword
+13323749-n	toll	алым	алым	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""13323749-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""алым""}]"	
+13323749-n	toll	жол ақысы	жол ақысы	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""13323749-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""жол ақысы""}]"	multiword
+13323749-n	toll	өткел ақысы	өткел ақысы	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""13323749-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""өткел ақысы""}]"	multiword
+13381145-n	bank deposit|deposit	банк салымы	банк салымы	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""13381145-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""банк салымы""}]"	multiword
+13381145-n	bank deposit|deposit	депозит	депозит	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""13381145-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""депозит""}]"	
+13381145-n	bank deposit|deposit	салым	салым	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""13381145-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""салым""}]"	
+13563746-n	natural selection|selection|survival|survival of the fittest	табиғи сұрыпталу	табиғи сұрыпталу	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""13563746-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""табиғи сұрыпталу""}]"	multiword
+13563746-n	natural selection|selection|survival|survival of the fittest	табиғи таңдау	табиғи таңдау	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""13563746-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""табиғи таңдау""}]"	multiword
+13971901-n	consensus	бірауыздылық	бірауыздылық	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""13971901-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""бірауыздылық""}]"	
+13971901-n	consensus	консенсус	консенсус	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""13971901-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""консенсус""}]"	
+13971901-n	consensus	пікірлестік	пікірлестік	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""13971901-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""пікірлестік""}]"	
+14002279-n	balance	салмақ	салмақ	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""14002279-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""салмақ""}]"	
+14002279-n	balance	тепе-тең күй	тепе-тең күй	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""14002279-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""тепе-тең күй""}]"	multiword
+14002279-n	balance	тепе-теңдік	тепе-теңдік	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""14002279-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""тепе-теңдік""}]"	
+14002279-n	balance	теңгерім	теңгерім	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""14002279-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""теңгерім""}]"	
+14462946-n	failing|weakness	кем-кетік	кем-кетік	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""14462946-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""кем-кетік""}]"	
+14462946-n	failing|weakness	кемшілік	кемшілік	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""14462946-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""кемшілік""}]"	
+14462946-n	failing|weakness	олқылық	олқылық	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""14462946-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""олқылық""}]"	
+14462946-n	failing|weakness	әлсіздік	әлсіздік	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""14462946-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""әлсіздік""}]"	
+14479615-n	state|state of matter	агрегаттық күй	агрегаттық күй	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""14479615-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""агрегаттық күй""}]"	multiword
+14479615-n	state|state of matter	күй	күй	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""14479615-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""күй""}]"	
+15205532-n	century	жүзжылдық	жүзжылдық	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""15205532-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""жүзжылдық""}]"	
+15205532-n	century	ғасыр	ғасыр	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""15205532-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""ғасыр""}]"	
+15270245-n	slot|time slot	слот	слот	n	llm	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""15270245-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""слот""}]"	

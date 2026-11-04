@@ -1,0 +1,12 @@
+{
+  "tag": "pilot",
+  "model": "claude-sonnet-5-5",
+  "pilot_rows": 10,
+  "mean_input_tokens": 702.0,
+  "mean_output_tokens": 28.1,
+  "mean_cost_usd": 0.001685,
+  "projected_total_usd": 1.390125,
+  "cap_usd": 4.0,
+  "rule": "projected = mean cost x (standard + batch x discount) prompts; primary if <= cap else fallback",
+  "decision": "claude-sonnet-5-5"
+}

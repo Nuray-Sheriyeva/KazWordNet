@@ -1,0 +1,8 @@
+{
+  "prompt_file": "prompts/b2_prompt_v1.txt",
+  "prompt_sha256": "21708524d6fbf4e73a0d983e1239d01ff5c39e8379467dde2d861e71e02097a5",
+  "model": "claude-sonnet-5-5",
+  "effort": "high",
+  "max_tokens": 3000,
+  "date": "2026-11-03"
+}

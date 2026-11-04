@@ -1,0 +1,121 @@
+key_id	synset_id	pos	lemma_en	gloss	lemma_kk	correct	error_category	notes
+00294579-s|салақ	00294579-s	s	faineant|indolent|lazy|otiose|slothful|work-shy	disinclined to work or exertion	салақ	0	wrong_sense	
+00294579-s|еріншек	00294579-s	s	faineant|indolent|lazy|otiose|slothful|work-shy	disinclined to work or exertion	еріншек	1		
+00294579-s|салғырт	00294579-s	s	faineant|indolent|lazy|otiose|slothful|work-shy	disinclined to work or exertion	салғырт	1		
+00294579-s|ерінші	00294579-s	s	faineant|indolent|lazy|otiose|slothful|work-shy	disinclined to work or exertion	ерінші	0	form	
+00294579-s|бекер	00294579-s	s	faineant|indolent|lazy|otiose|slothful|work-shy	disinclined to work or exertion	бекер	0	wrong_sense	
+00445548-a|қашық	00445548-a	a	distant	separated in space or coming from or going to a distance	қашық	1		
+00445548-a|шалғай	00445548-a	a	distant	separated in space or coming from or going to a distance	шалғай	1		
+00553732-s|бірауыздан қабылданған	00553732-s	s	consentaneous|consentient|unanimous	in complete agreement	бірауыздан қабылданған	1		
+00553732-s|бірауыздылық	00553732-s	s	consentaneous|consentient|unanimous	in complete agreement	бірауыздылық	0	form	
+00553732-s|бір пікірлі	00553732-s	s	consentaneous|consentient|unanimous	in complete agreement	бір пікірлі	1		
+00553732-s|ауызбірлікті	00553732-s	s	consentaneous|consentient|unanimous	in complete agreement	ауызбірлікті	1		
+00553732-s|бірауызды	00553732-s	s	consentaneous|consentient|unanimous	in complete agreement	бірауызды	1		
+00553732-s|ауыздан	00553732-s	s	consentaneous|consentient|unanimous	in complete agreement	ауыздан	0	wrong_sense	
+00694068-v|силау	00694068-v	v	esteem|prise|prize|respect|value	regard highly; think much of	силау	0	other	
+00694068-v|бағалау	00694068-v	v	esteem|prise|prize|respect|value	regard highly; think much of	бағалау	1		
+00694068-v|сыйлау	00694068-v	v	esteem|prise|prize|respect|value	regard highly; think much of	сыйлау	1		
+00834198-a|күшті	00834198-a	a	effective|effectual|efficacious	producing or capable of producing an intended result or having a striking effect; -LewisMumford	күшті	1		
+00834198-a|әсерлі	00834198-a	a	effective|effectual|efficacious	producing or capable of producing an intended result or having a striking effect; -LewisMumford	әсерлі	1		
+00834198-a|пәрменді	00834198-a	a	effective|effectual|efficacious	producing or capable of producing an intended result or having a striking effect; -LewisMumford	пәрменді	1		
+00905852-v|рақымшылық жасау	00905852-v	v	excuse|pardon	accept an excuse for	рақымшылық жасау	1		
+00905852-v|кешірім ету	00905852-v	v	excuse|pardon	accept an excuse for	кешірім ету	1		
+00980038-n|жаппай шабуыл	00980038-n	n	offence|offense|offensive	the action of attacking an enemy	жаппай шабуыл	0	wrong_sense	
+00980038-n|шабуылдау	00980038-n	n	offence|offense|offensive	the action of attacking an enemy	шабуылдау	0	form	
+00980038-n|жорық	00980038-n	n	offence|offense|offensive	the action of attacking an enemy	жорық	1		
+00980038-n|ұрыс	00980038-n	n	offence|offense|offensive	the action of attacking an enemy	ұрыс	0	wrong_sense	
+00980038-n|һұжым	00980038-n	n	offence|offense|offensive	the action of attacking an enemy	һұжым	0	other	
+01047338-n|қайта жандану	01047338-n	n	resurgence|revitalisation|revitalization|revival|revivification	bringing again into activity and prominence	қайта жандану	1		
+01047338-n|өрлеу	01047338-n	n	resurgence|revitalisation|revitalization|revival|revivification	bringing again into activity and prominence	өрлеу	1		
+01047338-n|түлеу	01047338-n	n	resurgence|revitalisation|revitalization|revival|revivification	bringing again into activity and prominence	түлеу	1		
+01047338-n|жандану	01047338-n	n	resurgence|revitalisation|revitalization|revival|revivification	bringing again into activity and prominence	жандану	1		
+01047338-n|қайта жаңғыру	01047338-n	n	resurgence|revitalisation|revitalization|revival|revivification	bringing again into activity and prominence	қайта жаңғыру	1		
+01147347-n|қамаққа алу	01147347-n	n	custody	holding by the police	қамаққа алу	1		
+01147347-n|қамауға алу	01147347-n	n	custody	holding by the police	қамауға алу	1		
+01147347-n|қамау	01147347-n	n	custody	holding by the police	қамау	1		
+01147347-n|ұстау	01147347-n	n	custody	holding by the police	ұстау	1		
+01147347-n|қамауда ұстау	01147347-n	n	custody	holding by the police	қамауда ұстау	1		
+01168569-n|таластық	01168569-n	n	competition|contention|rivalry	the act of competing as for profit or a prize	таластық	0	form	
+01168569-n|сайыс	01168569-n	n	competition|contention|rivalry	the act of competing as for profit or a prize	сайыс	1		
+01168569-n|күрес	01168569-n	n	competition|contention|rivalry	the act of competing as for profit or a prize	күрес	1		
+01242208-v|шарт еткізу	01242208-v	v	click|flick|snap	cause to make a snapping sound	шарт еткізу	1		
+01242208-v|сарт еткізу	01242208-v	v	click|flick|snap	cause to make a snapping sound	сарт еткізу	1		
+01242208-v|шерту	01242208-v	v	click|flick|snap	cause to make a snapping sound	шерту	1		
+01242208-v|шертпеу	01242208-v	v	click|flick|snap	cause to make a snapping sound	шертпеу	0	wrong_sense	
+01242208-v|тықылдату	01242208-v	v	click|flick|snap	cause to make a snapping sound	тықылдату	1		
+01242208-v|шертпелеу	01242208-v	v	click|flick|snap	cause to make a snapping sound	шертпелеу	0	other	
+01452255-v|тасу	01452255-v	v	haul	transport in a vehicle	тасу	1		
+01480149-v|ұстау	01480149-v	v	capture|catch	capture as if by hunting, snaring, or trapping	ұстау	1		
+01480149-v|тұзаққа түсіру	01480149-v	v	capture|catch	capture as if by hunting, snaring, or trapping	тұзаққа түсіру	1		
+01480149-v|қапқанға түсіру	01480149-v	v	capture|catch	capture as if by hunting, snaring, or trapping	қапқанға түсіру	1		
+01480149-v|қолға түсіру	01480149-v	v	capture|catch	capture as if by hunting, snaring, or trapping	қолға түсіру	1		
+01689880-a|дәстүрлі	01689880-a	a	orthodox	adhering to what is commonly accepted	дәстүрлі	1		
+01689880-a|жалпы қабылданған	01689880-a	a	orthodox	adhering to what is commonly accepted	жалпы қабылданған	1		
+01900408-v|абдыру	01900408-v	v	stumble|trip	miss a step and fall or nearly fall	абдыру	0	other	
+01900408-v|тайғанау	01900408-v	v	stumble|trip	miss a step and fall or nearly fall	тайғанау	0	wrong_sense	
+01900408-v|тайғақтау	01900408-v	v	stumble|trip	miss a step and fall or nearly fall	тайғақтау	0	wrong_sense	
+01900408-v|сүрініп кету	01900408-v	v	stumble|trip	miss a step and fall or nearly fall	сүрініп кету	1		
+02267060-v|төлеу	02267060-v	v	drop|expend|spend	pay out	төлеу	1		
+02267060-v|жұмсау	02267060-v	v	drop|expend|spend	pay out	жұмсау	1		
+02267060-v|төгу	02267060-v	v	drop|expend|spend	pay out	төгу	0	wrong_sense	
+02267060-v|шығындау	02267060-v	v	drop|expend|spend	pay out	шығындау	1		
+02267060-v|шығын жасау	02267060-v	v	drop|expend|spend	pay out	шығын жасау	1		
+02270342-a|нәзік	02270342-a	a	sophisticated	having or appealing to those having worldly knowledge and refinement and savoir-faire	нәзік	0	wrong_sense	
+02270342-a|мәдениетті	02270342-a	a	sophisticated	having or appealing to those having worldly knowledge and refinement and savoir-faire	мәдениетті	1		
+02270342-a|білімпаз	02270342-a	a	sophisticated	having or appealing to those having worldly knowledge and refinement and savoir-faire	білімпаз	1		
+02270342-a|көрнекті	02270342-a	a	sophisticated	having or appealing to those having worldly knowledge and refinement and savoir-faire	көрнекті	1		
+02270342-a|сыпайы	02270342-a	a	sophisticated	having or appealing to those having worldly knowledge and refinement and savoir-faire	сыпайы	0	wrong_sense	
+02373336-v|тәуекел ету	02373336-v	v	embark|venture	proceed somewhere despite the risk of possible dangers	тәуекел ету	0	wrong_sense	
+02373336-v|бел буу	02373336-v	v	embark|venture	proceed somewhere despite the risk of possible dangers	бел буу	1		
+02373336-v|батылы бару	02373336-v	v	embark|venture	proceed somewhere despite the risk of possible dangers	батылы бару	0	wrong_sense	
+02373336-v|батылдық жасау	02373336-v	v	embark|venture	proceed somewhere despite the risk of possible dangers	батылдық жасау	0	wrong_sense	
+02718015-v|өтеу	02718015-v	v	countervail|offset	compensate for or counterbalance	өтеу	1		
+02735282-v|жару	02735282-v	v	suit	be agreeable or acceptable	жару	0	wrong_sense	
+02735282-v|ұнау	02735282-v	v	suit	be agreeable or acceptable	ұнау	0	wrong_sense	
+02735282-v|қолайлы болу	02735282-v	v	suit	be agreeable or acceptable	қолайлы болу	0	wrong_sense	
+02735282-v|келу	02735282-v	v	suit	be agreeable or acceptable	келу	0	wrong_sense	
+02735282-v|жағу	02735282-v	v	suit	be agreeable or acceptable	жағу	1		
+02829696-n|иірім	02829696-n	n	bend|curve	curved segment (of a road or river or railroad track etc.)	иірім	0	wrong_sense	
+02829696-n|иін	02829696-n	n	bend|curve	curved segment (of a road or river or railroad track etc.)	иін	1		
+02829696-n|бұрылыс	02829696-n	n	bend|curve	curved segment (of a road or river or railroad track etc.)	бұрылыс	1		
+02829696-n|қайырым	02829696-n	n	bend|curve	curved segment (of a road or river or railroad track etc.)	қайырым	0	other	
+03501811-n|аверс	03501811-n	n	head	(usually plural) the obverse side of a coin that usually bears the representation of a person's head	аверс	0	other	
+03691459-n|қатты сөйлегіш	03691459-n	n	loudspeaker|loudspeaker system|speaker|speaker system|speaker unit	electro-acoustic transducer that converts electrical signals into sounds loud enough to be heard at a distance	қатты сөйлегіш	0	calque	
+03691459-n|дауыс зорайтқыш	03691459-n	n	loudspeaker|loudspeaker system|speaker|speaker system|speaker unit	electro-acoustic transducer that converts electrical signals into sounds loud enough to be heard at a distance	дауыс зорайтқыш	1		
+04317420-n|сүймен	04317420-n	n	stick	an implement consisting of a length of wood	сүймен	0	wrong_sense	
+04426788-n|иірілген жіп	04426788-n	n	thread|yarn	a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving	иірілген жіп	1		
+04426788-n|ине жібі	04426788-n	n	thread|yarn	a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving	ине жібі	0	other	
+04426788-n|ине жіп	04426788-n	n	thread|yarn	a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving	ине жіп	1		
+04602044-n|жұмыс орын	04602044-n	n	work|workplace	a place where work is done	жұмыс орын	0	form	
+04869106-n|ар	04869106-n	n	honor|honour	the quality of being honorable and having a good name	ар	1		
+04869106-n|намыс	04869106-n	n	honor|honour	the quality of being honorable and having a good name	намыс	1		
+04893787-n|үнемдеушілік	04893787-n	n	economy|thriftiness	frugality in the expenditure of money or resources	үнемдеушілік	0	other	
+04893787-n|ысырапсыздық	04893787-n	n	economy|thriftiness	frugality in the expenditure of money or resources	ысырапсыздық	1		
+04893787-n|үнемшілдік	04893787-n	n	economy|thriftiness	frugality in the expenditure of money or resources	үнемшілдік	1		
+04893787-n|сақтық	04893787-n	n	economy|thriftiness	frugality in the expenditure of money or resources	сақтық	0	wrong_sense	
+04893787-n|ұқыптылық	04893787-n	n	economy|thriftiness	frugality in the expenditure of money or resources	ұқыптылық	0	wrong_sense	
+05919263-n|жан	05919263-n	n	bosom|heart	the locus of feelings and intuitions	жан	0	wrong_sense	
+05919263-n|қойын	05919263-n	n	bosom|heart	the locus of feelings and intuitions	қойын	1		
+05919263-n|көңіл	05919263-n	n	bosom|heart	the locus of feelings and intuitions	көңіл	1		
+05919263-n|көкірек	05919263-n	n	bosom|heart	the locus of feelings and intuitions	көкірек	1		
+07203126-n|айғақтау	07203126-n	n	affirmation|assertion|statement	the act of affirming or asserting or stating something	айғақтау	0	form	
+07203126-n|тұжырымдау	07203126-n	n	affirmation|assertion|statement	the act of affirming or asserting or stating something	тұжырымдау	0	form	
+07203126-n|дәлелдеу	07203126-n	n	affirmation|assertion|statement	the act of affirming or asserting or stating something	дәлелдеу	0	wrong_sense	
+07203126-n|айту	07203126-n	n	affirmation|assertion|statement	the act of affirming or asserting or stating something	айту	1		
+07452074-n|неке қию	07452074-n	n	hymeneals|nuptials|wedding|wedding ceremony	the social event at which the ceremony of marriage is performed	неке қию	1		
+07452074-n|той	07452074-n	n	hymeneals|nuptials|wedding|wedding ceremony	the social event at which the ceremony of marriage is performed	той	1		
+07452074-n|неке тойы	07452074-n	n	hymeneals|nuptials|wedding|wedding ceremony	the social event at which the ceremony of marriage is performed	неке тойы	1		
+10780632-n|ғайып	10780632-n	n	married woman|wife	a married woman; a man's partner in marriage	ғайып	0	wrong_sense	
+10780632-n|зайып	10780632-n	n	married woman|wife	a married woman; a man's partner in marriage	зайып	1		
+10780632-n|ұялас	10780632-n	n	married woman|wife	a married woman; a man's partner in marriage	ұялас	0	wrong_sense	
+10780632-n|жұбай	10780632-n	n	married woman|wife	a married woman; a man's partner in marriage	жұбай	1		
+11485367-n|күн нұры	11485367-n	n	sun|sunlight|sunshine	the rays of the sun	күн нұры	1		
+11485367-n|күн көзі	11485367-n	n	sun|sunlight|sunshine	the rays of the sun	күн көзі	1		
+11485367-n|күн шұғыласы	11485367-n	n	sun|sunlight|sunshine	the rays of the sun	күн шұғыласы	1		
+11485367-n|күн сәуле	11485367-n	n	sun|sunlight|sunshine	the rays of the sun	күн сәуле	0	form	
+13778671-n|тұрақ	13778671-n	n	parking	space in which vehicles can be parked	тұрақ	1		
+13778671-n|көлік тұрағы	13778671-n	n	parking	space in which vehicles can be parked	көлік тұрағы	1		
+14814616-n|тас көмір	14814616-n	n	coal	fossil fuel consisting of carbonized vegetable matter deposited in the Carboniferous period	тас көмір	1		
+14856263-n|қоқыс-қалдық	14856263-n	n	waste|waste material|waste matter|waste product	any materials unused and rejected as worthless or unwanted	қоқыс-қалдық	1		
+14856263-n|қоқыс	14856263-n	n	waste|waste material|waste matter|waste product	any materials unused and rejected as worthless or unwanted	қоқыс	1		
+14856263-n|қалдық	14856263-n	n	waste|waste material|waste matter|waste product	any materials unused and rejected as worthless or unwanted	қалдық	1		

@@ -1,0 +1,178 @@
+{
+  "note": "dev only, one judge, 50 synsets; arms share rows, so their precisions are correlated",
+  "judged_rows": 179,
+  "arms": {
+    "llm_dev_v1": {
+      "proposed": 126,
+      "excluded_blank": 0,
+      "excluded_unsure": 0,
+      "judged": 126,
+      "correct": 92,
+      "precision": 0.7301587301587301,
+      "wilson_lo": 0.646695476810197,
+      "wilson_hi": 0.8000026538351431,
+      "per_pos": {
+        "n": {
+          "judged": 77,
+          "correct": 59,
+          "precision": 0.7662337662337663,
+          "wilson_lo": 0.66045961195063,
+          "wilson_hi": 0.8467050161616292
+        },
+        "v": {
+          "judged": 28,
+          "correct": 18,
+          "precision": 0.6428571428571429,
+          "wilson_lo": 0.4582997758222724,
+          "wilson_hi": 0.7929438802754113
+        },
+        "a": {
+          "judged": 21,
+          "correct": 15,
+          "precision": 0.7142857142857143,
+          "wilson_lo": 0.5004322617716241,
+          "wilson_hi": 0.8618632425437179
+        }
+      },
+      "error_categories": {
+        "wrong_sense": 19,
+        "form": 7,
+        "other": 4,
+        "calque": 1,
+        "russian_loan": 3
+      },
+      "only_this_source": {
+        "judged": 23,
+        "correct": 9,
+        "precision": 0.391304347826087,
+        "wilson_lo": 0.22157377982382145,
+        "wilson_hi": 0.5921482039625401
+      },
+      "dev_synsets_with_correct": 45,
+      "model": "claude-sonnet-5-5",
+      "effort": "low",
+      "projected_total_usd": 1.3731300000000002,
+      "mean_cost_usd": 0.0016644000000000001
+    },
+    "llm_dev_v1_high": {
+      "proposed": 128,
+      "excluded_blank": 0,
+      "excluded_unsure": 0,
+      "judged": 128,
+      "correct": 102,
+      "precision": 0.796875,
+      "wilson_lo": 0.7190057513712909,
+      "wilson_hi": 0.8574435635642075,
+      "per_pos": {
+        "n": {
+          "judged": 77,
+          "correct": 62,
+          "precision": 0.8051948051948052,
+          "wilson_lo": 0.7031467846457494,
+          "wilson_hi": 0.8782370573365964
+        },
+        "v": {
+          "judged": 29,
+          "correct": 21,
+          "precision": 0.7241379310344828,
+          "wilson_lo": 0.5428252365556403,
+          "wilson_hi": 0.8530141866149726
+        },
+        "a": {
+          "judged": 22,
+          "correct": 19,
+          "precision": 0.8636363636363636,
+          "wilson_lo": 0.6666458812053,
+          "wilson_hi": 0.9525108273576373
+        }
+      },
+      "error_categories": {
+        "form": 5,
+        "wrong_sense": 13,
+        "other": 4,
+        "calque": 1,
+        "russian_loan": 3
+      },
+      "only_this_source": {
+        "judged": 22,
+        "correct": 15,
+        "precision": 0.6818181818181818,
+        "wilson_lo": 0.4731822278283934,
+        "wilson_hi": 0.8363961264530752
+      },
+      "dev_synsets_with_correct": 45,
+      "model": "claude-sonnet-5-5",
+      "effort": "high",
+      "projected_total_usd": 1.44969,
+      "mean_cost_usd": 0.0017571999999999998
+    },
+    "llm_dev_v1_medium": {
+      "proposed": 124,
+      "excluded_blank": 0,
+      "excluded_unsure": 0,
+      "judged": 124,
+      "correct": 97,
+      "precision": 0.782258064516129,
+      "wilson_lo": 0.7017324571463031,
+      "wilson_hi": 0.845820139191665,
+      "per_pos": {
+        "n": {
+          "judged": 76,
+          "correct": 60,
+          "precision": 0.7894736842105263,
+          "wilson_lo": 0.6850414943195868,
+          "wilson_hi": 0.8660496661781988
+        },
+        "v": {
+          "judged": 29,
+          "correct": 21,
+          "precision": 0.7241379310344828,
+          "wilson_lo": 0.5428252365556403,
+          "wilson_hi": 0.8530141866149726
+        },
+        "a": {
+          "judged": 19,
+          "correct": 16,
+          "precision": 0.8421052631578947,
+          "wilson_lo": 0.6243407235682331,
+          "wilson_hi": 0.9447962896007217
+        }
+      },
+      "error_categories": {
+        "other": 4,
+        "wrong_sense": 17,
+        "form": 2,
+        "calque": 1,
+        "russian_loan": 3
+      },
+      "only_this_source": {
+        "judged": 20,
+        "correct": 12,
+        "precision": 0.6,
+        "wilson_lo": 0.38657794231520604,
+        "wilson_hi": 0.7811960325858073
+      },
+      "dev_synsets_with_correct": 46,
+      "model": "claude-sonnet-5-5",
+      "effort": "medium",
+      "projected_total_usd": 1.3759350000000001,
+      "mean_cost_usd": 0.0016678
+    }
+  },
+  "decision": {
+    "best_precision": 0.796875,
+    "tie_points": 5.0,
+    "eligible": [
+      "llm_dev_v1",
+      "llm_dev_v1_high",
+      "llm_dev_v1_medium"
+    ],
+    "over_cap": [],
+    "tied": [
+      "llm_dev_v1_high",
+      "llm_dev_v1_medium"
+    ],
+    "winner": "llm_dev_v1_medium",
+    "rule": "within_tie_lowest_cost_then_lower_effort"
+  }
+}

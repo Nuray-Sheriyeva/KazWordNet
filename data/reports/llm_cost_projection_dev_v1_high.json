@@ -1,0 +1,12 @@
+{
+  "tag": "dev_v1_high",
+  "model": "claude-sonnet-5-5",
+  "pilot_rows": 50,
+  "mean_input_tokens": 699.9,
+  "mean_output_tokens": 35.74,
+  "mean_cost_usd": 0.0017571999999999998,
+  "projected_total_usd": 1.44969,
+  "cap_usd": 4.0,
+  "rule": "projected = mean cost x (standard + batch x discount) prompts; primary if <= cap else fallback",
+  "decision": "claude-sonnet-5-5"
+}

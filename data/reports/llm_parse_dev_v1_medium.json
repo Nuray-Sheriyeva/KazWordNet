@@ -1,0 +1,21 @@
+{
+  "tag": "dev_v1_medium",
+  "model": "claude-sonnet-5-5",
+  "raw_rows": 50,
+  "synsets_with_candidates": 49,
+  "candidate_rows": 124,
+  "rejected_rows": 1,
+  "lemmas_per_synset_mean": 2.48,
+  "response_stats": {
+    "empty_list": 1
+  },
+  "rejected_reasons": {
+    "latin_script": 1
+  },
+  "flags": {
+    "multiword": 30,
+    "loan_letters": 3
+  },
+  "cost_usd": 0.08339,
+  "mean_output_tokens": 26.8
+}

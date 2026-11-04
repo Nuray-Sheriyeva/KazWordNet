@@ -1,0 +1,5 @@
+synset_id	lemma_en	lemma_raw	pos	source	reason	evidence
+00724081-a	reliable|dependable	senімді	a	llm	mixed_script_unfixable	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00724081-a"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""senімді""}]"
+00845299-v	abuse|clapperclaw|blackguard|shout	boқтау	v	llm	mixed_script_unfixable	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""00845299-v"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""boқтау""}]"
+07402519-n	tide	tolqyn	n	llm	latin_script	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""07402519-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""tolqyn""}]"
+10628644-n	sovereign|crowned head|monarch	egemen	n	llm	latin_script	"[{""engine"": ""claude-sonnet-5-5"", ""input_id"": ""10628644-n"", ""prompt_sha256"": ""21708524d6fb"", ""raw"": ""egemen""}]"
