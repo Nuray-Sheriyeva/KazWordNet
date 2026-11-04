@@ -29,3 +29,10 @@
 - license: CC BY 4.0 as stated by the owner; fine-tuned from an NLLB-family model, so upstream NC terms unresolved
 - decoding: beam search 4, no sampling (single Hugging Face adapter)
 - run metadata (data/raw/mt/tilmash.meta.json): {"date": "2026-10-31", "device": "cpu", "do_sample": false, "engine": "tilmash", "family": "nllb", "max_new_tokens": 128, "model_id": "issai/tilmash", "num_beams": 4, "pools": ["dev", "rest", "test"], "python": "3.14.6", "resolved_revision": null, "src": "eng_Latn", "tgt": "kaz_Cyrl", "torch": "2.15.0", "transformers": "5.22.1"}
+
+## LLM source for B2 frozen (2026-11-04)
+- model: claude-sonnet-5-5 (Anthropic API), effort high, structured JSON output, max_tokens 3000, no sampling parameters
+- prompt: prompts/b2_prompt_v1.txt, sha256 21708524d6fbf4e73a0d983e1239d01ff5c39e8379467dde2d861e71e02097a5
+- run tags: dev_v1_high, rest_v1, test_v1; cost of these runs $1.7216
+- not deterministic (no temperature control): data/raw/llm holds every prompt and response
+- Anthropic's terms on using outputs in a published dataset: to be confirmed by the owner before release (D5)

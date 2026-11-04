@@ -1,0 +1,24 @@
+{
+  "tag": "rest_v1",
+  "model": "claude-sonnet-5-5",
+  "raw_rows": 850,
+  "synsets_with_candidates": 842,
+  "candidate_rows": 2198,
+  "rejected_rows": 14,
+  "lemmas_per_synset_mean": 2.5858823529411765,
+  "response_stats": {
+    "empty_list": 8
+  },
+  "rejected_reasons": {
+    "latin_script": 8,
+    "mixed_script_unfixable": 6
+  },
+  "flags": {
+    "multiword": 425,
+    "loan_letters": 148,
+    "lookalike_fixed": 12,
+    "verb_form_check": 5
+  },
+  "cost_usd": 1.457634,
+  "mean_output_tokens": 31.564705882352943
+}
