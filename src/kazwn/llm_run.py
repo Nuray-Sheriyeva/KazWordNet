@@ -7,6 +7,7 @@ import argparse
 import csv
 import hashlib
 import json
+import os
 import sys
 import time
 from datetime import date
@@ -113,6 +114,8 @@ def total_spent(raw_dir=RAW):
 
 
 def make_client():
+    if not os.environ.get("ANTHROPIC_API_KEY"):
+        raise LLMError("ANTHROPIC_API_KEY is not set in this shell: export it and rerun (nothing was called or written)")
     try:
         import anthropic
     except ImportError:

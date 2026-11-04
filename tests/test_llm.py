@@ -154,3 +154,10 @@ def test_model_id_override_and_projection_for_other_models(tmp_path):
         L.run(inputs(), {"dev"}, "x", "claude-unknown", CFG, client=Fake([]), raw_dir=tmp_path, log=lambda *_: None)
     fz = tmp_path / "fz.json"
     assert L.freeze(cfg, "claude-opus-5-5", freeze_path=fz)["model"] == "claude-opus-5-5"
+
+
+def test_missing_api_key_fails_before_writing(tmp_path, monkeypatch):
+    monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
+    with pytest.raises(L.LLMError, match="ANTHROPIC_API_KEY"):
+        L.run(inputs(), {"dev"}, "t", "primary", CFG, raw_dir=tmp_path, log=lambda *_: None)
+    assert not (tmp_path / "t.jsonl").exists()
