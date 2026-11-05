@@ -32,8 +32,10 @@ The MT engine was chosen between Tilmash and NLLB-200-600M by a rule fixed befor
 - B0 coverage on the 1,000 synsets: 65.6% (nouns 76.0%, adjectives 52.2%, verbs 40.3%).
 - B0 dev precision: 0.750.
 - MT engine selection on dev precision: Tilmash 0.687 vs NLLB-200-600M 0.570.
+- B1 (B0 plus Tilmash MT) is a union of two scored sources, so it has no separate dev figure; its precision is reported with the test evaluation. Tilmash proposes at least one candidate for 981 of the 1,000 synsets.
+- B2 (Claude Sonnet 5.5, prompt v1) dev precision by reasoning effort: low 0.730, medium 0.782, high 0.797. High effort was used, chosen after seeing the results (the pre-registered tie-break would have picked medium).
+- B2 proposes at least one candidate for 989 of the 1,000 synsets.
 
-Final precision and coverage per system will be reported on the 100 test synsets.
 
 ## Repository layout
 
