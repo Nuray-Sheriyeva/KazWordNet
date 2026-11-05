@@ -1,0 +1,83 @@
+{
+  "pool_sizes": {
+    "dev": 50,
+    "rest": 850
+  },
+  "test": "withheld until the S7 freeze",
+  "systems": {
+    "b0_dict": {
+      "dev": {
+        "pairs": 64,
+        "synsets_with_candidate": 30,
+        "coverage": 0.6
+      },
+      "rest": {
+        "pairs": 1216,
+        "synsets_with_candidate": 563,
+        "coverage": 0.6624
+      }
+    },
+    "mt": {
+      "dev": {
+        "pairs": 83,
+        "synsets_with_candidate": 49,
+        "coverage": 0.98
+      },
+      "rest": {
+        "pairs": 1644,
+        "synsets_with_candidate": 836,
+        "coverage": 0.9835
+      }
+    },
+    "llm": {
+      "dev": {
+        "pairs": 128,
+        "synsets_with_candidate": 49,
+        "coverage": 0.98
+      },
+      "rest": {
+        "pairs": 2198,
+        "synsets_with_candidate": 842,
+        "coverage": 0.9906
+      }
+    },
+    "b1": {
+      "dev": {
+        "pairs": 117,
+        "synsets_with_candidate": 50,
+        "coverage": 1.0
+      },
+      "rest": {
+        "pairs": 2371,
+        "synsets_with_candidate": 839,
+        "coverage": 0.9871
+      }
+    },
+    "b3": {
+      "dev": {
+        "pairs": 60,
+        "synsets_with_candidate": 40,
+        "coverage": 0.8
+      },
+      "rest": {
+        "pairs": 996,
+        "synsets_with_candidate": 699,
+        "coverage": 0.8224
+      }
+    }
+  },
+  "b3_vote_combinations": {
+    "dev": {
+      "llm|mt": 16,
+      "dict|llm": 14,
+      "dict|llm|mt": 19,
+      "dict|mt": 11
+    },
+    "rest": {
+      "dict|llm|mt": 362,
+      "llm|mt": 353,
+      "dict|llm": 154,
+      "dict|mt": 127
+    }
+  }
+}

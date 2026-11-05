@@ -1,0 +1,398 @@
+{
+  "note": "dev only, one judge; systems share rows, so precisions are correlated",
+  "dev_synsets": 50,
+  "systems": {
+    "b0_dict": {
+      "proposed": 64,
+      "excluded_blank": 0,
+      "judged": 64,
+      "correct": 48,
+      "precision": 0.75,
+      "wilson_lo": 0.6318349082561627,
+      "wilson_hi": 0.8398520802582591,
+      "per_pos": {
+        "n": {
+          "judged": 58,
+          "correct": 43,
+          "precision": 0.7413793103448276,
+          "wilson_lo": 0.616223691866412,
+          "wilson_hi": 0.8365459648048255
+        },
+        "v": {
+          "judged": 3,
+          "correct": 3,
+          "precision": 1.0,
+          "wilson_lo": 0.4384939195509822,
+          "wilson_hi": 1.0
+        },
+        "a": {
+          "judged": 3,
+          "correct": 2,
+          "precision": 0.6666666666666666,
+          "wilson_lo": 0.20765495512648788,
+          "wilson_hi": 0.9385096847238393
+        }
+      },
+      "error_categories": {
+        "wrong_sense": 11,
+        "russian_loan": 4,
+        "form": 1
+      },
+      "by_flag": {
+        "loan_letters": {
+          "judged": 5,
+          "correct": 2,
+          "precision": 0.4,
+          "wilson_lo": 0.11761823115925325,
+          "wilson_hi": 0.769280067791163
+        },
+        "multiword": {
+          "judged": 4,
+          "correct": 4,
+          "precision": 1.0,
+          "wilson_lo": 0.5100999795960008,
+          "wilson_hi": 1.0
+        },
+        "no_flag": {
+          "judged": 55,
+          "correct": 42,
+          "precision": 0.7636363636363637,
+          "wilson_lo": 0.6365138127856039,
+          "wilson_hi": 0.8563347841254251
+        }
+      },
+      "coverage_proposed": {
+        "synsets": 30,
+        "of": 50,
+        "value": 0.6
+      },
+      "coverage_judged_correct": {
+        "synsets": 29,
+        "of": 50,
+        "value": 0.58
+      }
+    },
+    "mt": {
+      "proposed": 83,
+      "excluded_blank": 0,
+      "judged": 83,
+      "correct": 57,
+      "precision": 0.6867469879518072,
+      "wilson_lo": 0.5805842734789477,
+      "wilson_hi": 0.7763875004174338,
+      "per_pos": {
+        "n": {
+          "judged": 57,
+          "correct": 47,
+          "precision": 0.8245614035087719,
+          "wilson_lo": 0.7063240094940684,
+          "wilson_hi": 0.9018125286640339
+        },
+        "v": {
+          "judged": 16,
+          "correct": 5,
+          "precision": 0.3125,
+          "wilson_lo": 0.14164435051961052,
+          "wilson_hi": 0.5559606813326594
+        },
+        "a": {
+          "judged": 10,
+          "correct": 5,
+          "precision": 0.5,
+          "wilson_lo": 0.2365895936154873,
+          "wilson_hi": 0.7634104063845127
+        }
+      },
+      "error_categories": {
+        "calque": 2,
+        "other": 1,
+        "wrong_sense": 16,
+        "form": 4,
+        "russian_loan": 3
+      },
+      "by_flag": {
+        "loan_letters": {
+          "judged": 8,
+          "correct": 3,
+          "precision": 0.375,
+          "wilson_lo": 0.13684175946152105,
+          "wilson_hi": 0.6942621454161982
+        },
+        "multiword": {
+          "judged": 17,
+          "correct": 15,
+          "precision": 0.8823529411764706,
+          "wilson_lo": 0.6566315750229009,
+          "wilson_hi": 0.9671209199870792
+        },
+        "verb_form_check": {
+          "judged": 8,
+          "correct": 0,
+          "precision": 0.0,
+          "wilson_lo": 0.0,
+          "wilson_hi": 0.3244156195108769
+        },
+        "no_flag": {
+          "judged": 52,
+          "correct": 39,
+          "precision": 0.75,
+          "wilson_lo": 0.6179328224079476,
+          "wilson_hi": 0.8476698823856113
+        }
+      },
+      "coverage_proposed": {
+        "synsets": 49,
+        "of": 50,
+        "value": 0.98
+      },
+      "coverage_judged_correct": {
+        "synsets": 40,
+        "of": 50,
+        "value": 0.8
+      }
+    },
+    "b1": {
+      "proposed": 117,
+      "excluded_blank": 0,
+      "judged": 117,
+      "correct": 79,
+      "precision": 0.6752136752136753,
+      "wilson_lo": 0.5859616622545792,
+      "wilson_hi": 0.7533254706532937,
+      "per_pos": {
+        "n": {
+          "judged": 87,
+          "correct": 65,
+          "precision": 0.7471264367816092,
+          "wilson_lo": 0.6466822904287989,
+          "wilson_hi": 0.8266691256625073
+        },
+        "v": {
+          "judged": 19,
+          "correct": 8,
+          "precision": 0.42105263157894735,
+          "wilson_lo": 0.2314162039203038,
+          "wilson_hi": 0.637244485348399
+        },
+        "a": {
+          "judged": 11,
+          "correct": 6,
+          "precision": 0.5454545454545454,
+          "wilson_lo": 0.2800877556899882,
+          "wilson_hi": 0.7872904245601196
+        }
+      },
+      "error_categories": {
+        "calque": 2,
+        "other": 1,
+        "wrong_sense": 26,
+        "form": 4,
+        "russian_loan": 5
+      },
+      "by_flag": {
+        "loan_letters": {
+          "judged": 9,
+          "correct": 3,
+          "precision": 0.3333333333333333,
+          "wilson_lo": 0.12058159868274292,
+          "wilson_hi": 0.6458026525009103
+        },
+        "multiword": {
+          "judged": 19,
+          "correct": 17,
+          "precision": 0.8947368421052632,
+          "wilson_lo": 0.6860544950515831,
+          "wilson_hi": 0.9706420586049034
+        },
+        "verb_form_check": {
+          "judged": 8,
+          "correct": 0,
+          "precision": 0.0,
+          "wilson_lo": 0.0,
+          "wilson_hi": 0.3244156195108769
+        },
+        "no_flag": {
+          "judged": 83,
+          "correct": 59,
+          "precision": 0.7108433734939759,
+          "wilson_lo": 0.6057057654384659,
+          "wilson_hi": 0.7973268825090616
+        }
+      },
+      "coverage_proposed": {
+        "synsets": 50,
+        "of": 50,
+        "value": 1.0
+      },
+      "coverage_judged_correct": {
+        "synsets": 43,
+        "of": 50,
+        "value": 0.86
+      }
+    },
+    "b2": {
+      "proposed": 128,
+      "excluded_blank": 0,
+      "judged": 128,
+      "correct": 102,
+      "precision": 0.796875,
+      "wilson_lo": 0.7190057513712909,
+      "wilson_hi": 0.8574435635642075,
+      "per_pos": {
+        "n": {
+          "judged": 77,
+          "correct": 62,
+          "precision": 0.8051948051948052,
+          "wilson_lo": 0.7031467846457494,
+          "wilson_hi": 0.8782370573365964
+        },
+        "v": {
+          "judged": 29,
+          "correct": 21,
+          "precision": 0.7241379310344828,
+          "wilson_lo": 0.5428252365556403,
+          "wilson_hi": 0.8530141866149726
+        },
+        "a": {
+          "judged": 22,
+          "correct": 19,
+          "precision": 0.8636363636363636,
+          "wilson_lo": 0.6666458812053,
+          "wilson_hi": 0.9525108273576373
+        }
+      },
+      "error_categories": {
+        "wrong_sense": 13,
+        "form": 5,
+        "other": 4,
+        "calque": 1,
+        "russian_loan": 3
+      },
+      "by_flag": {
+        "loan_letters": {
+          "judged": 3,
+          "correct": 1,
+          "precision": 0.3333333333333333,
+          "wilson_lo": 0.061490315276160515,
+          "wilson_hi": 0.7923450448735121
+        },
+        "multiword": {
+          "judged": 29,
+          "correct": 23,
+          "precision": 0.7931034482758621,
+          "wilson_lo": 0.6160955339174229,
+          "wilson_hi": 0.9015406348441479
+        },
+        "no_flag": {
+          "judged": 96,
+          "correct": 78,
+          "precision": 0.8125,
+          "wilson_lo": 0.7229756303456031,
+          "wilson_hi": 0.8779762774763871
+        }
+      },
+      "coverage_proposed": {
+        "synsets": 49,
+        "of": 50,
+        "value": 0.98
+      },
+      "coverage_judged_correct": {
+        "synsets": 45,
+        "of": 50,
+        "value": 0.9
+      }
+    },
+    "b3": {
+      "proposed": 60,
+      "excluded_blank": 0,
+      "judged": 60,
+      "correct": 54,
+      "precision": 0.9,
+      "wilson_lo": 0.7985030550748896,
+      "wilson_hi": 0.9533578005427641,
+      "per_pos": {
+        "n": {
+          "judged": 45,
+          "correct": 41,
+          "precision": 0.9111111111111111,
+          "wilson_lo": 0.792661488316343,
+          "wilson_hi": 0.9648894518657969
+        },
+        "v": {
+          "judged": 8,
+          "correct": 7,
+          "precision": 0.875,
+          "wilson_lo": 0.5291051942301385,
+          "wilson_hi": 0.9775830911367039
+        },
+        "a": {
+          "judged": 7,
+          "correct": 6,
+          "precision": 0.8571428571428571,
+          "wilson_lo": 0.4868654966809702,
+          "wilson_hi": 0.9743210440510253
+        }
+      },
+      "error_categories": {
+        "wrong_sense": 2,
+        "russian_loan": 3,
+        "form": 1
+      },
+      "by_flag": {
+        "loan_letters": {
+          "judged": 4,
+          "correct": 2,
+          "precision": 0.5,
+          "wilson_lo": 0.15003570882017145,
+          "wilson_hi": 0.8499642911798285
+        },
+        "multiword": {
+          "judged": 6,
+          "correct": 6,
+          "precision": 1.0,
+          "wilson_lo": 0.6096569663469354,
+          "wilson_hi": 1.0
+        },
+        "no_flag": {
+          "judged": 50,
+          "correct": 46,
+          "precision": 0.92,
+          "wilson_lo": 0.811614974549363,
+          "wilson_hi": 0.9684509967442093
+        }
+      },
+      "coverage_proposed": {
+        "synsets": 40,
+        "of": 50,
+        "value": 0.8
+      },
+      "coverage_judged_correct": {
+        "synsets": 36,
+        "of": 50,
+        "value": 0.72
+      }
+    }
+  },
+  "b3_gate_preview": {
+    "note": "non-binding preview on dev (n small; thresholds not tuned on it)",
+    "passed": true,
+    "report": {
+      "precision": [
+        0.9,
+        true
+      ],
+      "wilson95_lower": [
+        0.7985,
+        true
+      ],
+      "coverage": [
+        0.8,
+        true
+      ],
+      "precision_n": [
+        0.9111,
+        true
+      ]
+    }
+  }
+}
