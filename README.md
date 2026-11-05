@@ -15,7 +15,7 @@ A small, evaluated **Kazakh WordNet**, built by automatic methods as a mini-repl
 | B0 | Dictionary only: Wiktionary translations via kaikki.org, POS-aware, sense-blind | done |
 | B1 | B0 plus gloss-aware machine translation (`lemma: gloss`) | done |
 | B2 | LLM prompted with gloss, examples and hypernym | done |
-| B3 | Keep lemmas that at least 2 of 3 sources agree on (dictionary, MT, LLM) | planned |
+| B3 | Keep lemmas that at least 2 of 3 sources agree on (dictionary, MT, LLM) | done (dev preview) |
 
 The MT engine was chosen between Tilmash and NLLB-200-600M by a rule fixed before the results (`docs/s4_selection_rule.md`).
 
@@ -35,7 +35,7 @@ The MT engine was chosen between Tilmash and NLLB-200-600M by a rule fixed befor
 - B1 (B0 plus Tilmash MT) is a union of two scored sources, so it has no separate dev figure; its precision is reported with the test evaluation. Tilmash proposes at least one candidate for 981 of the 1,000 synsets.
 - B2 (Claude Sonnet 5.5, prompt v1) dev precision by reasoning effort: low 0.730, medium 0.782, high 0.797. High effort was used, chosen after seeing the results (the pre-registered tie-break would have picked medium).
 - B2 proposes at least one candidate for 989 of the 1,000 synsets.
-
+- B3 (2-of-3 vote, exact match after normalization) dev precision 0.900 (54/60; Wilson 0.799-0.953), 40 of 50 dev synsets have a candidate (coverage 0.80). Dev precision of the other systems: B0 0.750, MT (Tilmash) 0.687, B1 0.675, B2 0.797. The vote rule was fixed before these results. The B3 figures are a non-binding preview on 50 dev synsets with one judge; per-POS counts are small (verbs 7/8, adjectives 6/7 judged correct); the pre-registered gate is applied to the test split only.
 
 ## Repository layout
 
