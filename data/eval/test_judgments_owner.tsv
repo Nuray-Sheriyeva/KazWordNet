@@ -1,0 +1,393 @@
+﻿key_id	synset_id	pos	lemma_en	gloss	lemma_kk	correct	error_category	notes
+00015498-v|көз шырымын алу	00015498-v	v	catch a wink|catnap|nap	take a siesta	көз шырымын алу			
+00015498-v|мызғу	00015498-v	v	catch a wink|catnap|nap	take a siesta	мызғу			
+00015498-v|көз қысу	00015498-v	v	catch a wink	take a siesta	көз қысу			
+00015498-v|шынықтыру	00015498-v	v	catch a wink|catnap|nap	take a siesta	шынықтыру			
+00015498-v|ұйықтау	00015498-v	v	nap	take a siesta	ұйықтау			
+00020671-v|гипноз жасау	00020671-v	v	hypnotise|hypnotize|mesmerise|mesmerize	induce hypnosis in	гипноз жасау			
+00020671-v|гипноздау	00020671-v	v	hypnotise|hypnotize|mesmerise|mesmerize	induce hypnosis in	гипноздау			
+00210848-s|жалтыр	00210848-s	s	bald	lacking hair on all or most of the scalp	жалтыр			
+00210848-s|таз	00210848-s	s	bald|bald-headed|bald-pated	lacking hair on all or most of the scalp	таз			
+00210848-s|таздау	00210848-s	s	bald|bald-headed|bald-pated	lacking hair on all or most of the scalp	таздау			
+00210848-s|жалаңбас	00210848-s	s	bald|bald-headed|bald-pated	lacking hair on all or most of the scalp	жалаңбас			
+00210848-s|қасқа	00210848-s	s	bald	lacking hair on all or most of the scalp	қасқа			
+00329831-a|орталық	00329831-a	a	central	in or near a center or constituting a center; the inner area	орталық			
+00329831-a|ортаңғы	00329831-a	a	central	in or near a center or constituting a center; the inner area	ортаңғы			
+00372111-s|шоколадты қоңыр	00372111-s	s	chocolate-brown	of a color similar to that of wood or earth	шоколадты қоңыр			
+00372111-s|қою-қоңыр	00372111-s	s	dark-brown	of a color similar to that of wood or earth	қою-қоңыр			
+00372111-s|қоңыр	00372111-s	s	brown|brownish|chocolate-brown|dark-brown	of a color similar to that of wood or earth	қоңыр			
+00372111-s|шоколад түсті	00372111-s	s	brown|brownish|chocolate-brown|dark-brown	of a color similar to that of wood or earth	шоколад түсті			
+00372111-s|қоңыр түсті	00372111-s	s	brown|brownish|chocolate-brown|dark-brown	of a color similar to that of wood or earth	қоңыр түсті			
+00404642-v|жүйелеу	00404642-v	v	coordinate|organise|organize	bring order and organization to	жүйелеу			
+00404642-v|реттеу	00404642-v	v	coordinate|organise|organize	bring order and organization to	реттеу			
+00404642-v|үйлестіру	00404642-v	v	coordinate	bring order and organization to	үйлестіру			
+00404642-v|ұйымдастыру	00404642-v	v	coordinate|organise|organize	bring order and organization to	ұйымдастыру			
+00415676-n|өмір салты	00415676-n	n	way of life	a course of conduct	өмір салты			
+00415676-n|жол	00415676-n	n	path|way|way of life	a course of conduct	жол			
+00415676-n|өмір жолы	00415676-n	n	path|way|way of life	a course of conduct	өмір жолы			
+00415676-n|тұрмыс дәстүрі	00415676-n	n	way of life	a course of conduct	тұрмыс дәстүрі			
+00438707-a|ұқыпты	00438707-a	a	smart	showing mental alertness and calculation and resourcefulness	ұқыпты			
+00438707-a|шебер	00438707-a	a	smart	showing mental alertness and calculation and resourcefulness	шебер			
+00438707-a|зерек	00438707-a	a	smart	showing mental alertness and calculation and resourcefulness	зерек			
+00438707-a|ақылды	00438707-a	a	smart	showing mental alertness and calculation and resourcefulness	ақылды			
+00438707-a|тапқыр	00438707-a	a	smart	showing mental alertness and calculation and resourcefulness	тапқыр			
+00503982-a|салыстыруға келетін	00503982-a	a	comparable	able to be compared or worthy of comparison	салыстыруға келетін			
+00503982-a|салыстырмалы	00503982-a	a	comparable	able to be compared or worthy of comparison	салыстырмалы			
+00505853-s|теңдессіз	00505853-s	s	alone|unequaled|unequalled|unique|unparalleled	radically distinctive and without equal	теңдессіз			
+00505853-s|қайталанбас	00505853-s	s	alone|unequaled|unequalled|unique|unparalleled	radically distinctive and without equal	қайталанбас			
+00505853-s|теңдесі жоқ	00505853-s	s	unequaled|unequalled|unparalleled	radically distinctive and without equal	теңдесі жоқ			
+00505853-s|ерекше	00505853-s	s	alone|unequaled|unequalled|unique|unparalleled	radically distinctive and without equal	ерекше			
+00505853-s|жалғыз	00505853-s	s	alone	radically distinctive and without equal	жалғыз			
+00505853-s|бірегей	00505853-s	s	alone|unequaled|unequalled|unique|unparalleled	radically distinctive and without equal	бірегей			
+00505853-s|баламасыз	00505853-s	s	alone|unequaled|unequalled|unique|unparalleled	radically distinctive and without equal	баламасыз			
+00697419-v|экран	00697419-v	v	screen	examine methodically	экран			
+00697419-v|сұрыптау	00697419-v	v	screen	examine methodically	сұрыптау			
+00697419-v|тексеру	00697419-v	v	screen	examine methodically	тексеру			
+00697589-v|анықтау	00697589-v	v	determine	reach, make, or come to a decision about something	анықтау			
+00697589-v|шешу	00697589-v	v	decide|determine|make up one's mind	reach, make, or come to a decision about something	шешу			
+00697589-v|байламдау	00697589-v	v	decide|determine|make up one's mind	reach, make, or come to a decision about something	байламдау			
+00697589-v|шешім қабылдау	00697589-v	v	decide|determine|make up one's mind	reach, make, or come to a decision about something	шешім қабылдау			
+00697589-v|тоқтам жасау	00697589-v	v	decide|determine|make up one's mind	reach, make, or come to a decision about something	тоқтам жасау			
+00697589-v|шығару	00697589-v	v	decide	reach, make, or come to a decision about something	шығару			
+00724081-a|сенімді	00724081-a	a	dependable|reliable	worthy of reliance or trust	сенімді			
+00779061-v|үзіліс жасау	00779061-v	v	break|intermit|pause	cease an action temporarily	үзіліс жасау			
+00779061-v|үзіліс	00779061-v	v	break	cease an action temporarily	үзіліс			
+00779061-v|уақтау	00779061-v	v	break	cease an action temporarily	уақтау			
+00779061-v|сындыру	00779061-v	v	break	cease an action temporarily	сындыру			
+00779061-v|пауза	00779061-v	v	pause	cease an action temporarily	пауза			
+00779061-v|тоқтап қалу	00779061-v	v	break|intermit|pause	cease an action temporarily	тоқтап қалу			
+00779061-v|аялдау	00779061-v	v	break|intermit|pause	cease an action temporarily	аялдау			
+00779061-v|кідіру	00779061-v	v	break|intermit|pause	cease an action temporarily	кідіру			
+00779061-v|сыну	00779061-v	v	break	cease an action temporarily	сыну			
+00779360-v|демалу	00779360-v	v	breathe|catch one's breath|rest|take a breather	take a short break from one's activities in order to relax	демалу			
+00779360-v|тыныстау	00779360-v	v	breathe|catch one's breath|rest|take a breather	take a short break from one's activities in order to relax	тыныстау			
+00779360-v|тыныс алу	00779360-v	v	breathe|catch one's breath|take a breather	take a short break from one's activities in order to relax	тыныс алу			
+00779360-v|дем алу	00779360-v	v	breathe|catch one's breath|rest|take a breather	take a short break from one's activities in order to relax	дем алу			
+00845299-v|айқайлау	00845299-v	v	shout	use foul or abusive language towards	айқайлау			
+00845299-v|зорлық-зомбылық	00845299-v	v	abuse	use foul or abusive language towards	зорлық-зомбылық			
+00845299-v|сөгу	00845299-v	v	abuse|blackguard|clapperclaw|shout	use foul or abusive language towards	сөгу			
+00845299-v|дөрекі сөйлеу	00845299-v	v	abuse|blackguard|clapperclaw|shout	use foul or abusive language towards	дөрекі сөйлеу			
+00845299-v|балағаттау	00845299-v	v	abuse|blackguard|clapperclaw|shout	use foul or abusive language towards	балағаттау			
+00845299-v|ақыру	00845299-v	v	shout	use foul or abusive language towards	ақыру			
+00845299-v|қара күзетші	00845299-v	v	blackguard	use foul or abusive language towards	қара күзетші			
+00845299-v|бақыру	00845299-v	v	shout	use foul or abusive language towards	бақыру			
+00890590-v|қамтамасыз ету	00890590-v	v	assure|ensure|guarantee|insure|secure	make certain of	қамтамасыз ету			
+00890590-v|кепілдік беру	00890590-v	v	assure|ensure|guarantee|insure|secure	make certain of	кепілдік беру			
+00890590-v|кепілдік	00890590-v	v	guarantee	make certain of	кепілдік			
+00890590-v|қауіпсіз	00890590-v	v	secure	make certain of	қауіпсіз			
+00890590-v|кепілдеу	00890590-v	v	assure|ensure|guarantee|insure|secure	make certain of	кепілдеу			
+00892145-n|семинар	00892145-n	n	seminar	a course offered for a small group of advanced students	семинар			
+00906367-v|сотталған	00906367-v	v	convict	find or declare guilty	сотталған			
+00906367-v|кінәлі деп тану	00906367-v	v	convict	find or declare guilty	кінәлі деп тану			
+00906367-v|айыптау	00906367-v	v	convict	find or declare guilty	айыптау			
+01069283-s|айныған	01069283-s	s	bad|spoiled|spoilt	(of foodstuffs) not in an edible or usable condition	айныған			
+01069283-s|шіріген	01069283-s	s	bad|spoiled|spoilt	(of foodstuffs) not in an edible or usable condition	шіріген			
+01069283-s|сасыған	01069283-s	s	bad|spoiled|spoilt	(of foodstuffs) not in an edible or usable condition	сасыған			
+01069283-s|бұзылған	01069283-s	s	bad|spoiled|spoilt	(of foodstuffs) not in an edible or usable condition	бұзылған			
+01069283-s|жаман	01069283-s	s	bad	(of foodstuffs) not in an edible or usable condition	жаман			
+01125693-n|заң шығарушылық	01125693-n	n	lawmaking|legislating|legislation	the act of making or enacting laws	заң шығарушылық			
+01125693-n|заң шығару	01125693-n	n	lawmaking|legislating|legislation	the act of making or enacting laws	заң шығару			
+01125693-n|заңнама	01125693-n	n	lawmaking|legislating|legislation	the act of making or enacting laws	заңнама			
+01133281-n|жетекшілік	01133281-n	n	direction|management	the act of managing something	жетекшілік			
+01133281-n|менеджмент	01133281-n	n	management	the act of managing something	менеджмент			
+01133281-n|басқару	01133281-n	n	direction|management	the act of managing something	басқару			
+01133281-n|басқарма	01133281-n	n	management	the act of managing something	басқарма			
+01133281-n|бағыт	01133281-n	n	direction	the act of managing something	бағыт			
+01133281-n|меңгеру	01133281-n	n	direction|management	the act of managing something	меңгеру			
+01143279-a|тосыннан болған	01143279-a	a	sudden	happening without warning or in a short space of time	тосыннан болған			
+01143279-a|күтпеген	01143279-a	a	sudden	happening without warning or in a short space of time	күтпеген			
+01143279-a|кенет	01143279-a	a	sudden	happening without warning or in a short space of time	кенет			
+01143279-a|тосын	01143279-a	a	sudden	happening without warning or in a short space of time	тосын			
+01143279-a|кенеттен	01143279-a	a	sudden	happening without warning or in a short space of time	кенеттен			
+01170962-n|шайқас	01170962-n	n	combat|fight|fighting|scrap	the act of fighting; any contest or struggle	шайқас			
+01170962-n|ұрыс	01170962-n	n	combat|fight|fighting|scrap	the act of fighting; any contest or struggle	ұрыс			
+01170962-n|төбелесу	01170962-n	n	fighting	the act of fighting; any contest or struggle	төбелесу			
+01170962-n|жекпе-жек	01170962-n	n	combat|fight|fighting|scrap	the act of fighting; any contest or struggle	жекпе-жек			
+01170962-n|төбелес	01170962-n	n	combat|fight|fighting|scrap	the act of fighting; any contest or struggle	төбелес			
+01170962-n|қоқыс	01170962-n	n	scrap	the act of fighting; any contest or struggle	қоқыс			
+01170962-n|күрес	01170962-n	n	combat|fight|fighting|scrap	the act of fighting; any contest or struggle	күрес			
+01212519-n|жәрдем	01212519-n	n	support	aiding the cause or policy or interests of	жәрдем			
+01212519-n|қолдау	01212519-n	n	support	aiding the cause or policy or interests of	қолдау			
+01212519-n|көмек	01212519-n	n	support	aiding the cause or policy or interests of	көмек			
+01261974-n|қоздыру	01261974-n	n	stimulation	the act of arousing an organism to action	қоздыру			
+01261974-n|ынталандыру	01261974-n	n	stimulation	the act of arousing an organism to action	ынталандыру			
+01261974-n|түрткі болу	01261974-n	n	stimulation	the act of arousing an organism to action	түрткі болу			
+01348174-v|құлыптау	01348174-v	v	lock	fasten with a lock	құлыптау			
+01370561-v|соққы	01370561-v	v	kick	strike with the foot	соққы			
+01370561-v|тебу	01370561-v	v	kick	strike with the foot	тебу			
+01453433-v|тарту	01453433-v	v	drag	pull, as against a resistance	тарту			
+01453433-v|сүйреу	01453433-v	v	drag	pull, as against a resistance	сүйреу			
+01717628-v|дебют	01717628-v	v	debut	appear for the first time in public	дебют			
+01717628-v|дебют жасау	01717628-v	v	debut	appear for the first time in public	дебют жасау			
+01857392-v|таяқ	01857392-v	v	stick	stay put (in a certain place)	таяқ			
+01857392-v|тұрып қалу	01857392-v	v	stay put|stick around	stay put (in a certain place)	тұрып қалу			
+01857392-v|тұру	01857392-v	v	stay|stay put|stick|stick around	stay put (in a certain place)	тұру			
+01857392-v|қалу	01857392-v	v	stay|stay put|stick|stick around	stay put (in a certain place)	қалу			
+01857392-v|отыру	01857392-v	v	stay|stay put|stick|stick around	stay put (in a certain place)	отыру			
+02129604-n|жолбарыс	02129604-n	n	Panthera tigris|tiger	large feline of forests in most of Asia having a tawny coat with black stripes; endangered	жолбарыс			
+02203362-v|болу	02203362-v	v	have|have got|hold	have or possess, either in a concrete or an abstract sense	болу			
+02203362-v|ұстау	02203362-v	v	hold	have or possess, either in a concrete or an abstract sense	ұстау			
+02203362-v|ие болу	02203362-v	v	have|have got|hold	have or possess, either in a concrete or an abstract sense	ие болу			
+02203362-v|алған	02203362-v	v	have got	have or possess, either in a concrete or an abstract sense	алған			
+02203362-v|бар	02203362-v	v	have	have or possess, either in a concrete or an abstract sense	бар			
+02385102-a|биік	02385102-a	a	tall	great in vertical dimension; high in stature	биік			
+02385102-a|ұзын	02385102-a	a	tall	great in vertical dimension; high in stature	ұзын			
+02385102-a|зәулім	02385102-a	a	tall	great in vertical dimension; high in stature	зәулім			
+02390335-a|бассыз	02390335-a	a	wild	marked by extreme lack of restraint or control	бассыз			
+02390335-a|тізгінсіз	02390335-a	a	wild	marked by extreme lack of restraint or control	тізгінсіз			
+02390335-a|жабайы	02390335-a	a	wild	marked by extreme lack of restraint or control	жабайы			
+02390335-a|ерке	02390335-a	a	wild	marked by extreme lack of restraint or control	ерке			
+02395406-n|доңыз	02395406-n	n	Sus scrofa|grunter|hog|pig|squealer	domestic swine	доңыз			
+02395406-n|шошқа	02395406-n	n	Sus scrofa|grunter|hog|pig|squealer	domestic swine	шошқа			
+02395406-n|сықырлағыш	02395406-n	n	squealer	domestic swine	сықырлағыш			
+02403454-n|мүйізді сиыр	02403454-n	n	moo-cow	female of domestic cattle:	мүйізді сиыр			
+02403454-n|сиыр	02403454-n	n	cow|moo-cow	female of domestic cattle:	сиыр			
+02440244-v|бастау	02440244-v	v	head|lead	be in charge of	бастау			
+02440244-v|жетекшілік ету	02440244-v	v	head|lead	be in charge of	жетекшілік ету			
+02440244-v|басқару	02440244-v	v	head|lead	be in charge of	басқару			
+02461723-a|өтірік	02461723-a	a	false	not in accordance with the fact or reality or actuality	өтірік			
+02461723-a|жалған	02461723-a	a	false	not in accordance with the fact or reality or actuality	жалған			
+02461723-a|жасанды	02461723-a	a	false	not in accordance with the fact or reality or actuality	жасанды			
+02532595-v|сынақ жүргізу	02532595-v	v	experiment	to conduct a test or investigation	сынақ жүргізу			
+02532595-v|тәжірибе жүргізу	02532595-v	v	experiment	to conduct a test or investigation	тәжірибе жүргізу			
+02532595-v|тәжірибе жасау	02532595-v	v	experiment	to conduct a test or investigation	тәжірибе жасау			
+02532595-v|эксперимент	02532595-v	v	experiment	to conduct a test or investigation	эксперимент			
+02540670-v|қызметін атқару	02540670-v	v	assist|attend|attend to|serve|wait on	work for or be a servant to	қызметін атқару			
+02540670-v|қамқорлық жасау	02540670-v	v	attend to	work for or be a servant to	қамқорлық жасау			
+02540670-v|қатысу	02540670-v	v	attend	work for or be a servant to	қатысу			
+02540670-v|күте тұрыңыз	02540670-v	v	wait on	work for or be a servant to	күте тұрыңыз			
+02540670-v|қызмет ету	02540670-v	v	assist|attend|attend to|serve|wait on	work for or be a servant to	қызмет ету			
+02540670-v|қызмет көрсету	02540670-v	v	assist|attend|attend to|serve|wait on	work for or be a servant to	қызмет көрсету			
+02540670-v|көмектесу	02540670-v	v	assist	work for or be a servant to	көмектесу			
+02795528-n|бөшке	02795528-n	n	barrel	a tube through which a bullet travels when a gun is fired	бөшке			
+02795528-n|мылтық бөшкесі	02795528-n	n	gun barrel	a tube through which a bullet travels when a gun is fired	мылтық бөшкесі			
+02795528-n|ұңғы	02795528-n	n	barrel|gun barrel	a tube through which a bullet travels when a gun is fired	ұңғы			
+02795528-n|оқпан	02795528-n	n	barrel|gun barrel	a tube through which a bullet travels when a gun is fired	оқпан			
+02940392-a|тәжірибелік	02940392-a	a	experimental	relating to or based on experiment	тәжірибелік			
+02940392-a|істәжірибелік	02940392-a	a	experimental	relating to or based on experiment	істәжірибелік			
+02940392-a|эксперименттік	02940392-a	a	experimental	relating to or based on experiment	эксперименттік			
+03237639-n|таңғыш	03237639-n	n	dressing|medical dressing	a cloth covering for a wound or sore	таңғыш			
+03237639-n|таңу материалы	03237639-n	n	dressing|medical dressing	a cloth covering for a wound or sore	таңу материалы			
+03237639-n|дәмдеуіш	03237639-n	n	dressing	a cloth covering for a wound or sore	дәмдеуіш			
+03237639-n|дәке	03237639-n	n	dressing|medical dressing	a cloth covering for a wound or sore	дәке			
+03237639-n|медициналық таңғыш	03237639-n	n	medical dressing	a cloth covering for a wound or sore	медициналық таңғыш			
+03416489-n|көлікжай	03416489-n	n	garage	an outbuilding (or part of a building) for housing automobiles	көлікжай			
+03416489-n|гараж	03416489-n	n	garage	an outbuilding (or part of a building) for housing automobiles	гараж			
+03839795-n|тосқауыл	03839795-n	n	obstacle	an obstruction that stands in the way (and must be removed or surmounted or circumvented)	тосқауыл			
+03839795-n|кедергі	03839795-n	n	obstacle	an obstruction that stands in the way (and must be removed or surmounted or circumvented)	кедергі			
+03839795-n|бөгеу	03839795-n	n	obstacle	an obstruction that stands in the way (and must be removed or surmounted or circumvented)	бөгеу			
+03839795-n|бөгет	03839795-n	n	obstacle	an obstruction that stands in the way (and must be removed or surmounted or circumvented)	бөгет			
+04092609-n|жүзік	04092609-n	n	band|ring	jewelry consisting of a circlet of precious metal (often set with jewels) worn on the finger	жүзік			
+04092609-n|шығыршық	04092609-n	n	ring	jewelry consisting of a circlet of precious metal (often set with jewels) worn on the finger	шығыршық			
+04092609-n|сақина	04092609-n	n	ring	jewelry consisting of a circlet of precious metal (often set with jewels) worn on the finger	сақина			
+04092609-n|жолақ	04092609-n	n	band	jewelry consisting of a circlet of precious metal (often set with jewels) worn on the finger	жолақ			
+04101232-n|орам	04101232-n	n	roll	anything rolled up in cylindrical form	орам			
+04127904-n|табақ	04127904-n	n	sheet	a large piece of fabric (usually canvas fabric) by means of which wind is used to propel a sailing vessel	табақ			
+04127904-n|бет	04127904-n	n	sheet	a large piece of fabric (usually canvas fabric) by means of which wind is used to propel a sailing vessel	бет			
+04127904-n|желкен	04127904-n	n	canvas|canvass|sail|sheet	a large piece of fabric (usually canvas fabric) by means of which wind is used to propel a sailing vessel	желкен			
+04127904-n|парақ	04127904-n	n	sheet	a large piece of fabric (usually canvas fabric) by means of which wind is used to propel a sailing vessel	парақ			
+04127904-n|кенеп	04127904-n	n	canvas|canvass	a large piece of fabric (usually canvas fabric) by means of which wind is used to propel a sailing vessel	кенеп			
+04256520-n|диван	04256520-n	n	couch|lounge|sofa	an upholstered seat for more than one person	диван			
+04256520-n|кушетка	04256520-n	n	couch|lounge|sofa	an upholstered seat for more than one person	кушетка			
+04256520-n|демалыс бөлмесі	04256520-n	n	lounge	an upholstered seat for more than one person	демалыс бөлмесі			
+04850117-n|әділет	04850117-n	n	justice	the quality of being just or fair	әділет			
+04850117-n|әділдік	04850117-n	n	justice|justness	the quality of being just or fair	әділдік			
+04850117-n|әділеттілік	04850117-n	n	justice|justness	the quality of being just or fair	әділеттілік			
+05289297-n|еттің	05289297-n	n	muscle|musculus	one of the contractile organs of the body	еттің			
+05289297-n|бұлшықет	05289297-n	n	muscle|musculus	one of the contractile organs of the body	бұлшықет			
+05388805-n|сорғы	05388805-n	n	pump	the hollow muscular organ located behind the sternum and between the lungs; its rhythmic contractions move the blood through the body	сорғы			
+05388805-n|сорап	05388805-n	n	pump	the hollow muscular organ located behind the sternum and between the lungs; its rhythmic contractions move the blood through the body	сорап			
+05388805-n|жүрек	05388805-n	n	heart|pump|ticker	the hollow muscular organ located behind the sternum and between the lungs; its rhythmic contractions move the blood through the body	жүрек			
+05388805-n|сорғыш	05388805-n	n	pump	the hollow muscular organ located behind the sternum and between the lungs; its rhythmic contractions move the blood through the body	сорғыш			
+05388805-n|насос	05388805-n	n	pump	the hollow muscular organ located behind the sternum and between the lungs; its rhythmic contractions move the blood through the body	насос			
+05388805-n|тикер	05388805-n	n	ticker	the hollow muscular organ located behind the sternum and between the lungs; its rhythmic contractions move the blood through the body	тикер			
+05399847-n|қан	05399847-n	n	blood	the fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and platelets	қан			
+05737153-n|отметка	05737153-n	n	grade|mark|score	a number or letter indicating quality (especially of a student's performance)	отметка			
+05737153-n|шот	05737153-n	n	score	a number or letter indicating quality (especially of a student's performance)	шот			
+05737153-n|балл	05737153-n	n	score	a number or letter indicating quality (especially of a student's performance)	балл			
+05737153-n|класс	05737153-n	n	grade	a number or letter indicating quality (especially of a student's performance)	класс			
+05737153-n|белгі	05737153-n	n	mark	a number or letter indicating quality (especially of a student's performance)	белгі			
+05737153-n|баға	05737153-n	n	grade|mark|score	a number or letter indicating quality (especially of a student's performance)	баға			
+05737153-n|сынып	05737153-n	n	grade	a number or letter indicating quality (especially of a student's performance)	сынып			
+05737153-n|есеп	05737153-n	n	score	a number or letter indicating quality (especially of a student's performance)	есеп			
+05835747-n|концепция	05835747-n	n	concept|conception|construct	an abstract or general idea inferred or derived from specific instances	концепция			
+05835747-n|тұжырымдама	05835747-n	n	concept|conception	an abstract or general idea inferred or derived from specific instances	тұжырымдама			
+05835747-n|конструкт	05835747-n	n	construct	an abstract or general idea inferred or derived from specific instances	конструкт			
+05835747-n|түсінік	05835747-n	n	concept|conception|construct	an abstract or general idea inferred or derived from specific instances	түсінік			
+05835747-n|ұғым	05835747-n	n	concept|conception|construct	an abstract or general idea inferred or derived from specific instances	ұғым			
+05835747-n|ұрықталу	05835747-n	n	conception	an abstract or general idea inferred or derived from specific instances	ұрықталу			
+05864577-n|вектор	05864577-n	n	vector	a variable quantity that can be resolved into components	вектор			
+06211078-n|көлбеу	06211078-n	n	slant	a biased way of looking at or presenting something	көлбеу			
+06211078-n|бұрыш	06211078-n	n	angle	a biased way of looking at or presenting something	бұрыш			
+06254007-n|хабар	06254007-n	n	broadcast	message that is transmitted by radio or television	хабар			
+06254007-n|тарату	06254007-n	n	broadcast	message that is transmitted by radio or television	тарату			
+06254007-n|бағдарлама	06254007-n	n	broadcast	message that is transmitted by radio or television	бағдарлама			
+06254007-n|хабар тарату	06254007-n	n	broadcast	message that is transmitted by radio or television	хабар тарату			
+06422740-n|жолсерік	06422740-n	n	guide|guidebook	something that offers basic information or instruction	жолсерік			
+06422740-n|нұсқаулық	06422740-n	n	guide|guidebook	something that offers basic information or instruction	нұсқаулық			
+06422740-n|анықтамалық	06422740-n	n	guide|guidebook	something that offers basic information or instruction	анықтамалық			
+06485261-n|тәртіп	06485261-n	n	order of business	a list of matters to be taken up (as at a meeting)	тәртіп			
+06485261-n|күнтәртібі	06485261-n	n	agenda|agendum|order of business	a list of matters to be taken up (as at a meeting)	күнтәртібі			
+06485261-n|күн тәртібі	06485261-n	n	agenda|agendum|order of business	a list of matters to be taken up (as at a meeting)	күн тәртібі			
+06730780-n|айып	06730780-n	n	accusation|charge	an assertion that someone is guilty of a fault or offence	айып			
+06730780-n|айыптау	06730780-n	n	accusation|charge	an assertion that someone is guilty of a fault or offence	айыптау			
+06730780-n|айып тағу	06730780-n	n	accusation|charge	an assertion that someone is guilty of a fault or offence	айып тағу			
+06755568-n|күй	06755568-n	n	condition	an assumption on which rests the validity or effect of something else	күй			
+06755568-n|шарт	06755568-n	n	condition|precondition|stipulation	an assumption on which rests the validity or effect of something else	шарт			
+06755568-n|жағдай	06755568-n	n	condition	an assumption on which rests the validity or effect of something else	жағдай			
+06755568-n|ахуал	06755568-n	n	condition	an assumption on which rests the validity or effect of something else	ахуал			
+06755568-n|алғышарт	06755568-n	n	condition|precondition|stipulation	an assumption on which rests the validity or effect of something else	алғышарт			
+06756831-n|жалған	06756831-n	n	lie|prevarication	a statement that deviates from or perverts the truth	жалған			
+06756831-n|өтірік	06756831-n	n	lie|prevarication	a statement that deviates from or perverts the truth	өтірік			
+06756831-n|превариация	06756831-n	n	prevarication	a statement that deviates from or perverts the truth	превариация			
+06756831-n|айла	06756831-n	n	lie|prevarication	a statement that deviates from or perverts the truth	айла			
+06780678-n|нобай	06780678-n	n	sketch	a humorous or satirical drawing published in a newspaper or magazine	нобай			
+06780678-n|сықақ сурет	06780678-n	n	cartoon|sketch	a humorous or satirical drawing published in a newspaper or magazine	сықақ сурет			
+06780678-n|мультфильм	06780678-n	n	cartoon	a humorous or satirical drawing published in a newspaper or magazine	мультфильм			
+06780678-n|карикатура	06780678-n	n	cartoon|sketch	a humorous or satirical drawing published in a newspaper or magazine	карикатура			
+06780678-n|эскиз	06780678-n	n	sketch	a humorous or satirical drawing published in a newspaper or magazine	эскиз			
+06795746-n|символ	06795746-n	n	token	an individual instance of a type of symbol	символ			
+06795746-n|нәрсе	06795746-n	n	item	an individual instance of a type of symbol	нәрсе			
+06795746-n|зат	06795746-n	n	item	an individual instance of a type of symbol	зат			
+06795746-n|элемент	06795746-n	n	item	an individual instance of a type of symbol	элемент			
+06795746-n|кәдесый	06795746-n	n	token	an individual instance of a type of symbol	кәдесый			
+06795746-n|жетон	06795746-n	n	token	an individual instance of a type of symbol	жетон			
+06795746-n|токен	06795746-n	n	item|token	an individual instance of a type of symbol	токен			
+06863751-n|тоналдық	06863751-n	n	tonality	any of 24 major or minor diatonic scales that provide the tonal framework for a piece of music	тоналдық			
+06863751-n|тональдылық	06863751-n	n	tonality	any of 24 major or minor diatonic scales that provide the tonal framework for a piece of music	тональдылық			
+06863751-n|тональдық	06863751-n	n	key|tonality	any of 24 major or minor diatonic scales that provide the tonal framework for a piece of music	тональдық			
+06863751-n|үндестілік	06863751-n	n	tonality	any of 24 major or minor diatonic scales that provide the tonal framework for a piece of music	үндестілік			
+06863751-n|кілт	06863751-n	n	key	any of 24 major or minor diatonic scales that provide the tonal framework for a piece of music	кілт			
+07009640-n|көрініс	07009640-n	n	act	a subdivision of a play or opera or ballet	көрініс			
+07009640-n|перде	07009640-n	n	act	a subdivision of a play or opera or ballet	перде			
+07009640-n|акт	07009640-n	n	act	a subdivision of a play or opera or ballet	акт			
+07319103-n|табыс	07319103-n	n	success	an event that accomplishes its intended purpose	табыс			
+07319103-n|сәттілік	07319103-n	n	success	an event that accomplishes its intended purpose	сәттілік			
+07319103-n|жетістік	07319103-n	n	success	an event that accomplishes its intended purpose	жетістік			
+07402519-n|толқын	07402519-n	n	tide	the periodic rise and fall of the sea level under the gravitational pull of the moon	толқын			
+07458453-n|нәсіл	07458453-n	n	race	a contest of speed	нәсіл			
+07458453-n|бәйге	07458453-n	n	race	a contest of speed	бәйге			
+07458453-n|жарыс	07458453-n	n	race	a contest of speed	жарыс			
+07511080-n|күту	07511080-n	n	anticipation|expectancy	an expectation	күту			
+07511080-n|межелеу	07511080-n	n	anticipation|expectancy	an expectation	межелеу			
+07511080-n|үміт	07511080-n	n	anticipation|expectancy	an expectation	үміт			
+07884567-n|ішімдік	07884567-n	n	alcohol|alcoholic beverage|alcoholic drink|inebriant|intoxicant	a liquor or brew containing alcohol as the active agent	ішімдік			
+07884567-n|алкогольдік сусын	07884567-n	n	alcoholic beverage|alcoholic drink	a liquor or brew containing alcohol as the active agent	алкогольдік сусын			
+07884567-n|арақ-шарап	07884567-n	n	alcohol|alcoholic beverage|alcoholic drink|inebriant|intoxicant	a liquor or brew containing alcohol as the active agent	арақ-шарап			
+07884567-n|спирттік ішімдік	07884567-n	n	alcohol|alcoholic beverage|alcoholic drink|inebriant|intoxicant	a liquor or brew containing alcohol as the active agent	спирттік ішімдік			
+07884567-n|алкоголь	07884567-n	n	alcohol|alcoholic beverage|alcoholic drink|inebriant|intoxicant	a liquor or brew containing alcohol as the active agent	алкоголь			
+07884567-n|есірткіш	07884567-n	n	alcohol	a liquor or brew containing alcohol as the active agent	есірткіш			
+07884567-n|маскүнемдік	07884567-n	n	inebriant|intoxicant	a liquor or brew containing alcohol as the active agent	маскүнемдік			
+07884567-n|спирт	07884567-n	n	alcohol	a liquor or brew containing alcohol as the active agent	спирт			
+07961016-n|түйір	07961016-n	n	ball|chunk|clod|clump|glob|lump	a compact mass	түйір			
+07961016-n|глоб	07961016-n	n	glob	a compact mass	глоб			
+07961016-n|түйіршік	07961016-n	n	clod|clump|lump	a compact mass	түйіршік			
+07961016-n|шар	07961016-n	n	ball	a compact mass	шар			
+07961016-n|шұңқыр	07961016-n	n	chunk	a compact mass	шұңқыр			
+07961016-n|кесек	07961016-n	n	ball|chunk|clod|clump|glob|lump	a compact mass	кесек			
+07961016-n|доп	07961016-n	n	ball	a compact mass	доп			
+07961016-n|топтама	07961016-n	n	ball|chunk|clod|clump|glob|lump	a compact mass	топтама			
+07961016-n|бал	07961016-n	n	ball	a compact mass	бал			
+08060193-n|дилерлік кеңсе	08060193-n	n	dealership	a business established or operated under an authorization to sell or distribute a company's goods or services in a particular area	дилерлік кеңсе			
+08060193-n|франчайзинг	08060193-n	n	franchise	a business established or operated under an authorization to sell or distribute a company's goods or services in a particular area	франчайзинг			
+08060193-n|франшиза	08060193-n	n	dealership|franchise	a business established or operated under an authorization to sell or distribute a company's goods or services in a particular area	франшиза			
+08404188-n|оппозиция	08404188-n	n	Opposition	the major political party opposed to the party in office and prepared to replace it if elected	оппозиция			
+08434259-n|тор	08434259-n	n	network	an interconnected system of things or people	тор			
+08434259-n|веб	08434259-n	n	web	an interconnected system of things or people	веб			
+08434259-n|тармақ	08434259-n	n	network	an interconnected system of things or people	тармақ			
+08434259-n|желі	08434259-n	n	network|web	an interconnected system of things or people	желі			
+08434259-n|ғаламтор	08434259-n	n	web	an interconnected system of things or people	ғаламтор			
+08521623-n|қабірстан	08521623-n	n	burial ground|burial site|burying ground|cemetery|graveyard|memorial park|necropolis	a tract of land used for burials	қабірстан			
+08521623-n|қорым	08521623-n	n	burial ground|burial site|burying ground|cemetery|graveyard|memorial park|necropolis	a tract of land used for burials	қорым			
+08521623-n|бейіт	08521623-n	n	burial ground|burial site|burying ground|cemetery|graveyard|memorial park|necropolis	a tract of land used for burials	бейіт			
+08521623-n|жерлеу алаңы	08521623-n	n	burying ground	a tract of land used for burials	жерлеу алаңы			
+08521623-n|зират	08521623-n	n	burial ground|burial site|burying ground|cemetery|graveyard|memorial park|necropolis	a tract of land used for burials	зират			
+08521623-n|көрстан	08521623-n	n	burial ground|burial site|burying ground|cemetery|graveyard|memorial park|necropolis	a tract of land used for burials	көрстан			
+08521623-n|жерлеу орны	08521623-n	n	burial ground|burial site	a tract of land used for burials	жерлеу орны			
+08521623-n|некрополь	08521623-n	n	necropolis	a tract of land used for burials	некрополь			
+08521623-n|мемориалдық саябақ	08521623-n	n	memorial park	a tract of land used for burials	мемориалдық саябақ			
+08549070-n|дамыту	08549070-n	n	development	a district that has been developed to serve some purpose	дамыту			
+08549070-n|шағынаудан	08549070-n	n	development	a district that has been developed to serve some purpose	шағынаудан			
+08549070-n|даму	08549070-n	n	development	a district that has been developed to serve some purpose	даму			
+08613472-n|сырт	08613472-n	n	outside	the outer side or surface of something	сырт			
+08613472-n|сыртқы жағы	08613472-n	n	exterior|outside	the outer side or surface of something	сыртқы жағы			
+08613472-n|сыртқы бет	08613472-n	n	exterior|outside	the outer side or surface of something	сыртқы бет			
+08613472-n|сыртқы	08613472-n	n	exterior	the outer side or surface of something	сыртқы			
+08613472-n|сырты	08613472-n	n	exterior|outside	the outer side or surface of something	сырты			
+08645033-n|дала	08645033-n	n	countryside	rural regions	дала			
+08645033-n|ауыл	08645033-n	n	countryside	rural regions	ауыл			
+08645033-n|ауылдық жер	08645033-n	n	countryside	rural regions	ауылдық жер			
+08645033-n|шөл	08645033-n	n	countryside	rural regions	шөл			
+09285254-n|фрагмент	09285254-n	n	fragment	a piece broken off or cut off of something else	фрагмент			
+09285254-n|үзінді	09285254-n	n	fragment	a piece broken off or cut off of something else	үзінді			
+09285254-n|сынық	09285254-n	n	fragment	a piece broken off or cut off of something else	сынық			
+09285254-n|жарқыншақ	09285254-n	n	fragment	a piece broken off or cut off of something else	жарқыншақ			
+09285254-n|үзік	09285254-n	n	fragment	a piece broken off or cut off of something else	үзік			
+09285254-n|бөлшек	09285254-n	n	fragment	a piece broken off or cut off of something else	бөлшек			
+09774266-n|кеңесуші	09774266-n	n	adviser|advisor|consultant	an expert who gives advice	кеңесуші			
+09774266-n|кеңесші	09774266-n	n	adviser|advisor|consultant	an expert who gives advice	кеңесші			
+09774266-n|консультант	09774266-n	n	adviser|advisor|consultant	an expert who gives advice	консультант			
+09774266-n|кеңесгер	09774266-n	n	adviser|advisor|consultant	an expert who gives advice	кеңесгер			
+09876701-n|аға	09876701-n	n	Brother	(Roman Catholic Church) a title given to a monk and used as form of address	аға			
+09876701-n|бауыр	09876701-n	n	Brother	(Roman Catholic Church) a title given to a monk and used as form of address	бауыр			
+09923673-n|бұқара	09923673-n	n	citizen	a native or naturalized member of a state or other political community	бұқара			
+09923673-n|азамат	09923673-n	n	citizen	a native or naturalized member of a state or other political community	азамат			
+09960117-n|дәнекер	09960117-n	n	contact|middleman	a person who is in a position to give you special assistance	дәнекер			
+09960117-n|делдал	09960117-n	n	contact|middleman	a person who is in a position to give you special assistance	делдал			
+09960117-n|байланыс	09960117-n	n	contact	a person who is in a position to give you special assistance	байланыс			
+10208583-n|инсайдер	10208583-n	n	insider	an officer of a corporation or others who have access to private information about the corporation's operations	инсайдер			
+10464711-n|предшественник	10464711-n	n	predecessor	one who precedes you in time (as in holding a position or office)	предшественник			
+10464711-n|алдыңғы	10464711-n	n	predecessor	one who precedes you in time (as in holding a position or office)	алдыңғы			
+10464711-n|өзінен бұрынғы	10464711-n	n	predecessor	one who precedes you in time (as in holding a position or office)	өзінен бұрынғы			
+10628644-n|патша	10628644-n	n	crowned head|monarch|sovereign	a nation's ruler or head of state usually by hereditary right	патша			
+10628644-n|монарх	10628644-n	n	crowned head|monarch|sovereign	a nation's ruler or head of state usually by hereditary right	монарх			
+10628644-n|тәж киген басшы	10628644-n	n	crowned head	a nation's ruler or head of state usually by hereditary right	тәж киген басшы			
+10628644-n|егемен	10628644-n	n	sovereign	a nation's ruler or head of state usually by hereditary right	егемен			
+10628644-n|хан	10628644-n	n	crowned head|monarch|sovereign	a nation's ruler or head of state usually by hereditary right	хан			
+11502497-n|қысқа мерзімді жауын	11502497-n	n	rain shower|shower	a brief period of precipitation	қысқа мерзімді жауын			
+11502497-n|жауын-шашын	11502497-n	n	rain shower|shower	a brief period of precipitation	жауын-шашын			
+11502497-n|душ	11502497-n	n	shower	a brief period of precipitation	душ			
+11502497-n|жаңбырлы жаңбыр	11502497-n	n	rain shower	a brief period of precipitation	жаңбырлы жаңбыр			
+11502497-n|жаңбыр	11502497-n	n	shower	a brief period of precipitation	жаңбыр			
+11502497-n|себезгі	11502497-n	n	shower	a brief period of precipitation	себезгі			
+11502497-n|нөсер	11502497-n	n	rain shower|shower	a brief period of precipitation	нөсер			
+13323749-n|жол ақысы	13323749-n	n	toll	a fee levied for the use of roads or bridges (used for maintenance)	жол ақысы			
+13323749-n|алым	13323749-n	n	toll	a fee levied for the use of roads or bridges (used for maintenance)	алым			
+13323749-n|өткел ақысы	13323749-n	n	toll	a fee levied for the use of roads or bridges (used for maintenance)	өткел ақысы			
+13381145-n|салым	13381145-n	n	bank deposit|deposit	money deposited in a bank or some similar institution	салым			
+13381145-n|депозит	13381145-n	n	bank deposit|deposit	money deposited in a bank or some similar institution	депозит			
+13381145-n|банктік депозит	13381145-n	n	bank deposit	money deposited in a bank or some similar institution	банктік депозит			
+13381145-n|банк салымы	13381145-n	n	bank deposit|deposit	money deposited in a bank or some similar institution	банк салымы			
+13563746-n|табиғи таңдау	13563746-n	n	natural selection|selection|survival|survival of the fittest	a natural process resulting in the evolution of organisms best adapted to the environment	табиғи таңдау			
+13563746-n|табиғи сұрыпталу	13563746-n	n	natural selection|selection|survival|survival of the fittest	a natural process resulting in the evolution of organisms best adapted to the environment	табиғи сұрыпталу			
+13563746-n|өмір сүру	13563746-n	n	survival	a natural process resulting in the evolution of organisms best adapted to the environment	өмір сүру			
+13563746-n|қозғаушы сұрыпталу	13563746-n	n	natural selection	a natural process resulting in the evolution of organisms best adapted to the environment	қозғаушы сұрыпталу			
+13563746-n|селекция	13563746-n	n	selection	a natural process resulting in the evolution of organisms best adapted to the environment	селекция			
+13971901-n|бәтуаластық	13971901-n	n	consensus	agreement in the judgment or opinion reached by a group as a whole	бәтуаластық			
+13971901-n|бірауыздылық	13971901-n	n	consensus	agreement in the judgment or opinion reached by a group as a whole	бірауыздылық			
+13971901-n|бәтуа	13971901-n	n	consensus	agreement in the judgment or opinion reached by a group as a whole	бәтуа			
+13971901-n|пәтуаластық	13971901-n	n	consensus	agreement in the judgment or opinion reached by a group as a whole	пәтуаластық			
+13971901-n|пәтуа	13971901-n	n	consensus	agreement in the judgment or opinion reached by a group as a whole	пәтуа			
+13971901-n|пікірлестік	13971901-n	n	consensus	agreement in the judgment or opinion reached by a group as a whole	пікірлестік			
+13971901-n|консенсус	13971901-n	n	consensus	agreement in the judgment or opinion reached by a group as a whole	консенсус			
+14002279-n|салмақ	14002279-n	n	balance	a state of equilibrium	салмақ			
+14002279-n|тепе-теңдік	14002279-n	n	balance	a state of equilibrium	тепе-теңдік			
+14002279-n|теңгерім	14002279-n	n	balance	a state of equilibrium	теңгерім			
+14002279-n|тепе-тең күй	14002279-n	n	balance	a state of equilibrium	тепе-тең күй			
+14462946-n|әлсіздік	14462946-n	n	failing|weakness	a flaw or weak point	әлсіздік			
+14462946-n|кемшілік	14462946-n	n	failing|weakness	a flaw or weak point	кемшілік			
+14462946-n|кем-кетік	14462946-n	n	failing|weakness	a flaw or weak point	кем-кетік			
+14462946-n|сәтсіздік	14462946-n	n	failing	a flaw or weak point	сәтсіздік			
+14462946-n|олқылық	14462946-n	n	failing|weakness	a flaw or weak point	олқылық			
+14479615-n|штат	14479615-n	n	state	(chemistry) the three traditional states of matter are solids (fixed shape and volume) and liquids (fixed volume and shaped by the container) and gases (filling the container)	штат			
+14479615-n|мемлекет	14479615-n	n	state	(chemistry) the three traditional states of matter are solids (fixed shape and volume) and liquids (fixed volume and shaped by the container) and gases (filling the container)	мемлекет			
+14479615-n|заттың агрегаттық күйі	14479615-n	n	state of matter	(chemistry) the three traditional states of matter are solids (fixed shape and volume) and liquids (fixed volume and shaped by the container) and gases (filling the container)	заттың агрегаттық күйі			
+14479615-n|агрегаттық күй	14479615-n	n	state|state of matter	(chemistry) the three traditional states of matter are solids (fixed shape and volume) and liquids (fixed volume and shaped by the container) and gases (filling the container)	агрегаттық күй			
+14479615-n|материяның күйі	14479615-n	n	state of matter	(chemistry) the three traditional states of matter are solids (fixed shape and volume) and liquids (fixed volume and shaped by the container) and gases (filling the container)	материяның күйі			
+14479615-n|жағдай	14479615-n	n	state	(chemistry) the three traditional states of matter are solids (fixed shape and volume) and liquids (fixed volume and shaped by the container) and gases (filling the container)	жағдай			
+14479615-n|күй	14479615-n	n	state|state of matter	(chemistry) the three traditional states of matter are solids (fixed shape and volume) and liquids (fixed volume and shaped by the container) and gases (filling the container)	күй			
+14479615-n|дәулет	14479615-n	n	state	(chemistry) the three traditional states of matter are solids (fixed shape and volume) and liquids (fixed volume and shaped by the container) and gases (filling the container)	дәулет			
+15205532-n|жүзжылдық	15205532-n	n	century	a period of 100 years	жүзжылдық			
+15205532-n|ғасыр	15205532-n	n	century	a period of 100 years	ғасыр			
+15270245-n|слот	15270245-n	n	slot|time slot	a time assigned on a schedule or agenda	слот			
+15270245-n|уақыт аралығы	15270245-n	n	time slot	a time assigned on a schedule or agenda	уақыт аралығы			

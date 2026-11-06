@@ -1,0 +1,393 @@
+key_id	sources	flags	systems
+00015498-v|көз шырымын алу	llm	multiword	B2
+00015498-v|мызғу	llm		B2
+00015498-v|көз қысу	mt	multiword	B1
+00015498-v|шынықтыру	llm		B2
+00015498-v|ұйықтау	mt		B1
+00020671-v|гипноз жасау	llm	multiword	B2
+00020671-v|гипноздау	llm|mt		B1|B2|B3
+00210848-s|жалтыр	dict		B0|B1
+00210848-s|таз	dict|llm|mt		B0|B1|B2|B3
+00210848-s|таздау	llm		B2
+00210848-s|жалаңбас	llm		B2
+00210848-s|қасқа	dict		B0|B1
+00329831-a|орталық	dict|llm|mt		B0|B1|B2|B3
+00329831-a|ортаңғы	llm		B2
+00372111-s|шоколадты қоңыр	mt	multiword	B1
+00372111-s|қою-қоңыр	mt		B1
+00372111-s|қоңыр	dict|llm|mt		B0|B1|B2|B3
+00372111-s|шоколад түсті	llm	multiword	B2
+00372111-s|қоңыр түсті	llm	multiword	B2
+00404642-v|жүйелеу	llm		B2
+00404642-v|реттеу	llm		B2
+00404642-v|үйлестіру	mt		B1
+00404642-v|ұйымдастыру	llm|mt		B1|B2|B3
+00415676-n|өмір салты	mt	multiword	B1
+00415676-n|жол	dict|llm|mt		B0|B1|B2|B3
+00415676-n|өмір жолы	llm	multiword	B2
+00415676-n|тұрмыс дәстүрі	dict	multiword	B0|B1
+00438707-a|ұқыпты	llm		B2
+00438707-a|шебер	llm		B2
+00438707-a|зерек	llm		B2
+00438707-a|ақылды	dict|mt		B0|B1|B3
+00438707-a|тапқыр	llm		B2
+00503982-a|салыстыруға келетін	llm	multiword	B2
+00503982-a|салыстырмалы	llm|mt		B1|B2|B3
+00505853-s|теңдессіз	llm		B2
+00505853-s|қайталанбас	llm		B2
+00505853-s|теңдесі жоқ	mt	multiword	B1
+00505853-s|ерекше	llm		B2
+00505853-s|жалғыз	mt		B1
+00505853-s|бірегей	dict|llm|mt		B0|B1|B2|B3
+00505853-s|баламасыз	llm		B2
+00697419-v|экран	mt	loan_letters|verb_form_check	B1
+00697419-v|сұрыптау	llm		B2
+00697419-v|тексеру	llm		B2
+00697589-v|анықтау	mt		B1
+00697589-v|шешу	llm		B2
+00697589-v|байламдау	llm		B2
+00697589-v|шешім қабылдау	llm|mt	multiword	B1|B2|B3
+00697589-v|тоқтам жасау	llm	multiword	B2
+00697589-v|шығару	dict		B0|B1
+00724081-a|сенімді	llm|mt		B1|B2|B3
+00779061-v|үзіліс жасау	llm	multiword	B2
+00779061-v|үзіліс	mt	verb_form_check	B1
+00779061-v|уақтау	dict		B0|B1
+00779061-v|сындыру	dict		B0|B1
+00779061-v|пауза	mt	verb_form_check	B1
+00779061-v|тоқтап қалу	llm	multiword	B2
+00779061-v|аялдау	llm		B2
+00779061-v|кідіру	llm		B2
+00779061-v|сыну	dict		B0|B1
+00779360-v|демалу	dict|llm|mt		B0|B1|B2|B3
+00779360-v|тыныстау	llm		B2
+00779360-v|тыныс алу	mt	multiword	B1
+00779360-v|дем алу	dict|llm	multiword	B0|B1|B2|B3
+00845299-v|айқайлау	dict|mt		B0|B1|B3
+00845299-v|зорлық-зомбылық	mt	verb_form_check	B1
+00845299-v|сөгу	llm		B2
+00845299-v|дөрекі сөйлеу	llm	multiword	B2
+00845299-v|балағаттау	llm		B2
+00845299-v|ақыру	dict		B0|B1
+00845299-v|қара күзетші	mt	multiword|verb_form_check	B1
+00845299-v|бақыру	dict		B0|B1
+00890590-v|қамтамасыз ету	llm	multiword	B2
+00890590-v|кепілдік беру	llm	multiword	B2
+00890590-v|кепілдік	mt	verb_form_check	B1
+00890590-v|қауіпсіз	mt	verb_form_check	B1
+00890590-v|кепілдеу	llm		B2
+00892145-n|семинар	dict|llm|mt		B0|B1|B2|B3
+00906367-v|сотталған	mt	verb_form_check	B1
+00906367-v|кінәлі деп тану	llm	multiword	B2
+00906367-v|айыптау	llm		B2
+01069283-s|айныған	llm		B2
+01069283-s|шіріген	llm		B2
+01069283-s|сасыған	llm		B2
+01069283-s|бұзылған	llm|mt		B1|B2|B3
+01069283-s|жаман	dict|mt		B0|B1|B3
+01125693-n|заң шығарушылық	llm	multiword	B2
+01125693-n|заң шығару	llm|mt	multiword	B1|B2|B3
+01125693-n|заңнама	llm		B2
+01133281-n|жетекшілік	llm		B2
+01133281-n|менеджмент	dict		B0|B1
+01133281-n|басқару	llm|mt		B1|B2|B3
+01133281-n|басқарма	dict		B0|B1
+01133281-n|бағыт	dict|mt		B0|B1|B3
+01133281-n|меңгеру	llm		B2
+01143279-a|тосыннан болған	llm	multiword	B2
+01143279-a|күтпеген	llm		B2
+01143279-a|кенет	llm		B2
+01143279-a|тосын	llm		B2
+01143279-a|кенеттен	mt		B1
+01170962-n|шайқас	llm		B2
+01170962-n|ұрыс	llm|mt		B1|B2|B3
+01170962-n|төбелесу	mt		B1
+01170962-n|жекпе-жек	llm|mt		B1|B2|B3
+01170962-n|төбелес	dict|llm		B0|B1|B2|B3
+01170962-n|қоқыс	mt		B1
+01170962-n|күрес	llm		B2
+01212519-n|жәрдем	llm		B2
+01212519-n|қолдау	dict|llm|mt		B0|B1|B2|B3
+01212519-n|көмек	llm		B2
+01261974-n|қоздыру	llm		B2
+01261974-n|ынталандыру	llm|mt		B1|B2|B3
+01261974-n|түрткі болу	llm	multiword	B2
+01348174-v|құлыптау	llm|mt		B1|B2|B3
+01370561-v|соққы	mt	verb_form_check	B1
+01370561-v|тебу	dict|llm		B0|B1|B2|B3
+01453433-v|тарту	llm		B2
+01453433-v|сүйреу	dict|llm|mt		B0|B1|B2|B3
+01717628-v|дебют	mt	verb_form_check	B1
+01717628-v|дебют жасау	llm	multiword	B2
+01857392-v|таяқ	mt	verb_form_check	B1
+01857392-v|тұрып қалу	mt	multiword	B1
+01857392-v|тұру	llm		B2
+01857392-v|қалу	dict|llm		B0|B1|B2|B3
+01857392-v|отыру	llm		B2
+02129604-n|жолбарыс	dict|llm|mt		B0|B1|B2|B3
+02203362-v|болу	llm		B2
+02203362-v|ұстау	dict|mt		B0|B1|B3
+02203362-v|ие болу	llm	multiword	B2
+02203362-v|алған	mt	verb_form_check	B1
+02203362-v|бар	mt	verb_form_check	B1
+02385102-a|биік	dict|llm|mt		B0|B1|B2|B3
+02385102-a|ұзын	dict|llm		B0|B1|B2|B3
+02385102-a|зәулім	dict		B0|B1
+02390335-a|бассыз	llm		B2
+02390335-a|тізгінсіз	llm		B2
+02390335-a|жабайы	dict|mt		B0|B1|B3
+02390335-a|ерке	llm		B2
+02395406-n|доңыз	llm		B2
+02395406-n|шошқа	dict|llm|mt		B0|B1|B2|B3
+02395406-n|сықырлағыш	mt		B1
+02403454-n|мүйізді сиыр	mt	multiword	B1
+02403454-n|сиыр	dict|llm|mt		B0|B1|B2|B3
+02440244-v|бастау	llm		B2
+02440244-v|жетекшілік ету	llm	multiword	B2
+02440244-v|басқару	llm		B2
+02461723-a|өтірік	llm		B2
+02461723-a|жалған	llm|mt		B1|B2|B3
+02461723-a|жасанды	llm		B2
+02532595-v|сынақ жүргізу	llm	multiword	B2
+02532595-v|тәжірибе жүргізу	llm	multiword	B2
+02532595-v|тәжірибе жасау	llm	multiword	B2
+02532595-v|эксперимент	mt	loan_letters|verb_form_check	B1
+02540670-v|қызметін атқару	llm	multiword	B2
+02540670-v|қамқорлық жасау	mt	multiword	B1
+02540670-v|қатысу	mt		B1
+02540670-v|күте тұрыңыз	mt	multiword|verb_form_check	B1
+02540670-v|қызмет ету	llm|mt	multiword	B1|B2|B3
+02540670-v|қызмет көрсету	llm	multiword	B2
+02540670-v|көмектесу	mt		B1
+02795528-n|бөшке	dict|mt		B0|B1|B3
+02795528-n|мылтық бөшкесі	mt	multiword	B1
+02795528-n|ұңғы	llm		B2
+02795528-n|оқпан	dict|llm		B0|B1|B2|B3
+02940392-a|тәжірибелік	llm		B2
+02940392-a|істәжірибелік	dict		B0|B1
+02940392-a|эксперименттік	dict|llm|mt	loan_letters	B0|B1|B2|B3
+03237639-n|таңғыш	dict|llm|mt		B0|B1|B2|B3
+03237639-n|таңу материалы	llm	multiword	B2
+03237639-n|дәмдеуіш	dict		B0|B1
+03237639-n|дәке	llm		B2
+03237639-n|медициналық таңғыш	mt	loan_letters|multiword	B1
+03416489-n|көлікжай	dict		B0|B1
+03416489-n|гараж	dict|llm|mt		B0|B1|B2|B3
+03839795-n|тосқауыл	dict|llm		B0|B1|B2|B3
+03839795-n|кедергі	llm|mt		B1|B2|B3
+03839795-n|бөгеу	llm		B2
+03839795-n|бөгет	llm		B2
+04092609-n|жүзік	dict|llm		B0|B1|B2|B3
+04092609-n|шығыршық	dict		B0|B1
+04092609-n|сақина	dict|mt		B0|B1|B3
+04092609-n|жолақ	mt		B1
+04101232-n|орам	llm|mt		B1|B2|B3
+04127904-n|табақ	dict		B0|B1
+04127904-n|бет	dict		B0|B1
+04127904-n|желкен	dict|llm|mt		B0|B1|B2|B3
+04127904-n|парақ	dict|mt		B0|B1|B3
+04127904-n|кенеп	dict|mt		B0|B1|B3
+04256520-n|диван	dict|llm|mt	loan_letters	B0|B1|B2|B3
+04256520-n|кушетка	llm		B2
+04256520-n|демалыс бөлмесі	mt	multiword	B1
+04850117-n|әділет	dict		B0|B1
+04850117-n|әділдік	dict|llm|mt		B0|B1|B2|B3
+04850117-n|әділеттілік	dict|llm		B0|B1|B2|B3
+05289297-n|еттің	llm		B2
+05289297-n|бұлшықет	dict|llm|mt		B0|B1|B2|B3
+05388805-n|сорғы	dict|mt		B0|B1|B3
+05388805-n|сорап	dict		B0|B1
+05388805-n|жүрек	dict|llm|mt		B0|B1|B2|B3
+05388805-n|сорғыш	dict		B0|B1
+05388805-n|насос	dict		B0|B1
+05388805-n|тикер	mt		B1
+05399847-n|қан	dict|llm|mt		B0|B1|B2|B3
+05737153-n|отметка	llm		B2
+05737153-n|шот	dict		B0|B1
+05737153-n|балл	mt		B1
+05737153-n|класс	dict		B0|B1
+05737153-n|белгі	mt		B1
+05737153-n|баға	dict|llm|mt		B0|B1|B2|B3
+05737153-n|сынып	dict		B0|B1
+05737153-n|есеп	dict		B0|B1
+05835747-n|концепция	llm	loan_letters	B2
+05835747-n|тұжырымдама	dict|mt		B0|B1|B3
+05835747-n|конструкт	mt		B1
+05835747-n|түсінік	dict|llm		B0|B1|B2|B3
+05835747-n|ұғым	dict|llm|mt		B0|B1|B2|B3
+05835747-n|ұрықталу	dict		B0|B1
+05864577-n|вектор	llm|mt	loan_letters	B1|B2|B3
+06211078-n|көлбеу	mt		B1
+06211078-n|бұрыш	dict|mt		B0|B1|B3
+06254007-n|хабар	llm		B2
+06254007-n|тарату	llm		B2
+06254007-n|бағдарлама	dict|llm		B0|B1|B2|B3
+06254007-n|хабар тарату	dict	multiword	B0|B1
+06422740-n|жолсерік	llm		B2
+06422740-n|нұсқаулық	llm|mt		B1|B2|B3
+06422740-n|анықтамалық	llm		B2
+06485261-n|тәртіп	mt		B1
+06485261-n|күнтәртібі	llm		B2
+06485261-n|күн тәртібі	llm|mt	multiword	B1|B2|B3
+06730780-n|айып	llm		B2
+06730780-n|айыптау	llm|mt		B1|B2|B3
+06730780-n|айып тағу	llm	multiword	B2
+06755568-n|күй	dict		B0|B1
+06755568-n|шарт	dict|llm|mt		B0|B1|B2|B3
+06755568-n|жағдай	dict		B0|B1
+06755568-n|ахуал	dict		B0|B1
+06755568-n|алғышарт	llm|mt		B1|B2|B3
+06756831-n|жалған	dict|llm		B0|B1|B2|B3
+06756831-n|өтірік	dict|llm|mt		B0|B1|B2|B3
+06756831-n|превариация	mt	loan_letters	B1
+06756831-n|айла	llm		B2
+06780678-n|нобай	dict		B0|B1
+06780678-n|сықақ сурет	llm	multiword	B2
+06780678-n|мультфильм	mt	loan_letters	B1
+06780678-n|карикатура	llm		B2
+06780678-n|эскиз	dict|mt	loan_letters	B0|B1|B3
+06795746-n|символ	mt	loan_letters	B1
+06795746-n|нәрсе	dict		B0|B1
+06795746-n|зат	dict		B0|B1
+06795746-n|элемент	mt	loan_letters	B1
+06795746-n|кәдесый	dict		B0|B1
+06795746-n|жетон	dict		B0|B1
+06795746-n|токен	llm		B2
+06863751-n|тоналдық	dict		B0|B1
+06863751-n|тональдылық	mt	loan_letters	B1
+06863751-n|тональдық	llm	loan_letters	B2
+06863751-n|үндестілік	dict		B0|B1
+06863751-n|кілт	dict|mt		B0|B1|B3
+07009640-n|көрініс	llm		B2
+07009640-n|перде	dict|llm		B0|B1|B2|B3
+07009640-n|акт	llm|mt		B1|B2|B3
+07319103-n|табыс	dict|llm		B0|B1|B2|B3
+07319103-n|сәттілік	llm|mt		B1|B2|B3
+07319103-n|жетістік	dict|llm		B0|B1|B2|B3
+07402519-n|толқын	llm|mt		B1|B2|B3
+07458453-n|нәсіл	dict		B0|B1
+07458453-n|бәйге	dict|llm		B0|B1|B2|B3
+07458453-n|жарыс	dict|llm|mt		B0|B1|B2|B3
+07511080-n|күту	llm		B2
+07511080-n|межелеу	llm		B2
+07511080-n|үміт	llm		B2
+07884567-n|ішімдік	llm		B2
+07884567-n|алкогольдік сусын	mt	loan_letters|multiword	B1
+07884567-n|арақ-шарап	llm		B2
+07884567-n|спирттік ішімдік	llm	multiword	B2
+07884567-n|алкоголь	dict|llm|mt	loan_letters	B0|B1|B2|B3
+07884567-n|есірткіш	dict		B0|B1
+07884567-n|маскүнемдік	mt		B1
+07884567-n|спирт	dict		B0|B1
+07961016-n|түйір	llm		B2
+07961016-n|глоб	mt		B1
+07961016-n|түйіршік	mt		B1
+07961016-n|шар	dict|mt		B0|B1|B3
+07961016-n|шұңқыр	mt		B1
+07961016-n|кесек	llm		B2
+07961016-n|доп	dict		B0|B1
+07961016-n|топтама	llm		B2
+07961016-n|бал	dict		B0|B1
+08060193-n|дилерлік кеңсе	mt	multiword	B1
+08060193-n|франчайзинг	mt	loan_letters	B1
+08060193-n|франшиза	llm	loan_letters	B2
+08404188-n|оппозиция	llm|mt	loan_letters	B1|B2|B3
+08434259-n|тор	dict		B0|B1
+08434259-n|веб	mt	loan_letters	B1
+08434259-n|тармақ	dict		B0|B1
+08434259-n|желі	dict|llm|mt		B0|B1|B2|B3
+08434259-n|ғаламтор	dict		B0|B1
+08521623-n|қабірстан	llm		B2
+08521623-n|қорым	llm		B2
+08521623-n|бейіт	dict|llm		B0|B1|B2|B3
+08521623-n|жерлеу алаңы	mt	multiword	B1
+08521623-n|зират	dict|llm|mt		B0|B1|B2|B3
+08521623-n|көрстан	llm		B2
+08521623-n|жерлеу орны	mt	multiword	B1
+08521623-n|некрополь	mt	loan_letters	B1
+08521623-n|мемориалдық саябақ	mt	multiword	B1
+08549070-n|дамыту	dict		B0|B1
+08549070-n|шағынаудан	llm		B2
+08549070-n|даму	dict|mt		B0|B1|B3
+08613472-n|сырт	mt		B1
+08613472-n|сыртқы жағы	llm	multiword	B2
+08613472-n|сыртқы бет	llm	multiword	B2
+08613472-n|сыртқы	mt		B1
+08613472-n|сырты	llm		B2
+08645033-n|дала	llm		B2
+08645033-n|ауыл	mt		B1
+08645033-n|ауылдық жер	llm	multiword	B2
+08645033-n|шөл	llm		B2
+09285254-n|фрагмент	dict|mt	loan_letters	B0|B1|B3
+09285254-n|үзінді	dict|llm	lookalike_fixed	B0|B1|B2|B3
+09285254-n|сынық	llm		B2
+09285254-n|жарқыншақ	llm		B2
+09285254-n|үзік	dict		B0|B1
+09285254-n|бөлшек	llm		B2
+09774266-n|кеңесуші	llm		B2
+09774266-n|кеңесші	dict|llm|mt		B0|B1|B2|B3
+09774266-n|консультант	llm	loan_letters	B2
+09774266-n|кеңесгер	llm		B2
+09876701-n|аға	mt		B1
+09876701-n|бауыр	llm		B2
+09923673-n|бұқара	llm		B2
+09923673-n|азамат	dict|llm|mt		B0|B1|B2|B3
+09960117-n|дәнекер	llm		B2
+09960117-n|делдал	llm|mt		B1|B2|B3
+09960117-n|байланыс	mt		B1
+10208583-n|инсайдер	llm|mt		B1|B2|B3
+10464711-n|предшественник	llm|mt	loan_letters	B1|B2|B3
+10464711-n|алдыңғы	llm		B2
+10464711-n|өзінен бұрынғы	llm	multiword	B2
+10628644-n|патша	dict|llm		B0|B1|B2|B3
+10628644-n|монарх	dict|llm|mt		B0|B1|B2|B3
+10628644-n|тәж киген басшы	mt	multiword	B1
+10628644-n|егемен	mt		B1
+10628644-n|хан	llm		B2
+11502497-n|қысқа мерзімді жауын	llm	multiword	B2
+11502497-n|жауын-шашын	llm		B2
+11502497-n|душ	dict		B0|B1
+11502497-n|жаңбырлы жаңбыр	mt	multiword	B1
+11502497-n|жаңбыр	mt		B1
+11502497-n|себезгі	dict		B0|B1
+11502497-n|нөсер	llm		B2
+13323749-n|жол ақысы	llm|mt	multiword	B1|B2|B3
+13323749-n|алым	llm		B2
+13323749-n|өткел ақысы	llm	multiword	B2
+13381145-n|салым	llm		B2
+13381145-n|депозит	dict|llm|mt		B0|B1|B2|B3
+13381145-n|банктік депозит	mt	multiword	B1
+13381145-n|банк салымы	llm	multiword	B2
+13563746-n|табиғи таңдау	llm	multiword	B2
+13563746-n|табиғи сұрыпталу	llm|mt	multiword	B1|B2|B3
+13563746-n|өмір сүру	mt	multiword	B1
+13563746-n|қозғаушы сұрыпталу	dict	multiword	B0|B1
+13563746-n|селекция	mt	loan_letters	B1
+13971901-n|бәтуаластық	dict		B0|B1
+13971901-n|бірауыздылық	llm		B2
+13971901-n|бәтуа	dict		B0|B1
+13971901-n|пәтуаластық	dict		B0|B1
+13971901-n|пәтуа	dict		B0|B1
+13971901-n|пікірлестік	llm		B2
+13971901-n|консенсус	llm|mt		B1|B2|B3
+14002279-n|салмақ	llm		B2
+14002279-n|тепе-теңдік	llm|mt		B1|B2|B3
+14002279-n|теңгерім	llm		B2
+14002279-n|тепе-тең күй	llm	multiword	B2
+14462946-n|әлсіздік	llm|mt		B1|B2|B3
+14462946-n|кемшілік	llm		B2
+14462946-n|кем-кетік	llm		B2
+14462946-n|сәтсіздік	mt		B1
+14462946-n|олқылық	llm		B2
+14479615-n|штат	dict		B0|B1
+14479615-n|мемлекет	dict		B0|B1
+14479615-n|заттың агрегаттық күйі	dict	multiword	B0|B1
+14479615-n|агрегаттық күй	llm	multiword	B2
+14479615-n|материяның күйі	mt	multiword	B1
+14479615-n|жағдай	dict		B0|B1
+14479615-n|күй	llm|mt		B1|B2|B3
+14479615-n|дәулет	dict		B0|B1
+15205532-n|жүзжылдық	llm		B2
+15205532-n|ғасыр	dict|llm|mt		B0|B1|B2|B3
+15270245-n|слот	llm|mt		B1|B2|B3
+15270245-n|уақыт аралығы	mt	multiword	B1
